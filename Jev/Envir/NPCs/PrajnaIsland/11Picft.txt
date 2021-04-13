@@ -1,0 +1,26 @@
+[@MAIN]
+#SAY
+I am craft lady, specialized in the creation of new items.
+I have been sent here to check the living conditions of people.
+Unfortunately, it seems that many people are still suffering from
+poverty. So, I would like to help them with my making skills.
+If you also want anything to be made, you may as well ask me.
+<Crafting/@Craft>
+
+[@Craft]
+SunPotion
+
+[@BuySell]
+#SAY
+Please select the Recipe you either want to Buy or Sell.
+<Buy Back/@BuyBack>
+
+[RECIPE]
+SunPotion
+BraveryOrb
+MagicOrb
+SoulOrb
+
+[Quests]
+34
+134
