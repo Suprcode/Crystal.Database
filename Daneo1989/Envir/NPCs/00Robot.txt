@@ -1,0 +1,19 @@
+[@_TIME(8,#,#,#,#)]
+#ACT
+GLOBALMESSAGE "I get called in august" System
+ 
+[@_TIME(#,13,#,#,#)]
+#ACT
+GLOBALMESSAGE "I get called at day 13" System
+ 
+[@_TIME(#,#,12,#,#)]
+#ACT
+GLOBALMESSAGE "I get called at 12PM" System
+ 
+[@_TIME(#,#,#,17,#)]
+#ACT
+GLOBALMESSAGE "I get called at 17 minute" System
+ 
+[@_TIME(#,#,#,#,Thursday)]
+#ACT
+GLOBALMESSAGE "I get called on Thursday" System

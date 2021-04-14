@@ -1,0 +1,29 @@
+;; Guard Rental
+[@_CUSTOMCOMMAND(GuardsHelp)]
+#INCLUDE [SystemScripts\00Default\GuardsHelp.txt] @Main
+
+;;Mysterious Stone.
+
+[@_CUSTOMCOMMAND(MysteriousStoneON)]
+#IF
+CHECKITEM MysteriousStone
+#ACT
+GIVEBUFF Exp 0 30 TRUE
+LocalMessage "Experience Increased by 30%" Hint
+#ELSEACT
+LocalMessage "You don't have Mysterious Stone!" Hint
+
+[@_CUSTOMCOMMAND(MysteriousStoneOFF)]
+#IF
+CHECKITEM MysteriousStone
+#ACT
+REMOVEBUFF Exp
+LocalMessage "Additional Experience has been removed." Hint
+#ELSEACT
+LocalMessage "You don't have Mysterious Stone!" Hint
+
+
+;;PKPoint Command.
+[@_CUSTOMCOMMAND(PKPOINT)]
+#ACT
+LocalMessage "You current have <$PKPOINT> PK Points." Hint

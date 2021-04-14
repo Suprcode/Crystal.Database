@@ -1,0 +1,86 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+I will not help an evil person like you...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+Hello I'm Edwin, the wandering warrior.
+I transport men and goods to other places fast and safe. 
+Just pay the fee then ill escort you to anywhere.
+So what do you say?
+ 
+I'll use this <Service/@tele>
+Maybe next <Time/@exit> 
+
+[@tele]
+#SAY
+Which place would you like to go?
+ 
+Teleport to: <CastleBichon/@move3> {(2000 Gold)/GOLD}
+Teleport to: <BorderVillage/@move1> {(2000 Gold)/GOLD}
+Teleport to: <SerpentValley/@move2> {(1000 Gold)/GOLD}
+Teleport to: <TaoistSchool/@move4> {(4000 Gold)/GOLD}
+Teleport to: <CastleGi-Ryoong/@move5> {(3000 Gold)/GOLD}
+Teleport to: <Maybe next time/@exit>
+
+[@move1]
+#IF
+CHECKGOLD > 2000
+#ACT
+MOVE 0 289 617
+TAKEGOLD 2000
+#ELSEACT
+GOTO @B1
+
+[@move2]
+#IF
+CHECKGOLD > 1000
+#ACT
+MOVE 2 500 485
+TAKEGOLD 1000
+#ELSEACT
+GOTO @B1
+
+[@move3]
+#IF
+CHECKGOLD > 2000
+#ACT
+MOVE 0 296 221
+TAKEGOLD 2000
+#ELSEACT
+GOTO @B1
+
+[@move4]
+#IF
+CHECKGOLD > 4000
+#ACT
+MOVE 11 164 337
+TAKEGOLD 4000
+#ELSEACT
+GOTO @B1
+
+[@move5]
+#IF
+CHECKGOLD > 3000
+#ACT
+MOVE 4 264 257
+TAKEGOLD 3000
+#ELSEACT
+GOTO @B1
+
+[@B1]
+#SAY
+You don't have enough {Gold/Gold} to use my service!
+Be gone, don't waste my time again!
+ 
+<Close/@exit>
+
+[Quests]
+-102

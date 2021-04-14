@@ -1,0 +1,186 @@
+[@Main]
+To teleport back to this map: {@MOVE R001 100 100/LimeGreen}
+Tip: {@observer/LIMEGREEN} if you want to be invisible to other players.
+ 
+Teleport to <Town/@TeleTownMain> , <Dungeon Entrance/@TeleDungeonEntranceMain> , <Dungeon Boss/@TeleDungeonBossMain>
+Teleport to <Contest Room/@ContestRoom> , <Prison/@Prison> , <Ghoul Cave/@GhoulCave> , <Mystery Cave/@MysteryCave>
+ 
+Menu: <Exit/@Exit>
+
+[@TeleTownMain]
+ 
+<Bichon Province/@TeleBichonProvince> , <Border Village/@TeleBorderVillage> , <Woomyon Woods/@TeleWoomyonWoods> , <Serpent Valley/@TeleSerpentValley>
+<Mongcon Province/@TeleMongconProvince> , <Sabuk Wall/@TeleSabukWall> , <Castle Gi-Ryoong/@TeleCastleGiRyoong> , <Prajna Island/@TelePrajnaIsland>
+<Past Bichon/@TelePastBichon> , <Tao Village/@TeleTaoVillage> , <Waste Land/@TeleWasteLand> , <Seokcho Valley/@TeleSeokchoValley> , <White Village/@TeleWhiteVillage>
+ 
+ 
+Menu: <Main Menu/@Main> - <Exit/@Exit>
+
+
+[@TeleDungeonEntranceMain]
+ 
+<Oma Cave/@OmaCave> , <Insect Cave/@InsectCave> , <Wooma Temple/@WoomaTemple> , <Dead Mine/@DeadMine> , <Fox Cave/@FoxCave>
+<Zuma Temple/@ZumaTemple> , <Bug Cave/@BugCave> , <Stone Temple/@StoneTemple> , <Forgoten City/@ForgotenCity> , <Red Valley/@RedValley>
+<Mineral Mine/@MineralMine> , <Hell Cavern/@HellCavern> , <Red Cavern/@RedCavern> , <Prajna Temple/@PrajnaTemple>
+<Prajna Stone Cave/@PrajnaStoneCave> , <Black Dragon Dungeon/@BlackDragonDungeon> , <Dragon Swamp/@DragonSwamp>
+ 
+Menu: <Main Menu/@Main> - <Exit/@Exit>
+
+
+[@TeleDungeonBossMain]
+Tip: {@gamemaster/LimeGreen} before you move.
+ 
+<Oma King Spirit/@OmaKingSpirit> , <Evil Centipede/@EvilCentipede> , <Evil Snake/@EvilSnake> , <Zuma Taurus/@ZumaTaurus>
+<Great Fox Spirit/@GreatFoxSpirit> , <Wooma Taurus/@WoomaTaurus> , <King Scorpion/@KingScorpion> , <King Hog/@KingHog>
+<Dark Devil/@DarkDevil> , <Red Moon Evil/@RedMoonEvil> , <Minotaur King/@MinotaurKing>
+ 
+Menu: <Main Menu/@Main> - <Exit/@Exit>
+
+
+[@ContestRoom]
+#ACT
+MOVE 0139 17 22
+[@Prison]
+#ACT
+MOVE 0127 8 11
+[@GhoulCave]
+#ACT
+MOVE Q004 21 12
+[@MysteryCave]
+#ACT
+MOVE M001 395 196
+
+
+[@TeleBichonProvince]
+#ACT
+MOVE 0 329 270
+[@TeleBorderVillage]
+#ACT
+MOVE 0 288 616
+[@TeleWoomyonWoods]
+#ACT
+MOVE 1 315 82
+[@TeleSerpentValley]
+#ACT
+MOVE 2 503 483
+[@TeleMongconProvince]
+#ACT
+MOVE 3 330 330
+[@TeleSabukWall]
+#ACT
+MOVE 3 652 298
+[@TeleCastleGiRyoong]
+#ACT
+MOVE 4 229 205
+[@TelePrajnaIsland]
+#ACT
+MOVE 5 140 338
+[@TelePastBichon]
+#ACT
+MOVE 6 124 157
+[@TeleTaoVillage]
+#ACT
+MOVE 11 176 327
+[@TeleWasteLand]
+#ACT
+MOVE Hell00 49 227
+[@TeleSeokchoValley]
+#ACT
+MOVE UMM 131 179
+[@TeleWhiteVillage]
+#ACT
+MOVE WhiteVillage 295 255
+[@TeleCastleRuins]
+#ACT
+MOVE NAMMAN2 202 156
+[@TeleForgottenCity]
+#ACT
+MOVE morae 318 75
+
+
+[@OmaCave]
+#ACT
+MOVE 0 140 40
+[@InsectCave]
+#ACT
+MOVE 1 210 521
+[@WoomaTemple]
+#ACT
+MOVE 1 85 280
+[@DeadMine]
+#ACT
+MOVE 2 560 175
+[@FoxCave]
+#ACT
+MOVE 3 654 766
+[@ZumaTemple]
+#ACT
+MOVE 3 861 176
+[@BugCave]
+#ACT
+MOVE 3 140 89
+[@StoneTemple]
+#ACT
+MOVE 3 304 325
+[@ForgotenCity]
+#ACT
+MOVE 3 416 197
+[@RedValley]
+#ACT
+MOVE 12 322 120
+[@MineralMine]
+#ACT
+MOVE 11 40 315
+[@HellCavern]
+#ACT
+MOVE Hell00 246 146
+[@RedCavern]
+#ACT
+MOVE Hell00 246 246
+[@PrajnaTemple]
+#ACT
+MOVE 5 566 422
+[@PrajnaStoneCave]
+#ACT
+MOVE 5 525 613
+[@BlackDragonDungeon]
+#ACT
+MOVE 4 57 67
+[@DragonSwamp]
+#ACT
+MOVE 4 44 208
+
+
+[@OmaKingSpirit]
+#ACT
+MOVE DM002 21 12
+[@EvilCentipede]
+#ACT
+MOVE D606 83 171
+[@EvilSnake]
+#ACT
+MOVE D717 26 74
+[@ZumaTaurus]
+#ACT
+MOVE D515 14 29
+[@GreatFoxSpirit]
+#ACT
+MOVE FOX03 22 55
+[@WoomaTaurus]
+#ACT
+MOVE D024 48 50
+[@KingScorpion]
+#ACT
+MOVE D2002 13 25
+[@KingHog]
+#ACT
+MOVE D2008 81 80
+[@DarkDevil]
+#ACT
+MOVE D2013 23 24
+[@RedMoonEvil]
+#ACT
+MOVE D10062 21 21
+[@MinotaurKing]
+#ACT
+MOVE D2079 47 51

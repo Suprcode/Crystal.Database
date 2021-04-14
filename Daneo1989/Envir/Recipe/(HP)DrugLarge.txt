@@ -1,0 +1,11 @@
+[Recipe]
+Amount 10
+Chance 80
+Gold 100
+
+[Tools]
+
+
+[Ingredients]
+BlackThread 3
+LargeBone 1

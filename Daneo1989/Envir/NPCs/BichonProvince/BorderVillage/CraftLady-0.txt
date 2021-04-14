@@ -1,0 +1,13 @@
+[@main]
+#SAY
+{Hello <$USERNAME> and Welcome/Orange}
+
+<Craft/@Craft>
+<Exit/@Close>
+
+[@Craft]
+#SAY
+What do you want to craft?
+
+[Recipe]
+(HP)DrugLarge
