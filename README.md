@@ -1,4 +1,4 @@
-# mir2-database
+# Crystal Mir 2 Databases
 
 This Repo contains multiple Databases to Crystal Mir 2 
 Each folder contains a different Database.
