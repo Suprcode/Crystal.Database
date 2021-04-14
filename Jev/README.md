@@ -10,11 +10,9 @@ These will include fixes to allow anyone to start a new server up quicker.
 
 
 *LATEST* 
-12/04/21    https://imgur.com/a/OEeuISn
+14/04/21
 
--More Recipes have been added.
--CraftingBook requirement to craft certain items added.
--All Crafting NPC's have the correct script.
+-Various Movement fixes
 
 
 27/01/21
@@ -82,3 +80,7 @@ HellKnight2/HellKnight3/HellKnight4/HellBomb1/HellBomb2/HellBomb3
 -More Recipes have been added.
 -CraftingBook requirement to craft certain items added.
 -All Crafting NPC's have the correct script.
+
+14/04/21
+
+-Various Movement fixes
