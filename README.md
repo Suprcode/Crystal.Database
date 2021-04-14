@@ -11,7 +11,7 @@ How to use;
 
 3: Download preffered database from the appropriate folder
 
-3: Drag and drop all new files into the Server Folder replacing them with the new database.
+4: Drag and drop all new files into the Server Folder replacing them with the new database.
 
 
 Contributors -> https://github.com/Suprcode/mir2-database/graphs/contributors
