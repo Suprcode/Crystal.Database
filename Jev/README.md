@@ -10,9 +10,40 @@ These will include fixes to allow anyone to start a new server up quicker.
 
 
 *LATEST* 
-14/04/21
+15/04/21
 
--Various Movement fixes
+-Added Stats and correct AI's to the following mobs
+
+Armadillo /
+ArmadilloElder /
+VisceralWorm2
+SandSnail /
+CannibalTentacles /
+Tucson /
+TucsonFighter /
+TucsonMage /
+TucsonWarrior /
+GeneralTucson /
+FrozenSolider /
+FrozenFighter /
+FrozenArcher /
+FrozenKnight /
+FrozenGolem /
+IcePhantom /
+SnowWolf /
+FrozenWarewolf /
+FrozenMiner /
+FrozenAxeman /
+FrozenMagician / 
+SnowYeti /
+IceCrystalSolider /
+DarkWraith /
+DarkSpirit /
+HellBomb1 /
+HellKnight1 /
+RestlessJar /
+Jar1 /
+Jar2 /
 
 
 27/01/21
@@ -83,4 +114,39 @@ HellKnight2/HellKnight3/HellKnight4/HellBomb1/HellBomb2/HellBomb3
 
 14/04/21
 
--Various Movement fixes
+-Various Movement fixes.
+
+15/04/21
+
+-Added Stats and correct AI's to the following mobs
+
+Armadillo /
+ArmadilloElder /
+VisceralWorm2
+SandSnail /
+CannibalTentacles /
+Tucson /
+TucsonFighter /
+TucsonMage /
+TucsonWarrior /
+GeneralTucson /
+FrozenSolider /
+FrozenFighter /
+FrozenArcher /
+FrozenKnight /
+FrozenGolem /
+IcePhantom /
+SnowWolf /
+FrozenWarewolf /
+FrozenMiner /
+FrozenAxeman /
+FrozenMagician / 
+SnowYeti /
+IceCrystalSolider /
+DarkWraith /
+DarkSpirit /
+HellBomb1 /
+HellKnight1 /
+RestlessJar /
+Jar1 /
+Jar2 /
