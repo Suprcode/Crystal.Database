@@ -1,9 +1,4 @@
 # JevsUpdatedCrystalDatabase
- 
-
-
-I will be releasing updates to the Database released by Supercode.
-These will include fixes to allow anyone to start a new server up quicker.
 
 
 -Patch Notes
