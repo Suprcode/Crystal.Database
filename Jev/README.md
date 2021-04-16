@@ -39,6 +39,12 @@ HellKnight3 /
 HellKnight4 /
 HellDestroyer /
 
+-Added Repsawns & Movements & Attributes to the following maps;
+
+IceHellCavern /
+IceHellTemple(S) /
+IceHellTemple_KR /
+
 
 27/01/21
 
