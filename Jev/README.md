@@ -150,3 +150,44 @@ HellKnight1 /
 RestlessJar /
 Jar1 /
 Jar2 /
+
+
+16/04/21
+
+-Added Stats and correct AI's to the following mobs
+
+TurtleGrass /
+Minion_Warrior
+Minion_Warlock
+Minion_Priest
+Minion_Rouge
+Chieftain_Warrior /
+Chieftain_Warlock /
+Chieftain_Priest /
+Chieftain_Rouge /
+Chieftain_Archer /
+Master_DragonYang /
+FightingCat /
+FireCat /
+CatWidow /
+StainHammerCat /
+BlackHammerCat /
+StrayCat /
+CatShaman /
+SeedingsGeneral /
+GeneralJinmYo /
+SinseokMiner /
+HellBomb1 /
+HellBomb2 /
+HellBomb3 /
+HellKnight1 /
+HellKnight2 /
+HellKnight3 /
+HellKnight4 /
+HellDestroyer /
+
+-Added Repsawns & Movements & Attributes to the following maps;
+
+IceHellCavern /
+IceHellTemple(S) /
+IceHellTemple_KR /
