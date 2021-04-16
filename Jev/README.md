@@ -10,40 +10,39 @@ These will include fixes to allow anyone to start a new server up quicker.
 
 
 *LATEST* 
-15/04/21
+16/04/21
 
 -Added Stats and correct AI's to the following mobs
 
-Armadillo /
-ArmadilloElder /
-VisceralWorm2
-SandSnail /
-CannibalTentacles /
-Tucson /
-TucsonFighter /
-TucsonMage /
-TucsonWarrior /
-GeneralTucson /
-FrozenSolider /
-FrozenFighter /
-FrozenArcher /
-FrozenKnight /
-FrozenGolem /
-IcePhantom /
-SnowWolf /
-FrozenWarewolf /
-FrozenMiner /
-FrozenAxeman /
-FrozenMagician / 
-SnowYeti /
-IceCrystalSolider /
-DarkWraith /
-DarkSpirit /
+TurtleGrass /
+Minion_Warrior
+Minion_Warlock
+Minion_Priest
+Minion_Rouge
+Chieftain_Warrior /
+Chieftain_Warlock /
+Chieftain_Priest /
+Chieftain_Rouge /
+Chieftain_Archer /
+Master_DragonYang /
+FightingCat /
+FireCat /
+CatWidow /
+StainHammerCat /
+BlackHammerCat /
+StrayCat /
+CatShaman /
+SeedingsGeneral /
+GeneralJinmYo /
+SinseokMiner /
 HellBomb1 /
+HellBomb2 /
+HellBomb3 /
 HellKnight1 /
-RestlessJar /
-Jar1 /
-Jar2 /
+HellKnight2 /
+HellKnight3 /
+HellKnight4 /
+HellDestroyer /
 
 
 27/01/21
