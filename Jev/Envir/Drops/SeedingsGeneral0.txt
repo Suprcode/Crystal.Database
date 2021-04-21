@@ -1,0 +1,63 @@
+;Gold
+1/2 Gold 25000
+
+;Pots + Other
+1/1 (HP)DrugXL
+1/1 (MP)DrugXL
+1/1 (HP)DrugXL
+1/1 (MP)DrugXL
+1/1 (Hp)Booster
+1/1 (Mp)Booster
+1/1 (Hp)Booster
+1/1 (Mp)Booster
+1/1 RegenPotion
+1/1 RegenPotion
+
+
+1/10 AwakeningBox
+1/10 FortuneBoxRune
+
+;Weapons
+
+
+;Armour
+
+
+;Helmets
+
+
+;Necklace
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stone
+
+
+;Books
+
+
+;CraftingMaterials
+1/1 ArtifactToken
+
+;Quests
+

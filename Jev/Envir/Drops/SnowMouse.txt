@@ -1,0 +1,25 @@
+;Gold 
+1/10 Gold 2500
+
+;Potions
+1/15 (Hp)Booster
+1/15 (Mp)Booster
+1/15 (Hp)Booster
+1/15 (Mp)Booster
+
+
+;Armours
+
+;Rings
+
+;Bracelets
+
+;Necklaces
+
+;Stones
+
+;Crafting Material
+
+;Books
+
+;Other

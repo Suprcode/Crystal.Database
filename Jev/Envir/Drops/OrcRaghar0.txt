@@ -1,0 +1,22 @@
+;Gold
+1/1 Gold 25000
+
+;Pots + Other
+1/1 (Mp)Booster
+1/1 (Hp)Booster
+1/1 (Mp)Booster
+1/1 (Hp)Booster
+1/1 (Mp)Booster
+1/1 (Hp)Booster
+1/1 RegenPotion
+1/1 RegenPotion
+1/1 RegenPotion
+1/1 BenedictionOil
+1/10 GoldenBenedictionOil
+
+
+1/10 FortuneBoxRune
+1/20 AwakeningBox
+
+;Quests
+1/1 OrcCombsMap Q

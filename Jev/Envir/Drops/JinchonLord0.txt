@@ -1,0 +1,70 @@
+;Gold
+1/1 Gold 30000
+1/20 GoldBar
+
+;Pots + Other
+1/1 (Hp)Booster
+1/1 (Hp)Booster
+1/1 (Hp)Booster
+1/1 (Mp)Booster
+1/1 (Mp)Booster
+1/1 (Mp)Booster
+1/1 (Hp)Booster
+1/2 (Hp)Booster
+1/1 (Mp)Booster
+1/2 (Mp)Booster
+1/1 RegenPotion
+1/3 RegenPotion
+
+1/1 BenedictionOil
+1/10 GoldenBenedictionOil
+
+1/2 AwakeningBox
+1/2 FortuneBoxRune
+
+
+
+;Weapons
+
+
+;Armour
+
+
+;Helmets
+
+
+;Necklace
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stone
+
+
+;Books
+
+
+;CraftingMaterials
+
+
+;Quests
+

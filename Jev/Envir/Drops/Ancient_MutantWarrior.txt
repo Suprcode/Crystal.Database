@@ -1,0 +1,10 @@
+;Gold
+1/5 Gold 1500
+
+;Potions
+
+1/8 (Hp)Booster
+1/8 (Mp)Booster
+
+;Nothing
+1/20 LunarPiece
