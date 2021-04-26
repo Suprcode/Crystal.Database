@@ -20,5 +20,5 @@ LOMCN -> https://www.lomcn.org/
 
 # Current Databases
 
-- Jev (Actively updated)
-- Daneo1989 (No longer updated)
+- Jev 23/07/20 - Present (Actively updated)
+- Daneo1989 27/11/14 - 31/10/15 (No longer updated)
