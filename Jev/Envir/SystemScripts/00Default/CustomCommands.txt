@@ -32,3 +32,9 @@ LocalMessage "You current have <$PKPOINT> PK Points." Hint
 [@_CUSTOMCOMMAND(HOME)]
 #ACT
 MOVE n0 328 264
+
+;;Kill Pets Command
+[@_CustomCommand(KillPets)]
+#ACT
+CLEARPETS
+LocalMessage "Your Pets have been Forcefully Removed."
