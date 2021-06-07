@@ -5,19 +5,11 @@
 
 
 *LATEST* 
-21/04/21
+07/06/21
 
--Changed BW GroceryStore name to AccessoryStore
--Various Movement fixes
-
--Added Movements & Spawns for the following maps;
-IceHellCavern/
-IceHellTemple(S)/
-IceHellTemple_KR
-
--Added 443 Drop files.
-
-
+-Adjustecd Attritubes of BDD & WhiteDragonPassage.
+-Added CastleGi-Ryoong respawns.
+-CastleGi-Ryoong guards changed from Guard to Guard1
 
 27/01/21
 
@@ -176,3 +168,9 @@ IceHellTemple(S)/
 IceHellTemple_KR
 
 -Added 443 Drop files.
+
+07/06/21
+
+-Adjustecd Attritubes of BDD & WhiteDragonPassage.
+-Added CastleGi-Ryoong respawns.
+-CastleGi-Ryoong guards changed from Guard to Guard1
