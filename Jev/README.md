@@ -8,7 +8,9 @@
 07/06/21
 
 -Adjustecd Attritubes of BDD & WhiteDragonPassage.
+
 -Added CastleGi-Ryoong respawns.
+
 -CastleGi-Ryoong guards changed from Guard to Guard1
 
 27/01/21
