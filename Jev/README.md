@@ -5,13 +5,11 @@
 
 
 *LATEST* 
-07/06/21
-
--Adjustecd Attritubes of BDD & WhiteDragonPassage.
-
--Added CastleGi-Ryoong respawns.
-
--CastleGi-Ryoong guards changed from Guard to Guard1
+21/06/21
+-Added Hydrax (Stats to come)
+-Added HornedSorceror (Stats to come)
+-Added BoulderSpirit (Stats to come)
+-Removed (HP)Booster&(MP)Booster from drops.
 
 27/01/21
 
@@ -176,3 +174,9 @@ IceHellTemple_KR
 -Adjustecd Attritubes of BDD & WhiteDragonPassage.
 -Added CastleGi-Ryoong respawns.
 -CastleGi-Ryoong guards changed from Guard to Guard1
+
+21/06/21
+-Added Hydrax (Stats to come)
+-Added HornedSorceror (Stats to come)
+-Added BoulderSpirit (Stats to come)
+-Removed (HP)Booster&(MP)Booster from drops.
