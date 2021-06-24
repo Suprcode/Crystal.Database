@@ -1,0 +1,13 @@
+;Gold
+1/5 Gold 1650
+
+;Potions
+1/5 (HP)DrugXL
+1/5 (MP)DrugXL
+1/10 (Hp)Booster
+1/10 (Mp)Booster
+
+
+1/45100 FrozenSabre
+1/55250 BlackTigerHammer
+1/55550 BarbarianSword
