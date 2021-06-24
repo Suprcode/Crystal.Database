@@ -20,6 +20,9 @@ How to use;
 
 - Jev 23/07/20 - Present (Actively updated)
 - Daneo1989 27/11/14 - 31/10/15 (No longer updated)
+- Jev W/O Archers 21/06/21 - Present (Actively updated)
+- Jev W/O Archers & Assassins 21/06/21 - Present (Actively updated)
+- Jev W/O Assassins 21/06/21 - Present (Actively updated)
 
 # Useful Links
 
