@@ -1,0 +1,5 @@
+;Potions
+1/5 (Hp)Booster
+1/5 (Mp)Booster
+1/5 (Hp)Booster
+1/5 (Mp)Booster
