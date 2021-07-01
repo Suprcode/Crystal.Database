@@ -5,11 +5,16 @@
 
 
 *LATEST* 
-21/06/21
--Added Hydrax (Stats to come)
--Added HornedSorceror (Stats to come)
--Added BoulderSpirit (Stats to come)
--Removed (HP)Booster&(MP)Booster from drops.
+1/7/21
+
+-Added the following mobs with correct images (Stats to be added for all)
+
+-HornedSorceror
+-HornedArcher
+-HornedCommander
+-HornedMage
+-HornedWarrior
+-BoulderSpirit
 
 27/01/21
 
@@ -180,3 +185,14 @@ IceHellTemple_KR
 -Added HornedSorceror (Stats to come)
 -Added BoulderSpirit (Stats to come)
 -Removed (HP)Booster&(MP)Booster from drops.
+
+1/7/21
+
+-Added the following mobs with correct images (Stats to be added for all)
+
+-HornedSorceror
+-HornedArcher
+-HornedCommander
+-HornedMage
+-HornedWarrior
+-BoulderSpirit
