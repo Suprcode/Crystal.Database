@@ -12,7 +12,6 @@
 1/1 RegenPotion
 1/1 RegenPotion
 1/1 BenedictionOil
-
 1/10 FortuneBoxRune
 1/10 AwakeningBox
 
