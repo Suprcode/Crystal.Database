@@ -24,7 +24,7 @@
 1/2 BenedictionOil LV1
 
 
-1/20 FortuneBoxRune LV1
+1/20 AwakeningSoul0 LV1
 
 ;Weapons
 1/900 DragonSlayer LV1
@@ -222,7 +222,7 @@
 1/2 BenedictionOil LV2
 
 
-1/20 FortuneBoxRune LV2
+1/20 AwakeningSoul0 LV2
 
 ;Weapons
 1/900 DragonSlayer LV2
@@ -411,7 +411,7 @@
 1/2 BenedictionOil LV3
 
 
-1/20 FortuneBoxRune LV3
+1/20 AwakeningSoul0 LV3
 
 ;Weapons
 1/900 DragonSlayer LV3
@@ -600,7 +600,7 @@
 1/2 BenedictionOil LV4
 
 
-1/20 FortuneBoxRune LV4
+1/20 AwakeningSoul0 LV4
 
 ;Weapons
 1/900 DragonSlayer LV4
@@ -789,7 +789,7 @@
 1/2 BenedictionOil LV5
 
 
-1/20 FortuneBoxRune LV5
+1/20 AwakeningSoul0 LV5
 
 ;Weapons
 1/900 DragonSlayer LV5
@@ -978,7 +978,7 @@
 1/2 BenedictionOil LV6
 
 
-1/20 FortuneBoxRune LV6
+1/20 AwakeningSoul0 LV6
 
 ;Weapons
 1/900 DragonSlayer LV6
@@ -1167,7 +1167,7 @@
 1/2 BenedictionOil LV7
 
 
-1/20 FortuneBoxRune LV7
+1/20 AwakeningSoul0 LV7
 
 ;Weapons
 1/900 DragonSlayer LV7
@@ -1355,7 +1355,7 @@
 1/2 BenedictionOil LV8
 
 
-1/20 FortuneBoxRune LV8
+1/20 AwakeningSoul0 LV8
 
 ;Weapons
 1/900 DragonSlayer LV8

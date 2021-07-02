@@ -9,20 +9,20 @@
 1/2 SunPotion 
 1/1 SunPotion(M) 
 1/2 SunPotion(M) 
-1/1 (Hp)Booster 
-1/1 (Hp)Booster 
-1/1 (Hp)Booster 
-1/1 (Mp)Booster 
-1/1 (Mp)Booster 
-1/1 (Mp)Booster 
-1/1 RegenPotion 
-1/2 RegenPotion 
+1/1 SunPotion 
+1/1 SunPotion 
+1/1 SunPotion 
+1/1 SunPotion 
+1/1 SunPotion 
+1/1 SunPotion 
+1/1 SunPotion 
+1/2 SunPotion 
 
 1/1 BenedictionOil 
 
 
 1/1 Awakeningbox 
-1/1 FortuneBoxRune 
+1/1 AwakeningSoul0 
 
 ;Weapons
 1/50 FrozenSabre 
@@ -59,8 +59,8 @@
 1/700 HeavenArmour(F) 
 1/700 HeavenArcheyRobe(M)
 1/700 HeavenArcheyRobe(F)
-1/750 HeavenBlkArmour(M) 
-1/750 HeavenBlkArmour(F) 
+1/750 HeavenArmour(M) 
+1/750 HeavenArmour(F) 
 1/750 HeavenRedArmour(M) 
 1/750 HeavenRedArmour(F) 
 1/750 HeavenGrnArmour(M) 

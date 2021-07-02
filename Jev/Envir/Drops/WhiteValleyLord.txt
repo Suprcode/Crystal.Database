@@ -3,16 +3,16 @@
 1/10 GoldBar
 
 ;Pots + Other
-1/1 (Hp)Booster
-1/1 (Hp)Booster
-1/1 (Hp)Booster
-1/1 (Hp)Booster
-1/2 (Hp)Booster
-1/2 (Mp)Booster
-1/2 (Mp)Booster
-1/2 (Mp)Booster
-1/2 (Mp)Booster
-1/2 (Mp)Booster
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/2 SunPotion
+1/2 SunPotion
+1/2 SunPotion
+1/2 SunPotion
+1/2 SunPotion
+1/2 SunPotion
 1/1 (HP)DrugXL
 1/1 (MP)DrugXL
 1/1 (HP)DrugXL
@@ -21,21 +21,21 @@
 1/2 (MP)DrugXL
 1/2 (HP)DrugXL
 1/2 (MP)DrugXL
-1/1 RegenPotion 
-1/1 RegenPotion  
-1/2 RegenPotion  
-1/2 RegenPotion  
-1/2 RegenPotion  
-1/2 RegenPotion  
-1/2 RegenPotion  
+1/1 SunPotion 
+1/1 SunPotion  
+1/2 SunPotion  
+1/2 SunPotion  
+1/2 SunPotion  
+1/2 SunPotion  
+1/2 SunPotion  
 
 1/1  BenedictionOil
 1/10 GoldenBenedictionOil
 
 
 
-1/15 AwakeningBox
-1/15 FortuneBoxRune
+1/15 AwakeningSoul0
+1/15 AwakeningSoul0
 
 ;Weapons
 1/400 FrozenSabre

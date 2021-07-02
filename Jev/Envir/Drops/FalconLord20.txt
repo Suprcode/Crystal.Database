@@ -185,7 +185,7 @@
 
 
 ;Other
-1/25 FortuneBoxRune LV1
+1/25 AwakeningSoul0 LV1
 
 ;level2
 ;Gold
@@ -367,7 +367,7 @@
 
 
 ;Other
-1/25 FortuneBoxRune LV2
+1/25 AwakeningSoul0 LV2
 
 ;Level3
 ;Gold
@@ -549,7 +549,7 @@
 
 
 ;Other
-1/25 FortuneBoxRune LV3
+1/25 AwakeningSoul0 LV3
 
 ;Level4
 ;Gold
@@ -731,7 +731,7 @@
 
 
 ;Other
-1/25 FortuneBoxRune LV4
+1/25 AwakeningSoul0 LV4
 
 ;Level5
 ;Gold
@@ -912,7 +912,7 @@
 
 
 ;Other
-1/25 FortuneBoxRune LV5
+1/25 AwakeningSoul0 LV5
 
 ;level6
 ;Gold
@@ -1093,7 +1093,7 @@
 
 
 ;Other
-1/25 FortuneBoxRune LV6
+1/25 AwakeningSoul0 LV6
 
 ;Level7
 ;Gold
@@ -1275,7 +1275,7 @@
 
 
 ;Other
-1/25 FortuneBoxRune LV7
+1/25 AwakeningSoul0 LV7
 
 ;Level8
 ;Gold
@@ -1457,4 +1457,4 @@
 
 
 ;Other
-1/25 FortuneBoxRune LV8
+1/25 AwakeningSoul0 LV8

@@ -16,8 +16,8 @@
 1/1 BenedictionOil
 1/2 BenedictionOil
 
-1/5 AwakeningBox
-1/10 FortuneBoxRune
+1/5 AwakeningSoul0
+1/10 AwakeningSoul0
 
 
 ;Quests

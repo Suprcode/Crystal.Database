@@ -27,8 +27,8 @@
 ;Other 
 1/15 BenedictionOil LV1
 
-1/40 AwakeningBox LV1
-1/40 FortuneBoxRune LV1
+1/40 AwakeningSoul0 LV1
+1/40 AwakeningSoul0 LV1
 
 
 ;Weapons
@@ -168,8 +168,8 @@
 ;Other 
 1/15 BenedictionOil LV2
 
-1/40 AwakeningBox LV2
-1/40 FortuneBoxRune LV2
+1/40 AwakeningSoul0 LV2
+1/40 AwakeningSoul0 LV2
 
 
 ;Weapons
@@ -308,8 +308,8 @@
 ;Other 
 1/15 BenedictionOil LV3
 
-1/40 AwakeningBox LV3
-1/40 FortuneBoxRune LV3
+1/40 AwakeningSoul0 LV3
+1/40 AwakeningSoul0 LV3
 
 
 ;Weapons
@@ -449,8 +449,8 @@
 ;Other 
 1/15 BenedictionOil LV4
 
-1/40 AwakeningBox LV4
-1/40 FortuneBoxRune LV4
+1/40 AwakeningSoul0 LV4
+1/40 AwakeningSoul0 LV4
 
 
 ;Weapons
@@ -589,8 +589,8 @@
 ;Other 
 1/15 BenedictionOil LV5
 
-1/40 AwakeningBox LV5
-1/40 FortuneBoxRune LV5
+1/40 AwakeningSoul0 LV5
+1/40 AwakeningSoul0 LV5
 
 
 ;Weapons
@@ -730,8 +730,8 @@
 ;Other 
 1/15 BenedictionOil LV6
 
-1/40 AwakeningBox LV6
-1/40 FortuneBoxRune LV6
+1/40 AwakeningSoul0 LV6
+1/40 AwakeningSoul0 LV6
 
 
 ;Weapons
@@ -871,8 +871,8 @@
 ;Other 
 1/15 BenedictionOil LV7
 
-1/40 AwakeningBox LV7
-1/40 FortuneBoxRune LV7
+1/40 AwakeningSoul0 LV7
+1/40 AwakeningSoul0 LV7
 
 
 ;Weapons
@@ -1011,8 +1011,8 @@
 ;Other 
 1/15 BenedictionOil LV8
 
-1/40 AwakeningBox LV8
-1/40 FortuneBoxRune LV8
+1/40 AwakeningSoul0 LV8
+1/40 AwakeningSoul0 LV8
 
 
 ;Weapons

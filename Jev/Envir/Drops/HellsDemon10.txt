@@ -7,7 +7,7 @@
 1/10 (HP)DrugXL
 1/10 (MP)DrugXL
 
-1/30 AwakeningBox
+1/30 AwakeningSoul0
 
 ;Weapons
 

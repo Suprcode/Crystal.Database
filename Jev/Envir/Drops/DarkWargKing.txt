@@ -3,19 +3,19 @@
 1/1 Gold 50000 LV1
 
 ;Pots + Other
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 RegenPotion LV1
-1/1 RegenPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
 1/1 BenedictionOil LV1
 1/10 GoldenBenedictionOil LV1
 
-1/5 AwakeningBox LV1
-1/10 FortuneBoxRune LV1
+1/5 AwakeningSoul0 LV1
+1/10 AwakeningSoul0 LV1
 
 
 
@@ -50,8 +50,8 @@
 1/1200 HeavenGrnArmour(F) LV1
 1/1200 HeavenRedArmour(M) LV1
 1/1200 HeavenRedArmour(F) LV1
-1/1200 HeavenBlkArmour(M) LV1
-1/1200 HeavenBlkArmour(F) LV1
+1/1200 HeavenArmour(M) LV1
+1/1200 HeavenArmour(F) LV1
 1/1200 HeavenGoldArmour(M) LV1
 1/1200 HeavenGoldArmour(F) LV1
 1/1300 WargBraveArmour(M) LV1
@@ -173,19 +173,19 @@
 1/1 Gold 50000 LV2
 
 ;Pots + Other
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 RegenPotion LV2
-1/1 RegenPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
 1/1 BenedictionOil LV2
 1/10 GoldenBenedictionOil LV2
 
-1/5 AwakeningBox LV2
-1/10 FortuneBoxRune LV2
+1/5 AwakeningSoul0 LV2
+1/10 AwakeningSoul0 LV2
 
 
 ;Weapons
@@ -219,8 +219,8 @@
 1/1200 HeavenGrnArmour(F) LV2
 1/1200 HeavenRedArmour(M) LV2
 1/1200 HeavenRedArmour(F) LV2
-1/1200 HeavenBlkArmour(M) LV2
-1/1200 HeavenBlkArmour(F) LV2
+1/1200 HeavenArmour(M) LV2
+1/1200 HeavenArmour(F) LV2
 1/1200 HeavenGoldArmour(M) LV2
 1/1200 HeavenGoldArmour(F) LV2
 1/1300 WargBraveArmour(M) LV2
@@ -341,19 +341,19 @@
 1/1 Gold 50000 LV3
 
 ;Pots + Other
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 RegenPotion LV3
-1/1 RegenPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
 1/1 BenedictionOil LV3
 1/10 GoldenBenedictionOil LV3
 
-1/5 AwakeningBox LV3
-1/10 FortuneBoxRune LV3
+1/5 AwakeningSoul0 LV3
+1/10 AwakeningSoul0 LV3
 
 
 
@@ -388,8 +388,8 @@
 1/1000 HeavenArcheyRobe(F) LV3
 1/1200 HeavenRedArmour(M) LV3
 1/1200 HeavenRedArmour(F) LV3
-1/1200 HeavenBlkArmour(M) LV3
-1/1200 HeavenBlkArmour(F) LV3
+1/1200 HeavenArmour(M) LV3
+1/1200 HeavenArmour(F) LV3
 1/1200 HeavenGoldArmour(M) LV3
 1/1200 HeavenGoldArmour(F) LV3
 1/1300 WargBraveArmour(M) LV3
@@ -511,19 +511,19 @@
 1/1 Gold 50000 LV4
 
 ;Pots + Other
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 RegenPotion LV4
-1/1 RegenPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
 1/1 BenedictionOil LV4
 1/10 GoldenBenedictionOil LV4
 
-1/5 AwakeningBox LV4
-1/10 FortuneBoxRune LV4
+1/5 AwakeningSoul0 LV4
+1/10 AwakeningSoul0 LV4
 
 
 
@@ -558,8 +558,8 @@
 1/1200 HeavenGrnArmour(F) LV4
 1/1200 HeavenRedArmour(M) LV4
 1/1200 HeavenRedArmour(F) LV4
-1/1200 HeavenBlkArmour(M) LV4
-1/1200 HeavenBlkArmour(F) LV4
+1/1200 HeavenArmour(M) LV4
+1/1200 HeavenArmour(F) LV4
 1/1200 HeavenGoldArmour(M) LV4
 1/1200 HeavenGoldArmour(F) LV4
 1/1300 WargBraveArmour(M) LV4
@@ -683,19 +683,19 @@
 1/1 Gold 50000 LV5
 
 ;Pots + Other
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 RegenPotion LV5
-1/1 RegenPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
 1/1 BenedictionOil LV5
 1/10 GoldenBenedictionOil LV5
 
-1/5 AwakeningBox LV5
-1/10 FortuneBoxRune LV5
+1/5 AwakeningSoul0 LV5
+1/10 AwakeningSoul0 LV5
 
 
 
@@ -730,8 +730,8 @@
 1/1200 HeavenGrnArmour(F) LV5
 1/1200 HeavenRedArmour(M) LV5
 1/1200 HeavenRedArmour(F) LV5
-1/1200 HeavenBlkArmour(M) LV5
-1/1200 HeavenBlkArmour(F) LV5
+1/1200 HeavenArmour(M) LV5
+1/1200 HeavenArmour(F) LV5
 1/1200 HeavenGoldArmour(M) LV5
 1/1200 HeavenGoldArmour(F) LV5
 1/1300 WargBraveArmour(M) LV5
@@ -854,19 +854,19 @@
 1/1 Gold 50000 LV6
 
 ;Pots + Other
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 RegenPotion LV6
-1/1 RegenPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
 1/1 BenedictionOil LV6
 1/10 GoldenBenedictionOil LV6
 
-1/5 AwakeningBox LV6
-1/10 FortuneBoxRune LV6
+1/5 AwakeningSoul0 LV6
+1/10 AwakeningSoul0 LV6
 
 
 
@@ -901,8 +901,8 @@
 1/1200 HeavenGrnArmour(F) LV6
 1/1200 HeavenRedArmour(M) LV6
 1/1200 HeavenRedArmour(F) LV6
-1/1200 HeavenBlkArmour(M) LV6
-1/1200 HeavenBlkArmour(F) LV6
+1/1200 HeavenArmour(M) LV6
+1/1200 HeavenArmour(F) LV6
 1/1200 HeavenGoldArmour(M) LV6
 1/1200 HeavenGoldArmour(F) LV6
 1/1300 WargBraveArmour(M) LV6
@@ -1024,19 +1024,19 @@
 1/1 Gold 50000 LV7
 
 ;Pots + Other
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 RegenPotion LV7
-1/1 RegenPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
 1/1 BenedictionOil LV7
 1/10 GoldenBenedictionOil LV7
 
-1/5 AwakeningBox LV7
-1/10 FortuneBoxRune LV7
+1/5 AwakeningSoul0 LV7
+1/10 AwakeningSoul0 LV7
 
 
 
@@ -1071,8 +1071,8 @@
 1/1200 HeavenGrnArmour(F) LV7
 1/1200 HeavenRedArmour(M) LV7
 1/1200 HeavenRedArmour(F) LV7
-1/1200 HeavenBlkArmour(M) LV7
-1/1200 HeavenBlkArmour(F) LV7
+1/1200 HeavenArmour(M) LV7
+1/1200 HeavenArmour(F) LV7
 1/1200 HeavenGoldArmour(M) LV7
 1/1200 HeavenGoldArmour(F) LV7
 1/1300 WargBraveArmour(M) LV7
@@ -1196,19 +1196,19 @@
 1/1 Gold 50000 LV8
 
 ;Pots + Other
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 RegenPotion LV8
-1/1 RegenPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
 1/1 BenedictionOil LV8
 1/10 GoldenBenedictionOil LV8
 
-1/5 AwakeningBox LV8
-1/10 FortuneBoxRune LV8
+1/5 AwakeningSoul0 LV8
+1/10 AwakeningSoul0 LV8
 
 
 
@@ -1243,8 +1243,8 @@
 1/1200 HeavenGrnArmour(F) LV8
 1/1200 HeavenRedArmour(M) LV8
 1/1200 HeavenRedArmour(F) LV8
-1/1200 HeavenBlkArmour(M) LV8
-1/1200 HeavenBlkArmour(F) LV8
+1/1200 HeavenArmour(M) LV8
+1/1200 HeavenArmour(F) LV8
 1/1200 HeavenGoldArmour(M) LV8
 1/1200 HeavenGoldArmour(F) LV8
 1/1300 WargBraveArmour(M) LV8

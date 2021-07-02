@@ -21,7 +21,7 @@
 1/25 MagicAid(L) 
 
 1/55 Awakeningbox
-1/80 FortuneBoxRune
+1/80 AwakeningSoul0
 
 ;;1/150 EasterRobe(M)[1d]
 ;;1/150 EasterRobe(F)[1d]

@@ -36,8 +36,8 @@
 
 
 
-1/20 AwakeningBox LV1
-1/20 FortuneBoxRune LV1
+1/20 AwakeningSoul0 LV1
+1/20 AwakeningSoul0 LV1
 
 ;Weapons
 ;Warrior
@@ -105,8 +105,8 @@
 1/1200 HeavenArmour(F) LV1
 1/1200 HeavenArcheyRobe(M) LV1
 1/1200 HeavenArcheyRobe(F) LV1
-1/1500 HeavenBlkArmour(M) LV1
-1/1500 HeavenBlkArmour(F) LV1
+1/1500 HeavenArmour(M) LV1
+1/1500 HeavenArmour(F) LV1
 1/1500 HeavenRedArmour(M) LV1
 1/1500 HeavenRedArmour(F) LV1
 1/1500 HeavenGrnArmour(M) LV1
@@ -384,8 +384,8 @@
 
 
 
-1/20 AwakeningBox LV2
-1/20 FortuneBoxRune LV2
+1/20 AwakeningSoul0 LV2
+1/20 AwakeningSoul0 LV2
 
 ;Weapons
 ;Warrior
@@ -453,8 +453,8 @@
 1/1200 HeavenArmour(F) LV2
 1/1200 HeavenArcheyRobe(M) LV2
 1/1200 HeavenArcheyRobe(F) LV2
-1/1500 HeavenBlkArmour(M) LV2
-1/1500 HeavenBlkArmour(F) LV2
+1/1500 HeavenArmour(M) LV2
+1/1500 HeavenArmour(F) LV2
 1/1500 HeavenRedArmour(M) LV2
 1/1500 HeavenRedArmour(F) LV2
 1/1500 HeavenGrnArmour(M) LV2
@@ -715,8 +715,8 @@
 1/100 MirKingRune LV3
 
 
-1/20 AwakeningBox LV3
-1/20 FortuneBoxRune LV3
+1/20 AwakeningSoul0 LV3
+1/20 AwakeningSoul0 LV3
 
 ;Weapons
 ;Warrior
@@ -784,8 +784,8 @@
 1/1200 HeavenArmour(F) LV3
 1/1200 HeavenArcheyRobe(M) LV3
 1/1200 HeavenArcheyRobe(F) LV3
-1/1500 HeavenBlkArmour(M) LV3
-1/1500 HeavenBlkArmour(F) LV3
+1/1500 HeavenArmour(M) LV3
+1/1500 HeavenArmour(F) LV3
 1/1500 HeavenRedArmour(M) LV3
 1/1500 HeavenRedArmour(F) LV3
 1/1500 HeavenGrnArmour(M) LV3
@@ -1047,8 +1047,8 @@
 
 
 
-1/20 AwakeningBox LV4
-1/20 FortuneBoxRune LV4
+1/20 AwakeningSoul0 LV4
+1/20 AwakeningSoul0 LV4
 
 ;Weapons
 ;Warrior
@@ -1116,8 +1116,8 @@
 1/1200 HeavenArmour(F) LV4
 1/1200 HeavenArcheyRobe(M) LV4
 1/1200 HeavenArcheyRobe(F) LV4
-1/1500 HeavenBlkArmour(M) LV4
-1/1500 HeavenBlkArmour(F) LV4
+1/1500 HeavenArmour(M) LV4
+1/1500 HeavenArmour(F) LV4
 1/1500 HeavenRedArmour(M) LV4
 1/1500 HeavenRedArmour(F) LV4
 1/1500 HeavenGrnArmour(M) LV4
@@ -1379,8 +1379,8 @@
 
 
 
-1/20 AwakeningBox LV5
-1/20 FortuneBoxRune LV5
+1/20 AwakeningSoul0 LV5
+1/20 AwakeningSoul0 LV5
 
 ;Weapons
 ;Warrior
@@ -1448,8 +1448,8 @@
 1/1200 HeavenArmour(F) LV5
 1/1200 HeavenArcheyRobe(M) LV5
 1/1200 HeavenArcheyRobe(F) LV5
-1/1500 HeavenBlkArmour(M) LV5
-1/1500 HeavenBlkArmour(F) LV5
+1/1500 HeavenArmour(M) LV5
+1/1500 HeavenArmour(F) LV5
 1/1500 HeavenRedArmour(M) LV5
 1/1500 HeavenRedArmour(F) LV5
 1/1500 HeavenGrnArmour(M) LV5
@@ -1711,8 +1711,8 @@
 
 
 
-1/20 AwakeningBox LV6
-1/20 FortuneBoxRune LV6
+1/20 AwakeningSoul0 LV6
+1/20 AwakeningSoul0 LV6
 
 ;Weapons
 ;Warrior
@@ -1780,8 +1780,8 @@
 1/1200 HeavenArmour(F) LV6
 1/1200 HeavenArcheyRobe(M) LV6
 1/1200 HeavenArcheyRobe(F) LV6
-1/1500 HeavenBlkArmour(M) LV6
-1/1500 HeavenBlkArmour(F) LV6
+1/1500 HeavenArmour(M) LV6
+1/1500 HeavenArmour(F) LV6
 1/1500 HeavenRedArmour(M) LV6
 1/1500 HeavenRedArmour(F) LV6
 1/1500 HeavenGrnArmour(M) LV6
@@ -2043,8 +2043,8 @@
 
 
 
-1/20 AwakeningBox LV7
-1/20 FortuneBoxRune LV7
+1/20 AwakeningSoul0 LV7
+1/20 AwakeningSoul0 LV7
 
 ;Weapons
 ;Warrior
@@ -2112,8 +2112,8 @@
 1/1200 HeavenArmour(F) LV7
 1/1200 HeavenArcheyRobe(M) LV7
 1/1200 HeavenArcheyRobe(F) LV7
-1/1500 HeavenBlkArmour(M) LV7
-1/1500 HeavenBlkArmour(F) LV7
+1/1500 HeavenArmour(M) LV7
+1/1500 HeavenArmour(F) LV7
 1/1500 HeavenRedArmour(M) LV7
 1/1500 HeavenRedArmour(F) LV7
 1/1500 HeavenGrnArmour(M) LV7
@@ -2376,8 +2376,8 @@
 
 
 
-1/20 AwakeningBox LV8
-1/20 FortuneBoxRune LV8
+1/20 AwakeningSoul0 LV8
+1/20 AwakeningSoul0 LV8
 
 ;Weapons
 ;Warrior
@@ -2445,8 +2445,8 @@
 1/1200 HeavenArmour(F) LV8
 1/1200 HeavenArcheyRobe(M) LV8
 1/1200 HeavenArcheyRobe(F) LV8
-1/1500 HeavenBlkArmour(M) LV8
-1/1500 HeavenBlkArmour(F) LV8
+1/1500 HeavenArmour(M) LV8
+1/1500 HeavenArmour(F) LV8
 1/1500 HeavenRedArmour(M) LV8
 1/1500 HeavenRedArmour(F) LV8
 1/1500 HeavenGrnArmour(M) LV8

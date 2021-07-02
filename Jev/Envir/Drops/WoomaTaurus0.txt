@@ -16,8 +16,8 @@
 1/10 WoomaHorn
 1/10 WoomaHeart
 
-1/40 AwakeningBox
-1/40 FortuneBoxRune
+1/40 AwakeningSoul0
+1/40 AwakeningSoul0
 
 
 ;Weapons

@@ -17,7 +17,7 @@
 1/1 BenedictionOil
 
 
-1/10 FortuneBoxRune
+1/10 AwakeningSoul0
 
 ;Weapons
 1/1300 DragonSlayer

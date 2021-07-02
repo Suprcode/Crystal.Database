@@ -8,7 +8,7 @@
 1/10 (MP)DrugXL
 
 
-1/130 AwakeningBox
+1/130 AwakeningSoul0
 
 ;Weapons
 

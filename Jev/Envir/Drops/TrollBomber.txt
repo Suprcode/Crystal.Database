@@ -1,7 +1,7 @@
 ;Gold
 1/10 Gold 1950
-1/10 (Hp)Booster
-1/10 (Mp)Booster
+1/10 SunPotion
+1/10 SunPotion
 
 ;Potions
 1/30 SunPotion

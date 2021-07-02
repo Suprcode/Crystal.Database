@@ -185,9 +185,9 @@
 
 ;Awakening Souls
 
-1/1 AwakeningBox LV
+1/1 AwakeningSoul0 LV
 
-1/20 FortuneBoxRune LV1
+1/20 AwakeningSoul0 LV1
 
 ;Level2
 ;Gold
@@ -376,9 +376,9 @@
 
 ;Awakening Souls
 
-1/1 AwakeningBox LV
+1/1 AwakeningSoul0 LV
 
-1/20 FortuneBoxRune LV2
+1/20 AwakeningSoul0 LV2
 
 ;Level3
 ;Gold
@@ -567,9 +567,9 @@
 
 ;Awakening Souls
 
-1/1 AwakeningBox LV
+1/1 AwakeningSoul0 LV
 
-1/20 FortuneBoxRune LV3
+1/20 AwakeningSoul0 LV3
 
 ;Level4
 ;Gold
@@ -758,9 +758,9 @@
 
 ;Awakening Souls
 
-1/1 AwakeningBox LV
+1/1 AwakeningSoul0 LV
 
-1/20 FortuneBoxRune LV4
+1/20 AwakeningSoul0 LV4
 
 ;Level5
 ;Gold
@@ -949,9 +949,9 @@
 
 ;Awakening Souls
 
-1/1 AwakeningBox LV
+1/1 AwakeningSoul0 LV
 
-1/20 FortuneBoxRune LV5
+1/20 AwakeningSoul0 LV5
 
 ;Level6
 ;Gold
@@ -1140,9 +1140,9 @@
 
 ;Awakening Souls
 
-1/1 AwakeningBox LV
+1/1 AwakeningSoul0 LV
 
-1/20 FortuneBoxRune LV6
+1/20 AwakeningSoul0 LV6
 
 ;Level7
 ;Gold
@@ -1331,9 +1331,9 @@
 
 ;Awakening Souls
 
-1/1 AwakeningBox LV
+1/1 AwakeningSoul0 LV
 
-1/20 FortuneBoxRune LV7
+1/20 AwakeningSoul0 LV7
 
 ;Level8
 ;Gold
@@ -1522,7 +1522,7 @@
 
 ;Awakening Souls
 
-1/1 AwakeningBox LV
+1/1 AwakeningSoul0 LV
 
-1/20 FortuneBoxRune LV8
+1/20 AwakeningSoul0 LV8
 

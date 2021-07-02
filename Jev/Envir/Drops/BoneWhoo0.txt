@@ -20,7 +20,7 @@
 1/20 BenedictionOil 
 
 1/30 Awakeningbox
-1/50 FortuneBoxRune
+1/50 AwakeningSoul0
 
 ;Weapons
 1/20 HookedSword 

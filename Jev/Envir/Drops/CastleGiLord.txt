@@ -12,12 +12,12 @@
 1/1 SunPotion(M)
 1/1 SunPotion(M)
 
-1/1 (Hp)Booster
-1/1 (Mp)Booster
-1/2 (Hp)Booster
-1/2 (Mp)Booster
-1/1 RegenPotion
-1/2 RegenPotion
+1/1 SunPotion
+1/1 SunPotion
+1/2 SunPotion
+1/2 SunPotion
+1/1 SunPotion
+1/2 SunPotion
 
 1/100 ImpactDrug(L)
 1/100 MagicDrug(L)
@@ -28,7 +28,7 @@
 
 
 1/1 Awakeningbox 
-1/1 FortuneBoxRune 
+1/1 AwakeningSoul0 
 
 
 ;Weapons
@@ -86,8 +86,8 @@
 1/1200 HeavenGrnArmour(F)
 1/1200 HeavenRedArmour(M)
 1/1200 HeavenRedArmour(F)
-1/1200 HeavenBlkArmour(M)
-1/1200 HeavenBlkArmour(F)
+1/1200 HeavenArmour(M)
+1/1200 HeavenArmour(F)
 1/1200 HeavenGoldArmour(M)
 1/1200 HeavenGoldArmour(F)
 1/6000 LordSlayerArmour(M)

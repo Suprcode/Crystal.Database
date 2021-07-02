@@ -21,8 +21,8 @@
 
 
 
-1/20 AwakeningBox
-1/20 FortuneBoxRune
+1/20 AwakeningSoul0
+1/20 AwakeningSoul0
 
 
 ;Weapons

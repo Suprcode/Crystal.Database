@@ -2,21 +2,21 @@
 1/1 Gold 20000
 
 ;Pots + Other
-1/1 (Mp)Booster
-1/1 (Hp)Booster
-1/1 (Mp)Booster
-1/1 (Hp)Booster
-1/1 (Mp)Booster
-1/1 (Hp)Booster
-1/1 RegenPotion
-1/1 RegenPotion
-1/1 RegenPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
 1/1 BenedictionOil
 1/10 GoldenBenedictionOil
 
 
-1/10 FortuneBoxRune
-1/10 AwakeningBox
+1/10 AwakeningSoul0
+1/10 AwakeningSoul0
 
 ;Weapons
 1/2150 BarbarianSword
@@ -54,8 +54,8 @@
 1/950 HorneySuit(F)
 
 ;Armour Rare
-1/5500 HeavenBlkArmour(M)
-1/5500 HeavenBlkArmour(F)
+1/5500 HeavenArmour(M)
+1/5500 HeavenArmour(F)
 1/5500 HeavenRedArmour(M)
 1/5500 HeavenRedArmour(F)
 1/5500 HeavenGrnArmour(M)

@@ -20,7 +20,7 @@
 1/4 BenedictionOil
 
 
-1/10 FortuneBoxRune
+1/10 AwakeningSoul0
 1/75 BehemothRune
 
 ;Weapons
@@ -53,8 +53,8 @@
 
 
 ;Armour Rare
-1/11500 HeavenBlkArmour(M)
-1/11500 HeavenBlkArmour(F)
+1/11500 HeavenArmour(M)
+1/11500 HeavenArmour(F)
 1/11500 HeavenRedArmour(M)
 1/11500 HeavenRedArmour(F)
 1/11500 HeavenGrnArmour(M)

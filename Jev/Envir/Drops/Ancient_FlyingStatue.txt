@@ -16,7 +16,7 @@
 1/1 BenedictionOil
 1/2 BenedictionOil
 
-1/10 FortuneBoxRune
+1/10 AwakeningSoul0
 
 
 ;Weapons

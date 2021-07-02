@@ -4,8 +4,8 @@
 ;Pots + Other
 1/35 (HP)DrugXL
 1/35 (MP)DrugXL
-1/50 (Hp)Booster
-1/50 (Mp)Booster
+1/50 SunPotion
+1/50 SunPotion
 
 ;Weapons
 

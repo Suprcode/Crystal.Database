@@ -81,8 +81,8 @@
 1/1300 GoldDarkArmour(F)
 
 ;Upgrade Armour
-1/11200 HeavenBlkArmour(M)
-1/11200 HeavenBlkArmour(F)
+1/11200 HeavenArmour(M)
+1/11200 HeavenArmour(F)
 1/11200 HeavenRedArmour(M)
 1/11200 HeavenRedArmour(F)
 1/11200 HeavenGrnArmour(M)
@@ -243,11 +243,11 @@
 1/95 TombMedal
 
 ;Awakening Souls
-1/5 AwakeningBox
-1/5 AwakeningBox
+1/5 AwakeningSoul0
+1/5 AwakeningSoul0
 
 ;Event
 
 
 ;Other
-1/120 FortuneBoxRune
+1/120 AwakeningSoul0

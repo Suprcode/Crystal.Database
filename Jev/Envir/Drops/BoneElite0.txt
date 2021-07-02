@@ -18,7 +18,7 @@
 1/30 MagicAid(S) LV1
 
 1/30 Awakeningbox LV1
-1/50 FortuneBoxRune LV1
+1/50 AwakeningSoul0 LV1
 
 1/30 BoneEliteRune LV1
 
@@ -98,7 +98,7 @@
 1/30 MagicAid(S) LV2
 
 1/30 Awakeningbox LV2
-1/50 FortuneBoxRune LV2
+1/50 AwakeningSoul0 LV2
 
 1/30 BoneEliteRune LV2
 
@@ -178,7 +178,7 @@
 1/30 MagicAid(S) LV3
 
 1/30 Awakeningbox LV3
-1/50 FortuneBoxRune LV3
+1/50 AwakeningSoul0 LV3
 
 1/30 BoneEliteRune LV3
 
@@ -258,7 +258,7 @@
 1/30 MagicAid(S) LV4
 
 1/30 Awakeningbox LV4
-1/50 FortuneBoxRune LV4
+1/50 AwakeningSoul0 LV4
 
 1/30 BoneEliteRune LV4
 
@@ -338,7 +338,7 @@
 1/30 MagicAid(S) LV5
 
 1/30 Awakeningbox LV5
-1/50 FortuneBoxRune LV5
+1/50 AwakeningSoul0 LV5
 
 1/30 BoneEliteRune LV5
 
@@ -418,7 +418,7 @@
 1/30 MagicAid(S) LV6
 
 1/30 Awakeningbox LV6
-1/50 FortuneBoxRune LV6
+1/50 AwakeningSoul0 LV6
 
 1/30 BoneEliteRune LV6
 
@@ -498,7 +498,7 @@
 1/30 MagicAid(S) LV7
 
 1/30 Awakeningbox LV7
-1/50 FortuneBoxRune LV7
+1/50 AwakeningSoul0 LV7
 
 1/30 BoneEliteRune LV7
 
@@ -578,7 +578,7 @@
 1/30 MagicAid(S) LV8
 
 1/30 Awakeningbox LV8
-1/50 FortuneBoxRune LV8
+1/50 AwakeningSoul0 LV8
 
 1/30 BoneEliteRune LV8
 
