@@ -5,16 +5,9 @@
 
 
 *LATEST* 
-1/7/21
+2/7/21
 
--Added the following mobs with correct images (Stats to be added for all)
-
--HornedSorceror
--HornedArcher
--HornedCommander
--HornedMage
--HornedWarrior
--BoulderSpirit
+-Altered drops of HornedCommander.
 
 27/01/21
 
@@ -196,3 +189,7 @@ IceHellTemple_KR
 -HornedMage
 -HornedWarrior
 -BoulderSpirit
+
+2/7/21
+
+-Altered drops of HornedCommander.
