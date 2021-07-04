@@ -226,11 +226,11 @@
 1/95 TombMedal
 
 ;Awakening Souls
-1/5 AwakeningBox
-1/5 AwakeningBox
+1/5 SunPotion
+1/5 SunPotion
 
 ;Event
 
 
 ;Other
-1/120 FortuneBoxRune
+1/120 SunPotion

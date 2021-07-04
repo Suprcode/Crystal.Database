@@ -21,8 +21,8 @@
 
 
 
-1/20 AwakeningBox
-1/20 FortuneBoxRune
+1/20 SunPotion
+1/20 SunPotion
 
 
 ;Weapons

@@ -2,10 +2,10 @@
 1/1 Gold 2800
 
 ;Potions
-1/8 (Hp)Booster
-1/8 (Mp)Booster
-1/8 (Hp)Booster
-1/8 (Mp)Booster
+1/8 SunPotion
+1/8 SunPotion
+1/8 SunPotion
+1/8 SunPotion
 
 1/12000 HolyHealthStone
 1/12000 HolyMagicStone

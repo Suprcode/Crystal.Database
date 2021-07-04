@@ -22,8 +22,8 @@
 
 1/15 BenedictionOil
 1/10 AncZumaRelic
-1/40 AwakeningBox
-1/40 FortuneBoxRune
+1/40 SunPotion
+1/40 SunPotion
 
 1/75 AncientZumaTaurusRune
 

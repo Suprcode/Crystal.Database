@@ -24,7 +24,7 @@
 1/30 StormDrug(M)
 
 
-1/25 FortuneBoxRune
+1/25 SunPotion
 1/1 AncientPrajnaSlime
 
 1/75 AncientBoneLordRune

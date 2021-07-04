@@ -15,7 +15,7 @@
 1/250 MagicAid(L) 
 
 1/500 Awakeningbox
-1/500 FortuneBoxRune
+1/500 SunPotion
 
 
 ;;1/2500 EasterRobe(M)[7d]

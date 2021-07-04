@@ -15,8 +15,8 @@
 
 1/40 BenedictionOil LV1
 
-1/40 AwakeningBox LV1
-1/40 FortuneBoxRune LV1
+1/40 SunPotion LV1
+1/40 SunPotion LV1
 1/2 WoomaHearts LV1
 
 1/40 FrozenTaurusRune LV1
@@ -265,8 +265,8 @@
 
 1/40 BenedictionOil LV2
 
-1/40 AwakeningBox LV2
-1/40 FortuneBoxRune LV2
+1/40 SunPotion LV2
+1/40 SunPotion LV2
 1/2 WoomaHearts LV2
 
 1/40 FrozenTaurusRune LV2
@@ -515,8 +515,8 @@
 
 1/40 BenedictionOil LV3
 
-1/40 AwakeningBox LV3
-1/40 FortuneBoxRune LV3
+1/40 SunPotion LV3
+1/40 SunPotion LV3
 1/2 WoomaHearts LV3
 
 1/40 FrozenTaurusRune LV3
@@ -765,8 +765,8 @@
 
 1/40 BenedictionOil LV4
 
-1/40 AwakeningBox LV4
-1/40 FortuneBoxRune LV4
+1/40 SunPotion LV4
+1/40 SunPotion LV4
 1/2 WoomaHearts LV4
 
 1/40 FrozenTaurusRune LV4
@@ -1015,8 +1015,8 @@
 
 1/40 BenedictionOil LV5
 
-1/40 AwakeningBox LV5
-1/40 FortuneBoxRune LV5
+1/40 SunPotion LV5
+1/40 SunPotion LV5
 1/2 WoomaHearts LV5
 
 1/40 FrozenTaurusRune LV5
@@ -1265,8 +1265,8 @@
 
 1/40 BenedictionOil LV6
 
-1/40 AwakeningBox LV6
-1/40 FortuneBoxRune LV6
+1/40 SunPotion LV6
+1/40 SunPotion LV6
 1/2 WoomaHearts LV6
 
 1/40 FrozenTaurusRune LV6
@@ -1516,8 +1516,8 @@
 1/40 BenedictionOil LV7
 
 
-1/40 AwakeningBox LV7
-1/40 FortuneBoxRune LV7
+1/40 SunPotion LV7
+1/40 SunPotion LV7
 1/2 WoomaHearts LV7
 
 1/40 FrozenTaurusRune LV7
@@ -1766,8 +1766,8 @@
 
 1/40 BenedictionOil LV8
 
-1/40 AwakeningBox LV8
-1/40 FortuneBoxRune LV8
+1/40 SunPotion LV8
+1/40 SunPotion LV8
 1/2 WoomaHearts LV8
 
 1/40 FrozenTaurusRune LV8

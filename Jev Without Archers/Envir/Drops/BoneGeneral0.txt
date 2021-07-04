@@ -13,7 +13,7 @@
 1/1200 WarGodOil
 
 
-1/25 FortuneBoxRune
+1/25 SunPotion
 1/200 AncientPrajnaSlime
 
 ;Weapons
@@ -155,7 +155,7 @@
 1/1200 WarGodOil
 
 
-1/25 FortuneBoxRune
+1/25 SunPotion
 1/200 AncientPrajnaSlime
 
 ;Weapons

@@ -20,7 +20,7 @@
 1/4 BenedictionOil
 
 
-1/10 FortuneBoxRune
+1/10 SunPotion
 1/75 BehemothRune
 
 ;Weapons

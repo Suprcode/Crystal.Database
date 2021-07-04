@@ -37,8 +37,8 @@
 1/10 WoomaHorn LV1
 1/10 WoomaHeart LV1
 
-1/40 AwakeningBox LV1
-1/40 FortuneBoxRune LV1
+1/40 SunPotion LV1
+1/40 SunPotion LV1
 
 ;Sets
 1/400 RecallHelmet LV1
@@ -246,8 +246,8 @@
 1/10 WoomaHorn LV2
 1/10 WoomaHeart LV2
 
-1/40 AwakeningBox LV2
-1/40 FortuneBoxRune LV2
+1/40 SunPotion LV2
+1/40 SunPotion LV2
 
 ;Sets
 1/400 RecallHelmet LV2
@@ -456,8 +456,8 @@
 1/10 WoomaHorn LV3
 1/10 WoomaHeart LV3
 
-1/40 AwakeningBox LV3
-1/40 FortuneBoxRune LV3
+1/40 SunPotion LV3
+1/40 SunPotion LV3
 
 ;Sets
 1/400 RecallHelmet LV3
@@ -666,8 +666,8 @@
 1/10 WoomaHorn LV4
 1/10 WoomaHeart LV4
 
-1/40 AwakeningBox LV4
-1/40 FortuneBoxRune LV4
+1/40 SunPotion LV4
+1/40 SunPotion LV4
 
 ;Sets
 1/400 RecallHelmet LV4
@@ -875,8 +875,8 @@
 1/10 WoomaHorn LV5
 1/10 WoomaHeart LV5
 
-1/40 AwakeningBox LV5
-1/40 FortuneBoxRune LV5
+1/40 SunPotion LV5
+1/40 SunPotion LV5
 
 ;Sets
 1/400 RecallHelmet LV5
@@ -1077,8 +1077,8 @@
 1/10 WoomaHorn LV6
 1/10 WoomaHeart LV6
 
-1/40 AwakeningBox LV6
-1/40 FortuneBoxRune LV6
+1/40 SunPotion LV6
+1/40 SunPotion LV6
 
 ;Sets
 1/400 RecallHelmet LV6
@@ -1286,8 +1286,8 @@
 1/10 WoomaHorn LV7
 1/10 WoomaHeart LV7
 
-1/40 AwakeningBox LV7
-1/40 FortuneBoxRune LV7
+1/40 SunPotion LV7
+1/40 SunPotion LV7
 
 ;Sets
 1/400 RecallHelmet LV7
@@ -1495,8 +1495,8 @@
 1/10 WoomaHorn LV8
 1/10 WoomaHeart LV8
 
-1/40 AwakeningBox LV8
-1/40 FortuneBoxRune LV8
+1/40 SunPotion LV8
+1/40 SunPotion LV8
 
 ;Sets
 1/400 RecallHelmet LV8

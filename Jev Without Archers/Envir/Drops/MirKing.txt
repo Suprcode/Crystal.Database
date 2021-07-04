@@ -36,8 +36,8 @@
 
 
 
-1/20 AwakeningBox LV1
-1/20 FortuneBoxRune LV1
+1/20 SunPotion LV1
+1/20 SunPotion LV1
 
 ;Weapons
 ;Warrior
@@ -369,8 +369,8 @@
 
 
 
-1/20 AwakeningBox LV2
-1/20 FortuneBoxRune LV2
+1/20 SunPotion LV2
+1/20 SunPotion LV2
 
 ;Weapons
 ;Warrior
@@ -684,8 +684,8 @@
 1/100 MirKingRune LV3
 
 
-1/20 AwakeningBox LV3
-1/20 FortuneBoxRune LV3
+1/20 SunPotion LV3
+1/20 SunPotion LV3
 
 ;Weapons
 ;Warrior
@@ -1000,8 +1000,8 @@
 
 
 
-1/20 AwakeningBox LV4
-1/20 FortuneBoxRune LV4
+1/20 SunPotion LV4
+1/20 SunPotion LV4
 
 ;Weapons
 ;Warrior
@@ -1316,8 +1316,8 @@
 
 
 
-1/20 AwakeningBox LV5
-1/20 FortuneBoxRune LV5
+1/20 SunPotion LV5
+1/20 SunPotion LV5
 
 ;Weapons
 ;Warrior
@@ -1632,8 +1632,8 @@
 
 
 
-1/20 AwakeningBox LV6
-1/20 FortuneBoxRune LV6
+1/20 SunPotion LV6
+1/20 SunPotion LV6
 
 ;Weapons
 ;Warrior
@@ -1948,8 +1948,8 @@
 
 
 
-1/20 AwakeningBox LV7
-1/20 FortuneBoxRune LV7
+1/20 SunPotion LV7
+1/20 SunPotion LV7
 
 ;Weapons
 ;Warrior
@@ -2265,8 +2265,8 @@
 
 
 
-1/20 AwakeningBox LV8
-1/20 FortuneBoxRune LV8
+1/20 SunPotion LV8
+1/20 SunPotion LV8
 
 ;Weapons
 ;Warrior

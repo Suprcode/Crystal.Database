@@ -15,8 +15,8 @@
 
 1/40 BenedictionOil LV1
 
-1/40 AwakeningBox LV1
-1/40 FortuneBoxRune LV1
+1/40 SunPotion LV1
+1/40 SunPotion LV1
 1/30 KhazardRune LV1
 
 ;Weapon
@@ -85,8 +85,8 @@
 
 1/40 BenedictionOil LV2
 
-1/40 AwakeningBox LV2
-1/40 FortuneBoxRune LV2
+1/40 SunPotion LV2
+1/40 SunPotion LV2
 1/30 KhazardRune LV2
 
 ;Weapon
@@ -155,8 +155,8 @@
 
 1/40 BenedictionOil LV3
 
-1/40 AwakeningBox LV3
-1/40 FortuneBoxRune LV3
+1/40 SunPotion LV3
+1/40 SunPotion LV3
 1/30 KhazardRune LV3
 
 ;Weapon
@@ -225,8 +225,8 @@
 
 1/40 BenedictionOil LV4
 
-1/40 AwakeningBox LV4
-1/40 FortuneBoxRune LV4
+1/40 SunPotion LV4
+1/40 SunPotion LV4
 1/30 KhazardRune LV4
 
 ;Weapon
@@ -295,8 +295,8 @@
 
 1/40 BenedictionOil LV5
 
-1/40 AwakeningBox LV5
-1/40 FortuneBoxRune LV5
+1/40 SunPotion LV5
+1/40 SunPotion LV5
 1/30 KhazardRune LV5
 
 ;Weapon
@@ -365,8 +365,8 @@
 
 1/40 BenedictionOil LV6
 
-1/40 AwakeningBox LV6
-1/40 FortuneBoxRune LV6
+1/40 SunPotion LV6
+1/40 SunPotion LV6
 1/30 KhazardRune LV6
 
 ;Weapon
@@ -435,8 +435,8 @@
 
 1/40 BenedictionOil LV7
 
-1/40 AwakeningBox LV7
-1/40 FortuneBoxRune LV7
+1/40 SunPotion LV7
+1/40 SunPotion LV7
 1/30 KhazardRune LV7
 
 ;Weapon
@@ -505,8 +505,8 @@
 
 1/40 BenedictionOil LV8
 
-1/40 AwakeningBox LV8
-1/40 FortuneBoxRune LV8
+1/40 SunPotion LV8
+1/40 SunPotion LV8
 1/30 KhazardRune LV8
 
 ;Weapon

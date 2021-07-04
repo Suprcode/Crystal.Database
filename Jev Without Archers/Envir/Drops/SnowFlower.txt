@@ -2,23 +2,23 @@
 1/2 Gold 50000 LV1
 
 ;Potions
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/2 (Hp)Booster LV1
-1/2 (Mp)Booster LV1
-1/2 (Mp)Booster LV1
-1/2 (Mp)Booster LV1
-1/2 (Mp)Booster LV1
-1/2 (Mp)Booster LV1
-1/1 RegenPotion LV1
-1/1 RegenPotion LV1
-1/2 RegenPotion LV1
-1/2 RegenPotion LV1
-1/2 RegenPotion LV1
-1/2 RegenPotion LV1
-1/2 RegenPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
+1/2 SunPotion LV1
 1/1  BenedictionOil LV1
 1/10 GoldenBenedictionOil LV1
 
@@ -136,23 +136,23 @@
 1/2 Gold 50000 LV2
 
 ;Potions
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/2 (Hp)Booster LV2
-1/2 (Mp)Booster LV2
-1/2 (Mp)Booster LV2
-1/2 (Mp)Booster LV2
-1/2 (Mp)Booster LV2
-1/2 (Mp)Booster LV2
-1/1 RegenPotion LV2
-1/1 RegenPotion LV2
-1/2 RegenPotion LV2
-1/2 RegenPotion LV2
-1/2 RegenPotion LV2
-1/2 RegenPotion LV2
-1/2 RegenPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
+1/2 SunPotion LV2
 1/1  BenedictionOil LV2
 1/10 GoldenBenedictionOil LV2
 
@@ -269,23 +269,23 @@
 1/2 Gold 50000 LV3
 
 ;Potions
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/2 (Hp)Booster LV3
-1/2 (Mp)Booster LV3
-1/2 (Mp)Booster LV3
-1/2 (Mp)Booster LV3
-1/2 (Mp)Booster LV3
-1/2 (Mp)Booster LV3
-1/1 RegenPotion LV3
-1/1 RegenPotion LV3
-1/2 RegenPotion LV3
-1/2 RegenPotion LV3
-1/2 RegenPotion LV3
-1/2 RegenPotion LV3
-1/2 RegenPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
+1/2 SunPotion LV3
 1/1  BenedictionOil LV3
 1/10 GoldenBenedictionOil LV3
 
@@ -401,23 +401,23 @@
 1/2 Gold 50000 LV4
 
 ;Potions
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/2 (Hp)Booster LV4
-1/2 (Mp)Booster LV4
-1/2 (Mp)Booster LV4
-1/2 (Mp)Booster LV4
-1/2 (Mp)Booster LV4
-1/2 (Mp)Booster LV4
-1/1 RegenPotion LV4
-1/1 RegenPotion LV4
-1/2 RegenPotion LV4
-1/2 RegenPotion LV4
-1/2 RegenPotion LV4
-1/2 RegenPotion LV4
-1/2 RegenPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
+1/2 SunPotion LV4
 1/1  BenedictionOil LV4
 1/10 GoldenBenedictionOil LV4
 
@@ -536,23 +536,23 @@
 1/2 Gold 50000 LV5
 
 ;Potions
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/2 (Hp)Booster LV5
-1/2 (Mp)Booster LV5
-1/2 (Mp)Booster LV5
-1/2 (Mp)Booster LV5
-1/2 (Mp)Booster LV5
-1/2 (Mp)Booster LV5
-1/1 RegenPotion LV5
-1/1 RegenPotion LV5
-1/2 RegenPotion LV5
-1/2 RegenPotion LV5
-1/2 RegenPotion LV5
-1/2 RegenPotion LV5
-1/2 RegenPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
+1/2 SunPotion LV5
 1/1  BenedictionOil LV5
 1/10 GoldenBenedictionOil LV5
 
@@ -671,23 +671,23 @@
 1/2 Gold 50000 LV6
 
 ;Potions
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/2 (Hp)Booster LV6
-1/2 (Mp)Booster LV6
-1/2 (Mp)Booster LV6
-1/2 (Mp)Booster LV6
-1/2 (Mp)Booster LV6
-1/2 (Mp)Booster LV6
-1/1 RegenPotion LV6
-1/1 RegenPotion LV6
-1/2 RegenPotion LV6
-1/2 RegenPotion LV6
-1/2 RegenPotion LV6
-1/2 RegenPotion LV6
-1/2 RegenPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
+1/2 SunPotion LV6
 1/1  BenedictionOil LV6
 1/10 GoldenBenedictionOil LV6
 
@@ -803,23 +803,23 @@
 1/2 Gold 50000 LV7
 
 ;Potions
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/2 (Hp)Booster LV7
-1/2 (Mp)Booster LV7
-1/2 (Mp)Booster LV7
-1/2 (Mp)Booster LV7
-1/2 (Mp)Booster LV7
-1/2 (Mp)Booster LV7
-1/1 RegenPotion LV7
-1/1 RegenPotion LV7
-1/2 RegenPotion LV7
-1/2 RegenPotion LV7
-1/2 RegenPotion LV7
-1/2 RegenPotion LV7
-1/2 RegenPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
+1/2 SunPotion LV7
 1/1  BenedictionOil LV7
 1/10 GoldenBenedictionOil LV7
 
@@ -933,23 +933,23 @@
 1/2 Gold 50000 LV8
 
 ;Potions
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/2 (Hp)Booster LV8
-1/2 (Mp)Booster LV8
-1/2 (Mp)Booster LV8
-1/2 (Mp)Booster LV8
-1/2 (Mp)Booster LV8
-1/2 (Mp)Booster LV8
-1/1 RegenPotion LV8
-1/1 RegenPotion LV8
-1/2 RegenPotion LV8
-1/2 RegenPotion LV8
-1/2 RegenPotion LV8
-1/2 RegenPotion LV8
-1/2 RegenPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
+1/2 SunPotion LV8
 1/1  BenedictionOil LV8
 1/10 GoldenBenedictionOil LV8
 

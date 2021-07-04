@@ -1,17 +1,17 @@
 1/2 Gold 20000 LV1
 
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Mp)Booster LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
 1/1 SunPotion(M) LV1
 1/1 SunPotion(M) LV1
 1/1 SunPotion(M) LV1
@@ -19,7 +19,7 @@
 1/1 SunPotion(M) LV1
 1/1 SunPotion(M) LV1
 1/1 SunPotion(M) LV1
-1/1 RegenPotion LV1
+1/1 SunPotion LV1
 1/2 BenedictionOil LV1
 1/5 GoldBar LV1
 
@@ -273,18 +273,18 @@
 ;Level2
 1/2 Gold 20000 LV2
 
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Mp)Booster LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
 1/1 SunPotion(M) LV2
 1/1 SunPotion(M) LV2
 1/1 SunPotion(M) LV2
@@ -292,7 +292,7 @@
 1/1 SunPotion(M) LV2
 1/1 SunPotion(M) LV2
 1/1 SunPotion(M) LV2
-1/1 RegenPotion LV2
+1/1 SunPotion LV2
 1/2 BenedictionOil LV2
 1/5 GoldBar LV2
 
@@ -550,18 +550,18 @@
 ;Level3
 1/2 Gold 20000 LV3
 
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Mp)Booster LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
 1/1 SunPotion(M) LV3
 1/1 SunPotion(M) LV3
 1/1 SunPotion(M) LV3
@@ -569,7 +569,7 @@
 1/1 SunPotion(M) LV3
 1/1 SunPotion(M) LV3
 1/1 SunPotion(M) LV3
-1/1 RegenPotion LV3
+1/1 SunPotion LV3
 1/2 BenedictionOil LV3
 1/5 GoldBar LV3
 
@@ -824,18 +824,18 @@
 ;Level4
 1/2 Gold 20000 LV4
 
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Mp)Booster LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
 1/1 SunPotion(M) LV4
 1/1 SunPotion(M) LV4
 1/1 SunPotion(M) LV4
@@ -843,7 +843,7 @@
 1/1 SunPotion(M) LV4
 1/1 SunPotion(M) LV4
 1/1 SunPotion(M) LV4
-1/1 RegenPotion LV4
+1/1 SunPotion LV4
 1/2 BenedictionOil LV4
 1/5 GoldBar LV4
 
@@ -1097,18 +1097,18 @@
 ;Level5
 1/2 Gold 20000 LV5
 
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Mp)Booster LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
 1/1 SunPotion(M) LV5
 1/1 SunPotion(M) LV5
 1/1 SunPotion(M) LV5
@@ -1116,7 +1116,7 @@
 1/1 SunPotion(M) LV5
 1/1 SunPotion(M) LV5
 1/1 SunPotion(M) LV5
-1/1 RegenPotion LV5
+1/1 SunPotion LV5
 1/2 BenedictionOil LV5
 1/5 GoldBar LV5
 
@@ -1370,18 +1370,18 @@
 ;Level6
 1/2 Gold 20000 LV6
 
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Mp)Booster LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
 1/1 SunPotion(M) LV6
 1/1 SunPotion(M) LV6
 1/1 SunPotion(M) LV6
@@ -1389,7 +1389,7 @@
 1/1 SunPotion(M) LV6
 1/1 SunPotion(M) LV6
 1/1 SunPotion(M) LV6
-1/1 RegenPotion LV6
+1/1 SunPotion LV6
 1/2 BenedictionOil LV6
 1/5 GoldBar LV6
 
@@ -1643,18 +1643,18 @@
 ;Level7
 1/2 Gold 20000 LV7
 
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Mp)Booster LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
 1/1 SunPotion(M) LV7
 1/1 SunPotion(M) LV7
 1/1 SunPotion(M) LV7
@@ -1662,7 +1662,7 @@
 1/1 SunPotion(M) LV7
 1/1 SunPotion(M) LV7
 1/1 SunPotion(M) LV7
-1/1 RegenPotion LV7
+1/1 SunPotion LV7
 1/2 BenedictionOil LV7
 1/5 GoldBar LV7
 
@@ -1915,18 +1915,18 @@
 ;Level8
 1/2 Gold 20000 LV8
 
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Mp)Booster LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
 1/1 SunPotion(M) LV8
 1/1 SunPotion(M) LV8
 1/1 SunPotion(M) LV8
@@ -1934,7 +1934,7 @@
 1/1 SunPotion(M) LV8
 1/1 SunPotion(M) LV8
 1/1 SunPotion(M) LV8
-1/1 RegenPotion LV8
+1/1 SunPotion LV8
 1/2 BenedictionOil LV8
 1/5 GoldBar LV8
 

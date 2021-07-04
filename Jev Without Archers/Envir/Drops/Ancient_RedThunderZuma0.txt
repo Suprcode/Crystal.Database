@@ -15,8 +15,8 @@
 1/1 SunPotion(M)
 1/1 SunPotion(M)
 
-1/40 AwakeningBox
-1/50 FortuneBoxRune
+1/40 SunPotion
+1/50 SunPotion
 
 
 ;Weapons

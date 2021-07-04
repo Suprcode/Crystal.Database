@@ -2,11 +2,11 @@
 1/10 Gold 5000
 
 ;Potions
-1/5 (Hp)Booster
-1/5 (Mp)Booster
-1/5 (Hp)Booster
-1/5 (Mp)Booster
-1/5 RegenPotion
+1/5 SunPotion
+1/5 SunPotion
+1/5 SunPotion
+1/5 SunPotion
+1/5 SunPotion
 
 ;Armours
 

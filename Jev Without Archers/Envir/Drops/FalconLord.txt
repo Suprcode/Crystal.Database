@@ -168,4 +168,4 @@
 
 
 ;Other
-1/25 FortuneBoxRune
+1/25 SunPotion

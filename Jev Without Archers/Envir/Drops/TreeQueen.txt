@@ -3,19 +3,19 @@
 1/1 Gold 50000 LV1
 
 ;Pots + Other
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Hp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 (Mp)Booster LV1
-1/1 RegenPotion LV1
-1/1 RegenPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
 1/1 BenedictionOil LV1
 1/10 GoldenBenedictionOil LV1
 
-1/1 AwakeningBox LV1
-1/1 FortuneBoxRune LV1
+1/1 SunPotion LV1
+1/1 SunPotion LV1
 
 ;Weapons
 1/2000 PriestSlayer LV1
@@ -135,19 +135,19 @@
 1/1 Gold 50000 LV2
 
 ;Pots + Other
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Hp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 (Mp)Booster LV2
-1/1 RegenPotion LV2
-1/1 RegenPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
 1/1 BenedictionOil LV2
 1/10 GoldenBenedictionOil LV2
 
-1/1 AwakeningBox LV2
-1/1 FortuneBoxRune LV2
+1/1 SunPotion LV2
+1/1 SunPotion LV2
 
 ;Weapons
 1/2000 PriestSlayer LV2
@@ -267,19 +267,19 @@
 1/1 Gold 50000 LV3
 
 ;Pots + Other
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Hp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 (Mp)Booster LV3
-1/1 RegenPotion LV3
-1/1 RegenPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
 1/1 BenedictionOil LV3
 1/10 GoldenBenedictionOil LV3
 
-1/1 AwakeningBox LV3
-1/1 FortuneBoxRune LV3
+1/1 SunPotion LV3
+1/1 SunPotion LV3
 
 
 ;Weapons
@@ -400,19 +400,19 @@
 1/1 Gold 50000 LV4
 
 ;Pots + Other
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Hp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 (Mp)Booster LV4
-1/1 RegenPotion LV4
-1/1 RegenPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
 1/1 BenedictionOil LV4
 1/10 GoldenBenedictionOil LV4
 
-1/1 AwakeningBox LV4
-1/1 FortuneBoxRune LV4
+1/1 SunPotion LV4
+1/1 SunPotion LV4
 
 
 ;Weapons
@@ -533,19 +533,19 @@
 1/1 Gold 50000 LV5
 
 ;Pots + Other
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Hp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 (Mp)Booster LV5
-1/1 RegenPotion LV5
-1/1 RegenPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
 1/1 BenedictionOil LV5
 1/10 GoldenBenedictionOil LV5
 
-1/1 AwakeningBox LV5
-1/1 FortuneBoxRune LV5
+1/1 SunPotion LV5
+1/1 SunPotion LV5
 
 
 
@@ -667,19 +667,19 @@
 1/1 Gold 50000 LV6
 
 ;Pots + Other
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Hp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 (Mp)Booster LV6
-1/1 RegenPotion LV6
-1/1 RegenPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
 1/1 BenedictionOil LV6
 1/10 GoldenBenedictionOil LV6
 
-1/1 AwakeningBox LV6
-1/1 FortuneBoxRune LV6
+1/1 SunPotion LV6
+1/1 SunPotion LV6
 
 ;Weapons
 1/2000 PriestSlayer LV6
@@ -798,19 +798,19 @@
 1/1 Gold 50000 LV7
 
 ;Pots + Other
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Hp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 (Mp)Booster LV7
-1/1 RegenPotion LV7
-1/1 RegenPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
 1/1 BenedictionOil LV7
 1/10 GoldenBenedictionOil LV7
 
-1/1 AwakeningBox LV7
-1/1 FortuneBoxRune LV7
+1/1 SunPotion LV7
+1/1 SunPotion LV7
 
 ;Weapons
 1/2000 PriestSlayer LV7
@@ -930,19 +930,19 @@
 1/1 Gold 50000 LV8
 
 ;Pots + Other
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Hp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 (Mp)Booster LV8
-1/1 RegenPotion LV8
-1/1 RegenPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
 1/1 BenedictionOil LV8
 1/10 GoldenBenedictionOil LV8
 
-1/1 AwakeningBox LV8
-1/1 FortuneBoxRune LV8
+1/1 SunPotion LV8
+1/1 SunPotion LV8
 
 
 ;Weapons

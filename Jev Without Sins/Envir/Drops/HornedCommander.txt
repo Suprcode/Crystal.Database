@@ -2,18 +2,19 @@
 1/1 Gold 25000
 
 ;Pots + Other
-1/1 (Mp)Booster
-1/1 (Hp)Booster
-1/1 (Mp)Booster
-1/1 (Hp)Booster
-1/1 (Mp)Booster
-1/1 (Hp)Booster
-1/1 RegenPotion
-1/1 RegenPotion
-1/1 RegenPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
+1/1 SunPotion
 1/1 BenedictionOil
-1/10 FortuneBoxRune
-1/10 AwakeningBox
+
+1/10 SunPotion
+1/10 SunPotion
 
 ;Weapons
 

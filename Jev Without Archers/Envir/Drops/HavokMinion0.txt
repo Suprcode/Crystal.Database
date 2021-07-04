@@ -2,11 +2,11 @@
 1/2 Gold 2500
 
 ;Potions
-1/2 (Hp)Booster
-1/2 (Mp)Booster
-1/2 (Hp)Booster
-1/2 (Mp)Booster
-1/12 RegenPotion
+1/2 SunPotion
+1/2 SunPotion
+1/2 SunPotion
+1/2 SunPotion
+1/12 SunPotion
 
 ;Armours
 

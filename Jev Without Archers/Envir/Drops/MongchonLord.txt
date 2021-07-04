@@ -25,8 +25,8 @@
 
 ;Other 
 1/15 BenedictionOil LV1
-1/40 AwakeningBox LV1
-1/40 FortuneBoxRune LV1
+1/40 SunPotion LV1
+1/40 SunPotion LV1
 
 ;Weapons
 1/50 BloodStealerSword LV1
@@ -154,8 +154,8 @@
 
 ;Other 
 1/15 BenedictionOil LV2
-1/40 AwakeningBox LV2
-1/40 FortuneBoxRune LV2
+1/40 SunPotion LV2
+1/40 SunPotion LV2
 
 ;Weapons
 1/50 BloodStealerSword LV2
@@ -282,8 +282,8 @@
 ;Other 
 1/15 BenedictionOil LV3
 
-1/40 AwakeningBox LV3
-1/40 FortuneBoxRune LV3
+1/40 SunPotion LV3
+1/40 SunPotion LV3
 
 ;Weapons
 1/50 BloodStealerSword LV3
@@ -408,8 +408,8 @@
 
 ;Other 
 1/15 BenedictionOil LV4
-1/40 AwakeningBox LV4
-1/40 FortuneBoxRune LV4
+1/40 SunPotion LV4
+1/40 SunPotion LV4
 
 ;Weapons
 1/50 BloodStealerSword LV4
@@ -535,8 +535,8 @@
 
 ;Other 
 1/15 BenedictionOil LV5
-1/40 AwakeningBox LV5
-1/40 FortuneBoxRune LV5
+1/40 SunPotion LV5
+1/40 SunPotion LV5
 
 ;Weapons
 1/50 BloodStealerSword LV5
@@ -663,8 +663,8 @@
 ;Other 
 1/15 BenedictionOil LV6
 
-1/40 AwakeningBox LV6
-1/40 FortuneBoxRune LV6
+1/40 SunPotion LV6
+1/40 SunPotion LV6
 
 ;Weapons
 1/50 BloodStealerSword LV6
@@ -796,8 +796,8 @@
 ;Other 
 1/15 BenedictionOil LV7
 
-1/40 AwakeningBox LV7
-1/40 FortuneBoxRune LV7
+1/40 SunPotion LV7
+1/40 SunPotion LV7
 
 ;Weapons
 1/50 BloodStealerSword LV7
@@ -923,8 +923,8 @@
 
 ;Other 
 1/15 BenedictionOil LV8
-1/40 AwakeningBox LV8
-1/40 FortuneBoxRune LV8
+1/40 SunPotion LV8
+1/40 SunPotion LV8
 
 ;Weapons
 1/50 BloodStealerSword LV8

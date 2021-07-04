@@ -20,8 +20,8 @@
 1/30 StaminaAid(S) 
 1/30 MagicAid(S)
 
-1/50 FortuneBoxRune
-1/1 AwakeningBox
+1/50 SunPotion
+1/1 SunPotion
 
 
 ;Weapons
