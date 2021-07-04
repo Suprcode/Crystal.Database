@@ -5,9 +5,10 @@
 
 
 *LATEST* 
-2/7/21
+4/7/21
 
--Altered drops of HornedCommander.
+-Edited drop files for the following monsters;
+HornedCommander/HornedMage/HornedSorceror/HornedArcher/HornedWarrior.
 
 27/01/21
 
@@ -193,3 +194,8 @@ IceHellTemple_KR
 2/7/21
 
 -Altered drops of HornedCommander.
+
+4/7/21
+
+-Edited drop files for the following monsters;
+HornedCommander/HornedMage/HornedSorceror/HornedArcher/HornedWarrior.
