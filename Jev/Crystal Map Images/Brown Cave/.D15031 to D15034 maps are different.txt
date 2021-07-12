@@ -1,0 +1,1 @@
+The center of the map has the staircase going down pointed to different direction, right, left, up and down! They are not duplicates except in the floor layout.
