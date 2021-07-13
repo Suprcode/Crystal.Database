@@ -1,0 +1,35 @@
+Maps are from Jev's dtbs - Original full size of 2547 maps + 18 assorted images = 2565 files [From GitHub download May 15, 2021].
+
+'Original' because some time later the map count was reduced.
+
+----------------------------------------------------------------
+Folder "Images Only 1,104 [No Duplicate & Damaged or 'Missing Lib' Map Images] 846MB" contains all images (and only images) minus those mentioned.
+
+Folder "Maps Only 855 [No Duplicate & Damaged or 'Missing Lib' Maps] 935MB" contains all the maps (and only the maps) from this map pack.
+
+Note: Merging these two folders will arrange the imgs with the maps they belong to since no file names were changed.
+----------------------------------------------------------------
+Folder "Jev's Dtbs Maps Sorted [4533 Files, 3.25GB]" contains maps with their images sorted into individual folders per province/cave/temple...
+
+Note: This is the 'best' effort and collaboration will be needed in identifying places by the name they go under on (most) servers. I named many caves by their dominant apearance, just to get on with the sorting. If someone could provide Korean or Chinese names for the places (in their native picture alphabet), they can be translated (but maybe Chinese servers use English alphabet map names).
+
+A "Folder Name List.txt" is provided where you can append the corrected name and post it on LOMCN Forum or perhaps edit it directly on GitHub (maybe even re-work the whole sorting since some maps included in a given folder may not even belong there). Notably there are map variants, like Prajna, Wooma, Zuma,... sets, that may not even be alternative sets of those locations or may not be sorted perfectly.
+
+The map database didn't contain Bichon Dead Mine or Mineral Mines maps but I added their folders anyway for latter adding the maps in, since this is by no means a finished project.
+
+----------------------------------------------------------------
+
+There are two kinds of duplicates, one is where a map was repeated many times over, the other where caves had multiple maps of the same floors which I sorted out into their respective folders (since they may have some map parts included that I have overlooked). This latter is the place to check when something is wrong or missing in a map set since I may have 'sorted a good map out'.
+
+The whole point of the Imgs is to get an idea of what's in the map pack. Minimaps are only included whenever they provide good identification of a cave or temple floor layout for easier sorting, but mostly you can't tell from them what type of walls and flooring the cave has and in that case I snapped a close up detail *.gif screenshot of the map. 
+
+In cases where the map editor allowed for zooming out to make much bigger snapshot of the complete map, I didn't include the minimap. 
+
+
+Some (many) maps are not complete sets, also some maps need fixing. I set the map editor to read the libraries from the Jev's May 15 2021 database GitHub upload but some maps have flaws of which some are easy to fix, others require extensive work (while some might perhaps be fixed by a 'map code tweak'). 
+If you know of more complete lib set, I would like to have it. Fixing maps via brute map editing labor should be the last resort, done only when everything else fails.
+
+Alternative to fixing maps is to look around if they can be found complete somewhere or if someone already fixed them for their server and is willing to share them.
+
+M2P
+July 12 2021
