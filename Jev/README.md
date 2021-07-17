@@ -5,10 +5,10 @@
 
 
 *LATEST* 
-4/7/21
+17/7/21
 
--Edited drop files for the following monsters;
-HornedCommander/HornedMage/HornedSorceror/HornedArcher/HornedWarrior.
+-Added the following monsters for the server to launch;
+Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
 
 27/01/21
 
@@ -199,3 +199,8 @@ IceHellTemple_KR
 
 -Edited drop files for the following monsters;
 HornedCommander/HornedMage/HornedSorceror/HornedArcher/HornedWarrior.
+
+17/7/21
+
+-Added the following monsters for the server to launch;
+Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
