@@ -52,7 +52,10 @@ The following are 'cautions' in the commission sale.
    1,000 - 50,000,000 {Gold/Gold}. 
 <Back/@main>
 
+[@Market]
+#SAY
 
-[Market]
 
-[Consignment]
+[@Consignment]
+#SAY
+What would you like to sell?
