@@ -9,6 +9,8 @@
 
 -Added the following monsters for the server to launch;
 Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
+-Fixed Trust Merchant script
+
 
 27/01/21
 
@@ -204,3 +206,5 @@ HornedCommander/HornedMage/HornedSorceror/HornedArcher/HornedWarrior.
 
 -Added the following monsters for the server to launch;
 Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
+-Fixed Trust Merchant script
+
