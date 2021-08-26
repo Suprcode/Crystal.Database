@@ -5,9 +5,9 @@
 
 
 *LATEST* 
-18/7/21
+1/8/21
 
--Added 813 extra maps
+-Corrected the AI number for Armadillos
 
 
 27/01/21
@@ -209,3 +209,7 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
 18/7/21
 
 -Added 813 extra maps
+
+1/8/21
+
+-Corrected the AI number for Armadillos
