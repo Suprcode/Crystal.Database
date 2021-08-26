@@ -5,9 +5,10 @@
 
 
 *LATEST* 
-1/8/21
+26/08/21
 
--Corrected the AI number for Armadillos
+-Added TreeQueen
+-Added various other mobs
 
 
 27/01/21
@@ -213,3 +214,8 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
 1/8/21
 
 -Corrected the AI number for Armadillos
+
+26/08/21
+
+-Added TreeQueen
+-Added various other mobs
