@@ -33,6 +33,9 @@ LocalMessage "You current have <$PKPOINT> PK Points." Hint
 #ACT
 MOVE n0 328 264
 
+//Use MOVE 0 328 264 if using the old BW map.
+
+
 ;;Kill Pets Command
 [@_CustomCommand(KillPets)]
 #ACT
