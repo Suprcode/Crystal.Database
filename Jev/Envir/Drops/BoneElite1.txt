@@ -1,4 +1,0 @@
-;Mystery Items
-1/100  MysteryCircle
-1/100  MysteryWheel
-1/100  MysteryHelmet

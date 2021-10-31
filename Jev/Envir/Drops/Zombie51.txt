@@ -1,8 +1,28 @@
-;Gold
-1/5 Gold 400
+;Pots + Other
 
 
-;Quest
-1/15 BichonTales(1) Q
-1/15 BichonTales(2) Q
-1/15 BichonTales(3) Q
+;Weapons
+
+
+;Armour
+
+
+;Helmets
+
+
+;Necklace
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Stone

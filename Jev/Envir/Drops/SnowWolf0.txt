@@ -1,5 +1,0 @@
-;Potions
-1/5 SunPotion
-1/5 SunPotion
-1/5 SunPotion
-1/5 SunPotion
