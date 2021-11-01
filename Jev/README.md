@@ -219,6 +219,10 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
 -Added TreeQueen
 -Added various other mobs
 
+5/10/21
+
+-Moved quests into new directories/Matched with database.
+
 01/11/21
 
 -Made a start to custom drop directories to clean up the Envir folder.
