@@ -5,10 +5,9 @@
 
 
 *LATEST* 
-26/08/21
+01/11/21
 
--Added TreeQueen
--Added various other mobs
+-Made a start to custom drop directories to clean up the Envir folder.
 
 
 27/01/21
@@ -219,3 +218,7 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
 
 -Added TreeQueen
 -Added various other mobs
+
+01/11/21
+
+-Made a start to custom drop directories to clean up the Envir folder.
