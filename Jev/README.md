@@ -5,10 +5,11 @@
 
 
 *LATEST* 
-01/11/21
+01/02/22
 
--Made a start to custom drop directories to clean up the Envir folder.
-
+-90% of Drop files relocated into sub folders.
+ Works with latest 432338e Suprcode release
+ https://github.com/Suprcode/mir2/commit/432338e57bd2c3aa830554a80ec67ed92cdb87d0
 
 27/01/21
 
@@ -226,3 +227,9 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
 01/11/21
 
 -Made a start to custom drop directories to clean up the Envir folder.
+
+01/02/22
+
+-90% of Drop files relocated into sub folders.
+ Works with latest 432338e Suprcode release
+ https://github.com/Suprcode/mir2/commit/432338e57bd2c3aa830554a80ec67ed92cdb87d0
