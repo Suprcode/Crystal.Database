@@ -23,6 +23,7 @@ How to use;
 - Jev W/O Archers 21/06/21 - Present (Actively updated)
 - Jev W/O Archers & Assassins 21/06/21 - Present (Actively updated)
 - Jev W/O Assassins 21/06/21 - Present (Actively updated)
+- NightWolf - 13/12/14 - (No longer updated)
 
 # Useful Links
 
