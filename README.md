@@ -15,6 +15,8 @@ How to use;
 
 4: Drag and drop all new files into the Server Folder replacing them with the new database.
 
+Patcher = https://jev.smir.co.uk/patch/
+
 
 # Current Databases
 
@@ -23,6 +25,7 @@ How to use;
 - Jev W/O Archers 21/06/21 - Present (Actively updated)
 - Jev W/O Archers & Assassins 21/06/21 - Present (Actively updated)
 - Jev W/O Assassins 21/06/21 - Present (Actively updated)
+- NightWolf - 13/12/14 - (No longer updated)
 
 # Useful Links
 
