@@ -5,11 +5,9 @@
 
 
 *LATEST* 
-01/02/22
+25/02/22
 
--90% of Drop files relocated into sub folders.
- Works with latest 432338e Suprcode release
- https://github.com/Suprcode/mir2/commit/432338e57bd2c3aa830554a80ec67ed92cdb87d0
+-Changed GeneralJimnYo Ai from 140 to 123 (Correct AI)
 
 27/01/21
 
@@ -233,3 +231,8 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
 -90% of Drop files relocated into sub folders.
  Works with latest 432338e Suprcode release
  https://github.com/Suprcode/mir2/commit/432338e57bd2c3aa830554a80ec67ed92cdb87d0
+ 
+ 25/02/22
+
+-Changed GeneralJimnYo Ai from 140 to 123 (Correct AI)
+
