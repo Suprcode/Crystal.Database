@@ -5,9 +5,66 @@
 
 
 *LATEST* 
-25/02/22
+27/02/22
 
--Changed GeneralJimnYo Ai from 140 to 123 (Correct AI)
+-AssassinScroll Changed AI from 0 to 210
+-WizardScroll Changed AI from 0 to 210
+-TaoistScroll Changed AI from 0 to 210
+-WarriorScroll Changed AI from 0 to 210
+-BoulderSpirit Changed AI from 0 to 170
+-BoneArcher22 Changed AI from 0 to 8
+-BoneArcher22 Changed Image from Guard to BoneArcher
+-BoneSpearman22 Changed AI from 0 to 29
+-BoneSpearman22 Changed Image from Guard to BoneSpearman
+-WedgeMoth22 Changed AI from 0 to 7
+-WedgeMoth22 Changed Image from Guard to WedgeMoth
+-ZumaArcher22 Changed AI from 0 to 8
+-ZumaArcher22 Changed Image from Guard to ZumaArcher
+-ZumaGuardian22 Changed AI from 0 to 15
+-ZumaGuardian22 Changed Image from Guard to ZumaGuardian
+-ZumaStatue22 Changed AI from 0 to 15
+-ZumaStatue22 Changed Image from Guard to ZumaStatue
+-HornedWarrior Changed AI from 0 to 165
+-HornedMage Changed AI from 0 to 163
+-HornedCommander Changed AI from 0 to 171
+-HornedArcher Changed AI from 0 to 164
+-HornedSorceror Changed AI from 0 to 169
+-HornedSorceror Changed Image from Guard to HornedSorceror
+-MutatedHugger Changed AI from 0 to 40
+-PoisonHugger Changed AI from 0 to 69
+-PoisonHugger Changed Image from Guard to PoisonHugger
+-Hugger Changed AI from 0 to 70
+-FinialTurtle Changed AI from 0 to 72
+-DarkWraith Changed AI from 180 to 192
+-SnowYeti Changed AI from 0 to 190
+-FrozenMagician Changed AI from 104 to 189
+-FrozenAxeman Changed AI from 103 to 188
+-FrozenMiner Changed AI from 102 to 187
+-FrozenWarewolf Changed AI from 0 to 180
+-SnowWolf Changed AI from 0 to 179
+-FrozenKnight Changed AI from 0 to 177
+-FrozenFighter Changed AI from 101 to 44
+-GeneralTucson Changed AI from 117 to 131
+-TucsonWarrior Changed AI from 112 to 127
+-TucsonMage Changed AI from 111 to 126
+-TucsonFighter Changed AI from 0 to 44
+-CannibalTentacles Changed AI from 116 to 130
+-ArmadilloElder Changed AI from 114 to 125
+-TucsonEgg Changed AI from 0 to 128
+-RestlessJar Changed AI from 120 to 122
+-SeedingsGeneral Changed AI from 139 to 121
+-CatShaman Changed AI from 186 to 118
+-StrayCat Changed AI from 184 to 117
+-BlackHammerCat Changed AI from 185 to 116
+-CatWidow Changed AI from 0 to 112
+-FireCat Changed AI from 0 to 44
+-Jar2 Changed AI from 119 to 120
+-Jar1 Changed AI from 118 to 119
+-TurtleGrass Changed AI from 0 to 173
+-FineSoul Changed AI from 0 to 174
+-Slave2 Changed AI from 0 to 15
+-Lamia Changed AI from 0 to 186
+-Hydrax Changed Image from Guard to Hydrax
 
 27/01/21
 
@@ -235,4 +292,65 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
  25/02/22
 
 -Changed GeneralJimnYo Ai from 140 to 123 (Correct AI)
+
+27/02/22
+
+-AssassinScroll Changed AI from 0 to 210
+-WizardScroll Changed AI from 0 to 210
+-TaoistScroll Changed AI from 0 to 210
+-WarriorScroll Changed AI from 0 to 210
+-BoulderSpirit Changed AI from 0 to 170
+-BoneArcher22 Changed AI from 0 to 8
+-BoneArcher22 Changed Image from Guard to BoneArcher
+-BoneSpearman22 Changed AI from 0 to 29
+-BoneSpearman22 Changed Image from Guard to BoneSpearman
+-WedgeMoth22 Changed AI from 0 to 7
+-WedgeMoth22 Changed Image from Guard to WedgeMoth
+-ZumaArcher22 Changed AI from 0 to 8
+-ZumaArcher22 Changed Image from Guard to ZumaArcher
+-ZumaGuardian22 Changed AI from 0 to 15
+-ZumaGuardian22 Changed Image from Guard to ZumaGuardian
+-ZumaStatue22 Changed AI from 0 to 15
+-ZumaStatue22 Changed Image from Guard to ZumaStatue
+-HornedWarrior Changed AI from 0 to 165
+-HornedMage Changed AI from 0 to 163
+-HornedCommander Changed AI from 0 to 171
+-HornedArcher Changed AI from 0 to 164
+-HornedSorceror Changed AI from 0 to 169
+-HornedSorceror Changed Image from Guard to HornedSorceror
+-MutatedHugger Changed AI from 0 to 40
+-PoisonHugger Changed AI from 0 to 69
+-PoisonHugger Changed Image from Guard to PoisonHugger
+-Hugger Changed AI from 0 to 70
+-FinialTurtle Changed AI from 0 to 72
+-DarkWraith Changed AI from 180 to 192
+-SnowYeti Changed AI from 0 to 190
+-FrozenMagician Changed AI from 104 to 189
+-FrozenAxeman Changed AI from 103 to 188
+-FrozenMiner Changed AI from 102 to 187
+-FrozenWarewolf Changed AI from 0 to 180
+-SnowWolf Changed AI from 0 to 179
+-FrozenKnight Changed AI from 0 to 177
+-FrozenFighter Changed AI from 101 to 44
+-GeneralTucson Changed AI from 117 to 131
+-TucsonWarrior Changed AI from 112 to 127
+-TucsonMage Changed AI from 111 to 126
+-TucsonFighter Changed AI from 0 to 44
+-CannibalTentacles Changed AI from 116 to 130
+-ArmadilloElder Changed AI from 114 to 125
+-TucsonEgg Changed AI from 0 to 128
+-RestlessJar Changed AI from 120 to 122
+-SeedingsGeneral Changed AI from 139 to 121
+-CatShaman Changed AI from 186 to 118
+-StrayCat Changed AI from 184 to 117
+-BlackHammerCat Changed AI from 185 to 116
+-CatWidow Changed AI from 0 to 112
+-FireCat Changed AI from 0 to 44
+-Jar2 Changed AI from 119 to 120
+-Jar1 Changed AI from 118 to 119
+-TurtleGrass Changed AI from 0 to 173
+-FineSoul Changed AI from 0 to 174
+-Slave2 Changed AI from 0 to 15
+-Lamia Changed AI from 0 to 186
+-Hydrax Changed Image from Guard to Hydrax
 
