@@ -13,7 +13,7 @@ Currently only BichonProvince and surrounding caves have been added.
 More to come!
 
 Thanks to Lilcooldoode
-Updated to work with the latest source code (9e78f8f)
+Updated to work with the latest source code (659050b)
 
 27/01/21
 
