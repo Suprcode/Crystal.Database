@@ -5,15 +5,7 @@
 
 
 *LATEST* 
-08/03/22
--World Map & Big Map system added.
 
-Currently only BichonProvince and surrounding caves have been added.
-
-More to come!
-
-Thanks to Lilcooldoode
-Updated to work with the latest source code (659050b)
 
 27/01/21
 
@@ -312,3 +304,8 @@ More to come!
 
 Thanks to Lilcooldoode
 Updated to work with the latest source code (9e78f8f)
+
+13/03/22
+-Updated to work with the latest source code (7a70fc2) (13/03/22)
+-Changed all Teleport NPC scripts with new script feature.
+https://imgur.com/XZg3EBn
