@@ -23,64 +23,36 @@ Maybe next <Time/@exit>
 #SAY
 Which place would you like to go?
  
-Teleport to: <BorderVillage/@move1> {(500 Gold)/GOLD}
-Teleport to: <SerpentValley/@move2> {(1000 Gold)/GOLD}
-Teleport to: <MudWall/@move3> {(2000 Gold)/GOLD}
-Teleport to: <TaoistSchool/@move4> {(2000 Gold)/GOLD}
-Teleport to: <CastleGi-Ryoong/@move5> {(2000 Gold)/GOLD}
-Teleport to: <Maybe next time/@exit>
+<<BorderVillage/@Border>>
+<<BichonWall/@BichonWall>>
+<<SerpentValley/@Serpent>>
+<<MudWall/@MudWall>>
+<<TaoistSchool/@TaoVillage>>
+<<CastleGi-Ryoong/@CastleGi>>
 
-[@move1]
-#IF
-CHECKGOLD > 500
+[@Border]
 #ACT
 MOVE n0 289 617
-TAKEGOLD 500
-#ELSEACT
-GOTO @B1
 
-[@move2]
-#IF
-CHECKGOLD > 1000
+[@BichonWall]
+#ACT
+MOVE n0 296 222
+
+[@Serpent]
 #ACT
 MOVE 2 500 485
-TAKEGOLD 1000
-#ELSEACT
-GOTO @B1
 
-[@move3]
-#IF
-CHECKGOLD > 2000
+[@MudWall]
 #ACT
 MOVE 3 361 342
-TAKEGOLD 2000
-#ELSEACT
-GOTO @B1
 
-[@move4]
-#IF
-CHECKGOLD > 2000
+[@TaoVillage]
 #ACT
-MOVE 11 164 337
-TAKEGOLD 2000
-#ELSEACT
-GOTO @B1
+MOVE 11 163 337
 
-[@move5]
-#IF
-CHECKGOLD > 2000
+[@CastleGi]
 #ACT
 MOVE 4 264 257
-TAKEGOLD 2000
-#ELSEACT
-GOTO @B1
-
-[@B1]
-#SAY
-You don't have enough {Gold/Gold} to use my service!
-Be gone, don't waste my time again!
- 
-<Close/@exit>
 
 [Quests]
 -57

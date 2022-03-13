@@ -40,4 +40,4 @@ MOVE n0 328 264
 [@_CustomCommand(KillPets)]
 #ACT
 CLEARPETS
-LocalMessage "Your Pets have been Forcefully Removed."
+LocalMessage "Your Pets have been killed successfully."
