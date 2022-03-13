@@ -5,7 +5,10 @@
 
 
 *LATEST* 
-
+13/03/22
+-Updated to work with the latest source code (7a70fc2) (13/03/22)
+-Changed all Teleport NPC scripts with new script feature.
+https://imgur.com/XZg3EBn
 
 27/01/21
 
