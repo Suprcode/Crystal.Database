@@ -5,10 +5,10 @@
 
 
 *LATEST* 
-13/03/22
--Updated to work with the latest source code (7a70fc2) (13/03/22)
--Changed all Teleport NPC scripts with new script feature.
-https://imgur.com/XZg3EBn
+31/03/22
+-Updated to work with the latest source code (16c006c)
+-Added Level up announcement for Levels: 20,40 & 60
+-Added Create/Revive/Seal Hero options on BW Signpost NPC
 
 27/01/21
 
@@ -312,3 +312,8 @@ Updated to work with the latest source code (9e78f8f)
 -Updated to work with the latest source code (7a70fc2) (13/03/22)
 -Changed all Teleport NPC scripts with new script feature.
 https://imgur.com/XZg3EBn
+
+31/03/22
+-Updated to work with the latest source code (16c006c)
+-Added Level up announcement for Levels: 20,40 & 60
+-Added Create/Revive/Seal Hero options on BW Signpost NPC
