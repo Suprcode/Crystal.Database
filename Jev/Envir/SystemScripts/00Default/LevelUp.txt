@@ -45,3 +45,20 @@ LEVEL < 57
 #ELSEACT
 GOTO @_LevelUp7
 
+[@_LevelUp7]
+#IF
+LEVEL == 20
+#ACT
+GLOBALMESSAGE "Congratulations to <$USERNAME> for reaching Level 20!" Announcement
+
+[@_LevelUp8]
+#IF
+LEVEL == 40
+#ACT
+GLOBALMESSAGE "Congratulations to <$USERNAME> for reaching Level 40!" Announcement
+
+[@_LevelUp9]
+#IF
+LEVEL == 60
+#ACT
+GLOBALMESSAGE "Congratulations to <$USERNAME> for reaching Level 60!" Announcement
