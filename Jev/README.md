@@ -8,6 +8,7 @@
 31/03/22
 -Updated to work with the latest source code (16c006c)
 -Added Level up announcement for Levels: 20,40 & 60
+-Added Create/Revive/Seal Hero options on BW Signpost NPC
 
 27/01/21
 
@@ -315,3 +316,4 @@ https://imgur.com/XZg3EBn
 31/03/22
 -Updated to work with the latest source code (16c006c)
 -Added Level up announcement for Levels: 20,40 & 60
+-Added Create/Revive/Seal Hero options on BW Signpost NPC
