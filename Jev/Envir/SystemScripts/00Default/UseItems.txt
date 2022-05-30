@@ -77,3 +77,31 @@ GIVEITEM PremiumReel 1
 GIVEITEM PremiumFloat 1
 GIVEITEM PremiumFinder 1
 GIVEITEM PremiumBait 7200
+
+;;GoldBar/GoldBarBundle/GoldChest
+[@_UseItem(500)]
+#IF
+CHECKGOLD <= 4293967295
+#ACT
+GIVEGOLD 1000000
+LocalMessage "Gained 1 Million Gold" Hint
+#ELSEACT
+GIVEITEM GoldBar 1
+
+[@_UseItem(501)]
+#IF
+CHECKGOLD <= 4289967295
+#ACT
+GIVEGOLD 5000000
+LocalMessage "Gained 5 Million Gold" Hint
+#ELSEACT
+GIVEITEM GoldBarBundle 1
+
+[@_UseItem(502)]
+#IF
+CHECKGOLD <= 4284967295
+#ACT
+GIVEGOLD 10000000
+LocalMessage "Gained 10 Million Gold" Hint
+#ELSEACT
+GIVEITEM GoldChest 1
