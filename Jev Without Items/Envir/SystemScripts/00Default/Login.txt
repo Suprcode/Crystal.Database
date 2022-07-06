@@ -1,4 +1,0 @@
-[@_LOGIN]
-#IF
-ISADMIN
-#INCLUDE [SystemScripts\00Default\Login\[952].txt] @Main

@@ -1,9 +1,0 @@
-[@MAIN]
-{
-#IF
-CHECKQUEST 154 COMPLETE
-#ACT
-ENTERMAP
-#ELSEACT
-LocalMessage "[Commander Luke] Halt! You may not enter come talk to me." Hint
-}

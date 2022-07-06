@@ -1,6 +1,0 @@
-;Gold
-1/5 Gold 1000
-
-;Pots + Other
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge

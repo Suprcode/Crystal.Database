@@ -1,6 +1,0 @@
-;Meat
-1/5 Venison 
-1/10 Venison 
-
-;Quest
-1/5 DeerMeat Q

@@ -1,6 +1,0 @@
-[@Main]
-#SAY
-#ACT
-MOVE SG003 235 33
-BREAK
-CLOSE

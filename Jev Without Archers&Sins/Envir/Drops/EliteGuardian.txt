@@ -1,7 +1,0 @@
-;Gold
-1/5 Gold 1750
-
-;Potions
-1/30 (HP)DrugLarge
-1/30 (MP)DrugLarge 
-1/100 SunPotion 
