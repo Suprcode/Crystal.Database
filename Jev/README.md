@@ -319,3 +319,149 @@ https://imgur.com/XZg3EBn
 -Added Level up announcement for Levels: 20,40 & 60
 -Added Create/Revive/Seal Hero options on BW Signpost NPC.
 -Added Configs folder for quick set up for Heroes and Bigmap/WorldMap system.
+
+14/04/22
+-Updated to work with the latest source code (c371cd8)
+
+-Added the remainder of the Provinces to the worldmap.
+View
+
+Thank you to @IceMan for the addition.
+
+30/05/22
+-Update to work with the latest source code. Few quest adjustments.
+-Removed maps as they can be grabbed from the client.
+-If you are missing any maps then head over to the Released section and locate Unused & Used maps.
+
+Known issues:
+
+A few quests are not back in.
+
+06/07/22
+-Removed all unsupported databases.
+-Updated to work with the latest source.
+-Changed Hen Drop file.
+-Added the missing quests back in.
+-Changed CraftingBook dura to 5.
+
+17/07/22
+The big update
+
+//Fixed Movements:
+
+SwampCavern_1F
+SwampCavern_2F
+Swamp
+RedCavern_1F
+RedCavern_2F
+RedCavern_3F
+RedCavern_4F
+RedCavern_5F
+RedCavern_6F
+RedCavern_7F
+RedCavern_8F
+RedCavern_9F
+RedCavern_10F
+RedCavern_11F
+RedCavern_12F
+RedCavern_KR
+WasteLands>RedCavern_1F
+SwampCavern_2F>TheSnowLair + add door to kr
+
+//Added or Adjusted Minimaps/Bigmaps:
+
+SwampCavern_1F
+SwampCavern_2F
+Swamp
+DarkSwamp
+Ruins
+HauntedForest
+WhiteValley
+SnowCavern_1F
+SnowCavern_2F
+HellCavern_1F
+HellCavern_2F
+HellOverpass
+IceHellCavern
+IceHellTemple(S)
+DangerousCavern
+IceHellTemple(N)
+IceHellPass
+IceHellTemple_KR
+HellFire_1F
+HellFire_2F
+HellFire_3F
+HellFire_KingsRoom
+DeadForest
+CastleRuins
+RedCavern_1F
+RedCavern_2F
+RedCavern_3F
+RedCavern_4F
+RedCavern_5F
+RedCavern_6F
+RedCavern_7F
+RedCavern_8F
+RedCavern_9F
+RedCavern_10F
+RedCavern_11F
+RedCavern_12F
+RedCavern_KR
+DangerousCavern
+S_ValleyDeadMine (All three)
+ViperMaze (All of them) *DOORS NOT SHOWN ON BIGMAP*
+ViperPath (All of them)
+ViperCave (Both)
+YimoogiNest
+Lunar_1F
+Lunar_2F
+Lunar_3F
+Lunar_4F
+LunarRoom
+RedValley_1F to 5F
+RedMoonRoom
+Great_TaoTomb
+
+
+* All the above have had their door movements placed on the BigMap System.
+
+//Added Maps:
+RedCavern_1F R01
+RedCavern_2F R02
+RedCavern_3F R03
+RedCavern_4F R04
+RedCavern_5F R05
+RedCavern_6F R06
+RedCavern_7F R07
+RedCavern_8F R08
+RedCavern_9F R09
+RedCavern_10F R10
+RedCavern_11F R11
+RedCavern_12F R12
+RedCavern_KR RCK
+HellFire_1F HF1
+HellFire_2F HF2
+HellFire_3F HF3
+HellFire_KingsRoom HKR
+
+//Attribute Changes
+
+SnowCavern_1F No reconnect back to WhiteValley
+SnowCavern_2F No reconnect back to WhiteValley
+TheSnowLair No reconnect back to WhiteValley
+RedCavern_1F to KR No reconnect back to Wastelands
+LunarRoom now using the right map name
+
+//Respawns
+
+RedCavern_1F Mob count halved
+
+
+//Known Issues
+
+SnowCave_1F Correct map but still black, Maybe missing tiles?
+SnowCave_2F Correct map but still black, Maybe missing tiles?
+WhiteDragonPassage Mob AIs
+
+
+
