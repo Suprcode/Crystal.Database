@@ -15,7 +15,7 @@ MOVE 0 355 237
 
 [@start]
 #IF
-CHECKHUM 1 EM001
+CHECKHUM >= 1 EM001
 #SAY
 There is already someone fighting!
 try again later...

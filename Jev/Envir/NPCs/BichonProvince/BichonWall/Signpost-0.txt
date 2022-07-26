@@ -66,7 +66,7 @@ Move 0102
 
 [@go-merchant]
 #ACT
-Move n0 263 256
+Move 0 263 256
 
 
 [@go-tavern]
@@ -76,7 +76,7 @@ Move 0101
 
 [@go-statues]
 #ACT
-Move n0 351 243
+Move 0 351 243
 
 [@ReviveHero]
 #ACT

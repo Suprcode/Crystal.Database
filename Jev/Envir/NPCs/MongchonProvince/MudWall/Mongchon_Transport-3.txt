@@ -32,11 +32,11 @@ Which place would you like to go?
 
 [@Border]
 #ACT
-MOVE n0 289 617
+MOVE 0 289 617
 
 [@BichonWall]
 #ACT
-MOVE n0 296 222
+MOVE 0 296 222
 
 [@Serpent]
 #ACT

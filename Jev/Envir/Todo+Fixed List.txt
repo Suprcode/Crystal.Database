@@ -7,10 +7,6 @@ Add Quest to enter Palace
 Add HellFire Spawns
 Add IceHell Spawns
 
-Add HellFire Coords
-Add IceHell Coords
-Add RedCavern Coords
-
 Add Remaining Drops
 
 Add NPC Dialog to Rankings + Master

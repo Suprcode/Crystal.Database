@@ -18,7 +18,7 @@ Sorry <$USERNAME>, You are to high level.
 
 [@NR2]
 #IF
-INGUILD
+INGUILD NewbieGuild
 #SAY
 <$USERNAME>, You are currently in a guild.
 Please leave this guild before trying again.
