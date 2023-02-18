@@ -1,7 +1,11 @@
 [@Main]
+#IF
+ISADMIN
 #Say
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
- 
+#ELSEACT
+MOVE 0 300 300
+
 <Look at Awakening Items/@Buy>
 
 

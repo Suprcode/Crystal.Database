@@ -24,3 +24,6 @@ BeefRib 10
 
 [@GoldReward]
 8200
+
+// Pickup - 
+// Hand In - Merchant_Hans 1 328 86

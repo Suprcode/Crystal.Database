@@ -25,3 +25,6 @@ BoarTooth 75 "Collect the Boar's Tooth"
 
 [@GoldReward]
 25000
+
+// Pickup - MudWall_Board 3 330 325
+// Hand In - MudWall_Board 3 330 325

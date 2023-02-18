@@ -27,3 +27,6 @@ StrongLeatherShoes
 
 [@GoldReward]
 300
+
+// Pickup - Master_Shok 1 312 73
+// Hand In - Merchant_Sarah 0 313 271

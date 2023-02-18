@@ -30,3 +30,6 @@ SilkShoes
 
 [@GoldReward]
 950
+
+// Pickup - Traveller_Soho D2042 114 155
+// Hand In - Traveller_Soho D2042 114 155

@@ -27,3 +27,6 @@ StrongLeatherBelt
 
 [@GoldReward]
 125
+
+// Pickup - 
+// Hand In - MirGuide_Peter 0 328 258

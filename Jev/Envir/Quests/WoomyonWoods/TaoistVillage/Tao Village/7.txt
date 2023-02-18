@@ -26,3 +26,6 @@ CursedZombie 10
 
 [@GoldReward]
 6600
+
+// Pickup - LeadTrainer_Harry 1002 11 8
+// Hand In - LeadTrainer_Harry 1002 11 8

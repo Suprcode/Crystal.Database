@@ -34,3 +34,6 @@ Try find {Vincent's/LimeGreen} friend he was last seen on
 
 [@GoldReward]
 2220
+
+// Pickup - 
+// Hand In - OldSkeleton D404 104 101

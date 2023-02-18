@@ -26,3 +26,6 @@ PrajnaHistory 1
 
 [@GoldReward]
 20000
+
+// Pickup - LeadTrainer_Harry 1002 11 8
+// Hand In - LeadTrainer_Harry 1002 11 8

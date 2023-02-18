@@ -68,14 +68,14 @@
 1/2000 SCStone(L) 
 
 ;Potions
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium 
-1/100 SunPotion 
-1/200 SunPotion 
-1/400 SunPotion 
-1/600 SunPotion(M) 
-1/1000 OldGinseng 
-1/2000 StormDrug(S) 
+1/2 (HP)DrugMedium 
+1/2 (MP)DrugMedium 
+1/10 SunPotion 
+1/20 SunPotion 
+1/40 SunPotion 
+1/60 SunPotion(M) 
+1/100 OldGinseng 
+1/200 StormDrug(S) 
 
 ;Crafting Materials
 1/15 BugShell 

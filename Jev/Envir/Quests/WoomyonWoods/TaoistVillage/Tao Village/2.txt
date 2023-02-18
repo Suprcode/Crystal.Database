@@ -26,3 +26,6 @@ BlackThread 10
 
 [@GoldReward]
 5900
+
+// Pickup - Merchant_Sam 1003 13 16
+// Hand In - Merchant_Sam 1003 13 16

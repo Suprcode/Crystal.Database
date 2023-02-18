@@ -27,3 +27,6 @@ BronzeStrap
 
 [@GoldReward]
 750
+
+// Pickup - Master_Shok 1 312 73
+// Hand In - Master_Shok 1 312 73

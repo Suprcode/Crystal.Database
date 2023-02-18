@@ -28,3 +28,6 @@ Focus
 
 [@GoldReward]
 45
+
+// Pickup - Captain_Jerald 0 320 476
+// Hand In - Captain_Jerald 0 320 476

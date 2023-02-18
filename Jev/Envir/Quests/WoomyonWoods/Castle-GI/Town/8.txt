@@ -15,7 +15,7 @@ OmaWarrior 1
 [@CarryItems]
 
 [@FixedRewards]
-BlackIronBelt 
+BlackIronBelt
 
 [@SelectRewards]
 
@@ -24,3 +24,6 @@ BlackIronBelt
 
 [@GoldReward]
 2050
+
+// Pickup - Master_Shok 1 312 73
+// Hand In - Master_Shok 1 312 73

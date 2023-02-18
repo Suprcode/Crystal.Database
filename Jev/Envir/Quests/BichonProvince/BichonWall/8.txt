@@ -28,3 +28,6 @@ SolidBronzeAxe
 
 [@GoldReward]
 300
+
+// Pickup - Merchant_Jerry 1007 11 14
+// Hand In - Merchant_Jerry 1007 11 14

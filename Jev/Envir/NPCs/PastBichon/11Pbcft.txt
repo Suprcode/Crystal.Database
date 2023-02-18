@@ -20,8 +20,8 @@ Please select the Recipe you either want to Buy or Sell.
 (MP)DrugXL
 AmuletOfRevival
 PeddlerTorch
-GreyPoison
-YellowPoison
+GreenPoison
+RedPoison
 BlackThread
 WhiteThread
 RedThread
@@ -37,6 +37,7 @@ HerbalTea
 MeatSoup
 ZerkSoup
 LargeBone
+Bone
 SewingGoods
 BoneHammer
 FishBait

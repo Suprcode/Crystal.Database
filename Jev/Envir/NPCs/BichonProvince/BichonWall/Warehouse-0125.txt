@@ -18,7 +18,7 @@ Hello traveller. How can i help you?
 You have <$PARCELAMOUNT> parcels awaiting collection.
 <Send/@SendParcel> Parcel
 <Collect/@CollectParcel> Parcels
-Seeking <Information/@Info> 
+Seeking <Information/@Information> 
 
 [@Storage]
 #SAY

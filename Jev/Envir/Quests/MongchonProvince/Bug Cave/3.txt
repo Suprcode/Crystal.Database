@@ -28,3 +28,6 @@ Investigate why the {Soul/LimeGreen}, has returned.
 
 [@GoldReward]
 7125
+
+// Pickup - LostSoul D601 202 204
+// Hand In - LostSoul D601 202 204

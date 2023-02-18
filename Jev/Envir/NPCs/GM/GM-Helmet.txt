@@ -1,7 +1,11 @@
 [@Main]
+#IF
+ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 I see you're wearing: {<$HELMET>/CORAL}
+#ELSEACT
+MOVE 0 300 300
  
 <Buy/@Buy> Helmet
 <Sell/@Sell> Helmet

@@ -22,3 +22,6 @@ SkysLetter 2
 
 [@GoldReward]
 4100
+
+// Pickup - Apprentice 11 191 325
+// Hand In - Sir_Mogu 0101 8 12

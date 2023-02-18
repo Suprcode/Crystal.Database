@@ -1,8 +1,12 @@
 [@Main]
+#IF
+ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 I see you're wearing: {L: <$RING_L> R: <$RING_R>/CORAL}
- 
+#ELSEACT
+MOVE 0 300 300
+
 <Buy/@Buy> Ring
 <Sell/@Sell> Ring
 <Repair/@Repair> Ring

@@ -27,7 +27,6 @@ CHECKGOLD > 2000
 #ACT
 TAKEGOLD 2000
 MOVE 0 253 673
-BREAK
 #ELSESAY
 You Dont Have enough {Gold/Gold} to use my Service!
 Be gone, don't waste my time again!
@@ -40,7 +39,6 @@ CHECKGOLD > 12000
 #ACT
 TAKEGOLD 12000
 MOVE WHITEVILLAGE 67 93
-BREAK
 #ELSESAY
 You Dont Have enough {Gold/Gold} to use my Service!
 Be gone, don't waste my time again!

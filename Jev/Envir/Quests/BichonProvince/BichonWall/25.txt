@@ -26,3 +26,6 @@ CorpsFlower 10
 
 [@GoldReward]
 18500
+
+// Pickup - Alchemist_Samuel 324 291
+// Hand In - Alchemist_Samuel 324 291

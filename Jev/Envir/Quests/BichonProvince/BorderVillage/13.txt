@@ -27,3 +27,6 @@ North West.
 
 [@GoldReward]
 60
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - HighPriest_Jude 0 429 475

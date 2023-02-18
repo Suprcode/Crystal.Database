@@ -26,3 +26,6 @@ BoxofHolyWater(3)
 
 [@GoldReward]
 300
+
+// Pickup - 
+// Hand In - Merchant_Robert 2 505 479

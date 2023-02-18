@@ -26,3 +26,6 @@ StrongWoodenBow
 
 [@GoldReward]
 38
+
+// Pickup - Blacksmith_Smith 0 296 613
+// Hand In - Blacksmith_Smith 0 296 613

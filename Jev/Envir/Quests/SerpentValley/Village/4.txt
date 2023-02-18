@@ -26,3 +26,6 @@ SolidArmour
 
 [@GoldReward]
 250
+
+// Pickup - Merchant_Robert 2 505 479
+// Hand In - Merchant_Robert 2 505 479

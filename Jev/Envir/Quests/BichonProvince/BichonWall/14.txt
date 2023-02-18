@@ -24,3 +24,6 @@ SteelBuckle
 
 [@GoldReward]
 145
+
+// Pickup - CraftsLady_Alice 0 321 265 
+// Hand In - 

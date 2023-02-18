@@ -25,3 +25,6 @@ RepairOil 2
 
 [@GoldReward]
 600
+
+// Pickup - Blacksmith_Bill 0 302 221
+// Hand In - Merchant_Bradley 0120 7 8

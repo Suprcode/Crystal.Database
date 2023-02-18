@@ -27,3 +27,6 @@ Find the Stone within {Stone Temple/Yellow}
 
 [@GoldReward]
 13600
+
+// Pickup - MonghconDelegate_Michael 3 330 332
+// Hand In - MongchonDelegate_Michael 3 330 332

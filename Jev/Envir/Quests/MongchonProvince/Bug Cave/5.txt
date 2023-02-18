@@ -29,3 +29,6 @@ StrongBambooFlute
 
 [@GoldReward]
 1781
+
+// Pickup - LostSoul D601 202 204
+// Hand In - Merchant_Rachel 0158 4 21

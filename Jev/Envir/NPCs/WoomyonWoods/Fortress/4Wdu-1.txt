@@ -51,6 +51,7 @@ These are the items still available to purchase back.
 Candle
 Torch
 RandomTeleport
+TownTeleport
 DungeonEscape
 Amulet
 

@@ -22,3 +22,6 @@ OldNecklace 1
 
 [@GoldReward]
 8000
+
+// Pickup - LostSoul D601 202 204
+// Hand In - LostSoul D601 202 204

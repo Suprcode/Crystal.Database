@@ -26,3 +26,6 @@ OldCopperRing
 
 [@GoldReward]
 20
+
+// Pickup - Merchant_John 0 292 604
+// Hand In - Merchant_John 0 292 604

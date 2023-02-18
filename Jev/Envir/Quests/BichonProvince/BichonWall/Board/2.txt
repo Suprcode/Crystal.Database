@@ -24,3 +24,6 @@ SkeletonBone 40 "Gather SkeletonBones"
 
 [@GoldReward]
 5000
+
+// Pickup - BichonWall_Board 0 334 259
+// Hand In - BichonWall_Board 0 334 259

@@ -17,3 +17,4 @@
 ;Quest
 1/5 BatTeeth Q
 1/6 BatWings Q
+1/2000 AncientScyther Q

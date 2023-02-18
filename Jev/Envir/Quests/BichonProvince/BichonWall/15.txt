@@ -31,3 +31,6 @@ WornBeadofPhoenix
 
 [@GoldReward]
 675
+
+// Pickup - Blacksmith_Bill 0 302 221
+// Hand In - Blacksmith_Bill 0 302 221

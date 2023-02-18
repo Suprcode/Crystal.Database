@@ -32,8 +32,8 @@ Show me the Material's..
 (MP)DrugXL
 AmuletOfRevival
 PeddlerTorch
-GreyPoison
-YellowPoison
+GrenPoison
+RedPoison
 BlackThread
 WhiteThread
 RedThread

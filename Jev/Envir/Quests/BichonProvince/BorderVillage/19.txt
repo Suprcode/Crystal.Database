@@ -24,3 +24,6 @@ Speak with {Jerald/LimeGreen} at Coordinates 320:476
 
 [@GoldReward]
 60
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - Captain_Jerald 0 320 476

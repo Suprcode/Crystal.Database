@@ -24,3 +24,6 @@ BatWings 10
 
 [@GoldReward]
 2500
+
+// Pickup - Merchant_Sarah 0 313 271
+// Hand In - Merchant_Sarah 0 313 271

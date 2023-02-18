@@ -23,3 +23,6 @@ BloodPill 17
 
 [@GoldReward]
 88500
+
+// Pickup - Merchant_Kevin 3 346 334
+// Hand In - Merchant_Kevin 3 346 334

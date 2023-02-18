@@ -27,3 +27,6 @@ SecretRecipe 2
 
 [@GoldReward]
 800
+
+// Pickup - 
+// Hand In - CraftsLady_Alice 0 321 265

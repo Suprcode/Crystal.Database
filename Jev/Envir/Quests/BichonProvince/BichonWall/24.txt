@@ -22,3 +22,6 @@ with {CaveGuide/LimeGreen}.
 
 [@GoldReward]
 7750
+
+// Pickup - Examiner_Tony 0 340 257
+// Hand In - CaveGuide_Paddy 11 119 293

@@ -28,3 +28,6 @@ FireBall
 
 [@GoldReward]
 45
+
+// Pickup - ArchMage_Robert 0 8 11
+// Hand In - ArchMage_Robert 0 8 11

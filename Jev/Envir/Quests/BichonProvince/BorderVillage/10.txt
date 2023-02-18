@@ -25,3 +25,6 @@ Speak with {MasterMage/LimeGreen} at Coordinates 314:474
 
 [@GoldReward]
 60
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - ArchMage_Robert 0 8 11

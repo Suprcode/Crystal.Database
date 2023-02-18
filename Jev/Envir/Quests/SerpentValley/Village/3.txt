@@ -27,3 +27,6 @@ YellowCrystalPendant
 
 [@GoldReward]
 75
+
+// Pickup - Merchant_Melissa 2 517 477 
+// Hand In - Merchant_Bradley 0120 7 8

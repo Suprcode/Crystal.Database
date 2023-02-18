@@ -25,3 +25,6 @@ BugBlood 12
 
 [@GoldReward]
 3800
+
+// Pickup - Merchant_Helen 1 292 84
+// Hand In - Merchant_Helen 1 292 84

@@ -9,7 +9,7 @@
 2/5 SunPotion
 2/10 SunPotion(M)
 
-1/50 GreyPoison
+1/50 GreenPoison
 
 ;Weapon
 1/400 WarSpiritBlade

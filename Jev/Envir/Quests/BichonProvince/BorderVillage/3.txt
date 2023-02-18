@@ -25,3 +25,6 @@ StiffWoodenBow
 10
 
 [@GoldReward]
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - Merchant_John 0 292 604

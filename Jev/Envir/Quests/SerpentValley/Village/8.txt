@@ -24,3 +24,6 @@ BrokenSword
 
 [@GoldReward]
 300
+
+// Pickup - 
+// Hand In - MongchonScout_Brian 0100 4 10

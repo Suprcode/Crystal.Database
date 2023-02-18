@@ -22,3 +22,6 @@ BlackIronBangle
 
 [@GoldReward]
 2422
+
+// Pickup - CaveGuide_Paddy 11 119 293
+// Hand In - Examiner_Tony 0 340 257

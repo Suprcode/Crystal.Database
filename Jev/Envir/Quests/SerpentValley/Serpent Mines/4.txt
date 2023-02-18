@@ -28,3 +28,6 @@ BlackPearlRing
 
 [@GoldReward]
 4800
+
+// Pickup - InnKeeper_Robin 0146 5 10
+// Hand In - InnKeeper_Robin 0146 5 10

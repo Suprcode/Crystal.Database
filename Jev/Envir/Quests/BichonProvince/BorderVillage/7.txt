@@ -25,3 +25,6 @@ Speak with {Master_Wa/LimeGreen} at Coordinates 110:317
 
 [@GoldReward]
 60
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - Master_Wa 0 110 317

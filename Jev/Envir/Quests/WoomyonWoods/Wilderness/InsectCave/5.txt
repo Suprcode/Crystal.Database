@@ -24,3 +24,6 @@ Antidote 1
 
 [@GoldReward]
 3800
+
+// Pickup - Traveller_Soho D2042 114 155
+// Hand In - Traveller_Soho D2042 114 155

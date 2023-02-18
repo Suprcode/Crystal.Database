@@ -99,5 +99,5 @@ RandomTeleport
 DungeonEscape
 Amulet
 RepairOil
-YellowPoison
-GreyPoison
+GreenPoison
+RedPoison

@@ -92,11 +92,13 @@ and you can return to a village promptly by using it...
 [Types]
 8
 12
+17
 
 [Trade]
 Candle
 Torch
 RandomTeleport
+TownTeleport
 DungeonEscape
 Amulet
 RepairOil

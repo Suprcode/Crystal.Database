@@ -26,3 +26,6 @@ MagicBangle
 
 [@GoldReward]
 935
+
+// Pickup - OldSkeleton D404 104 101 
+// Hand In - 

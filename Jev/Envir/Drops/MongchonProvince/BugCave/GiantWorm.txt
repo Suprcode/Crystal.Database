@@ -68,11 +68,11 @@
 1/1500 SCStone(M) 
 
 ;Potions
-1/40 (HP)DrugMedium 
-1/40 (MP)DrugMedium 
-1/40 SunPotion 
-1/60 SunPotion(M) 
-1/200 OldGinseng 
+1/4 (HP)DrugMedium 
+1/4 (MP)DrugMedium 
+1/4 SunPotion 
+1/6 SunPotion(M) 
+1/20 OldGinseng 
 
 ;Crafting Materials
 1/15 Mandible 

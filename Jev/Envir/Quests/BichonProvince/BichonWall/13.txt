@@ -24,3 +24,6 @@ CannibalSeed 10
 [@ExpReward]
 
 [@GoldReward]
+
+// Pickup - CraftsLady_Alice 0 321 265
+// Hand In - CraftsLady_Alice 0 321 265

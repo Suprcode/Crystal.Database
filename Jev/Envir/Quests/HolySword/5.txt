@@ -21,3 +21,6 @@ Listen to Abel's Story.
 [@ExpReward]
 
 [@GoldReward]
+
+// Pickup - BigTaoist D10061 11 16
+// Hand In - BigTaoist D10061 11 16

@@ -41,9 +41,3 @@ These are the items still available to purchase back.
 (MP)DrugLarge 1
 (MP)DrugLarge 5
 (MP)DrugLarge 10
-(HP)DrugXL 1
-(HP)DrugXL 5
-(HP)DrugXL 10
-(MP)DrugXL 1
-(MP)DrugXL 5
-(MP)DrugXL 10

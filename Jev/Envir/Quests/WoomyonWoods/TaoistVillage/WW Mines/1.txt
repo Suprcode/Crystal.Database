@@ -26,3 +26,6 @@ HungryZombie 25 "Eliminate the HungryZombie Threat"
 
 [@GoldReward]
 15000
+
+// Pickup - CaveGuide_Paddy 11 119 293
+// Hand In - CaveGuide_Paddy 11 119 293

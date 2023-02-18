@@ -28,3 +28,6 @@ we can not estimate its range.
 [@ExpReward]
 
 [@GoldReward]
+
+// Pickup - Apprentice 11 179 309
+// Hand In - Master_Perry 1002 14 13

@@ -24,3 +24,6 @@ DarkPriestZombie 10
 
 [@GoldReward]
 4900
+
+// Pickup - VulnerableSon_Alfie 2 562 172
+// Hand In - VulnerableSon_Alfie 2 562 172

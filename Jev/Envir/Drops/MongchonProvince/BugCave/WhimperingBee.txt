@@ -74,13 +74,13 @@
 1/1500 SCStone(M) 
 
 ;Potions
-1/60 (HP)DrugMedium 
-1/60 (MP)DrugMedium 
-1/60 (HP)DrugMedium 
-1/60 (MP)DrugMedium 
-1/200 SunPotion 
-1/400 SunPotion(M) 
-1/1000 OldGinseng 
+1/6 (HP)DrugMedium 
+1/6 (MP)DrugMedium 
+1/6 (HP)DrugMedium 
+1/6 (MP)DrugMedium 
+1/20 SunPotion 
+1/40 SunPotion(M) 
+1/100 OldGinseng 
 1/500 ImpactDrug(S)
 1/500 MagicDrug(S) 
 1/500 TaoistDrug(S) 

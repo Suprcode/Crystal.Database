@@ -24,3 +24,6 @@ Search for {Soho/LimeGreen} in the Second Floor of
 
 [@GoldReward]
 2850
+
+// Pickup - Merchant_Helen 1 292 84
+// Hand In - Traveller_Soho D2042 114 155

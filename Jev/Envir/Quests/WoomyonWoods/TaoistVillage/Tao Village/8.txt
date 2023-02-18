@@ -23,3 +23,6 @@ AncientTree 5
 
 [@GoldReward]
 7000
+
+// Pickup - Merchant_Jerald 1001 14 12
+// Hand In - Merchant_Jerald 1001 14 12

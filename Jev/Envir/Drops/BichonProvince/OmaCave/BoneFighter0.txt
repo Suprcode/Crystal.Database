@@ -74,3 +74,4 @@
 ;Quest
 1/5 SkeletonBone Q
 1/5 Skull Q
+1/2000 AncientScyther Q

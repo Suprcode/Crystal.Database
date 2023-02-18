@@ -68,11 +68,11 @@
 1/1500 SCStone(M) 
 
 ;Potions
-1/60 (HP)DrugMedium 
-1/60 (MP)DrugMedium 
-1/400 SunPotion 
-1/600 SunPotion(M) 
-1/600 OldGinseng 
+1/6 (HP)DrugMedium 
+1/6 (MP)DrugMedium 
+1/40 SunPotion 
+1/60 SunPotion(M) 
+1/60 OldGinseng 
 
 ;Crafting Materials
 1/15 BugShell 

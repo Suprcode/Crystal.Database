@@ -28,3 +28,6 @@ RedBoar 15
 
 [@GoldReward]
 13500
+
+// Pickup - MonghconDelegate_Michael 3 330 332
+// Hand In - MongchonDelegate_Michael 3 330 332

@@ -25,3 +25,6 @@ Speak with {Cloud/LimeGreen} at Coordinates 101:411
 
 [@GoldReward]
 60
+
+// Pickup - Assistant_Jane 0 284 606
+// Hand In - HighAssassin_Cloud 0 101 411

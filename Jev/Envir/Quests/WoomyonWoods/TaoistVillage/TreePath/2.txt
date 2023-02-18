@@ -22,3 +22,6 @@ EvilBigApe 1
 
 [@GoldReward]
 40000
+
+// Pickup - Investigator_David 11 182 295
+// Hand In - Investigator_David 11 182 295

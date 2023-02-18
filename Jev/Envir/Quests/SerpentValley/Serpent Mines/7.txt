@@ -31,3 +31,6 @@ ToughLongBow
 
 [@GoldReward]
 4800
+
+// Pickup - Merchant_Dr.Kim 0017 5 9
+// Hand In - Merchant_Dr.Kim 0017 5 9

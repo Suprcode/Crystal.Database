@@ -146,7 +146,8 @@ Level 36: MoonLight
 Level 38: MPEater
 Level 40: SwiftFeet
 Level 46: DarkBody
-Level 50: MoonBlade
+Level 47: Hemorrhage
+Level 50: CresentSlash
 <Back/@helpBooks>
 
 
@@ -190,20 +191,9 @@ Fencing
 Slaying
 FireBall
 Repulsion
-ElectricShock
-GreatFireBall
-HellFire
-ThunderBolt
-Teleport
 Healing
 SpiritSword
-Poisoning
-SoulFireBall
-SummonSkeleton
 FatalSword
 DoubleSlash
 Focus
 StraightShot
-MentalState
-DoubleShot
-Meditation

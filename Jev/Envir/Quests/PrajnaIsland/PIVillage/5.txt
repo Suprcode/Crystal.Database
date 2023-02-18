@@ -24,3 +24,6 @@ Algae 2
 
 [@GoldReward]
 12000
+
+// Pickup - 
+// Hand In - CraftsLady_Louise 3 299 371

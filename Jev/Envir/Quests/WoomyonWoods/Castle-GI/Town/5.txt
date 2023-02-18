@@ -26,3 +26,6 @@ WoomaSoldier 20
 
 [@GoldReward]
 8200
+
+// Pickup - SubjugationLead_Eric 1 317 71
+// Hand In - SubjugationLead_Eric 1 317 71

@@ -12,7 +12,7 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 Welcome to the Mir world.
-It is my job to guide newbies.
+It's my job to guide newbies.
 Anything I can help with?
 
 <Hunting info by each level/@hunting>
@@ -21,7 +21,8 @@ Anything I can help with?
 
 [@hunting]
 #SAY
-It is wise to know where to hunt with your level in Mir world.
+It is wise to know where to hunt depending on your level in 
+the Mir world.
 Ask me anytime, I will be glad to guide you.
 <level 1~11/@level1-11>
 <level 11~21/@level11-21>
@@ -46,15 +47,15 @@ Please refer to the whole map by pressing B.
 #SAY
 If you wish for a safe hunt, try Hen, Deer, and Sheep near town.
 They do not attack until you hit them.
-In fact, you can get some fresh <meat/@slicemeat> and by trading it with butcher in town,
-you can money in return.
+In fact, you can get some fresh <meat/@slicemeat> and by trading it with a 
+butcher in any town, you can earn money in return.
 
 <Back/@level1-11>                              <Go to Main/@main>
 
 [@slicemeat]
 #SAY
-Slice meat: Getting Meat from domestic animal such as chicken, Deer Click
-at dead body of those (Alt+left click) and acquire meat after slicing action.
+Slice meat: Getting Meat from domestic animal such as chicken, Deer.
+Click at dead a body of those (Alt+left click) and acquire meat after slicing action.
 
 Mining: Equip PickAxe to mine. Left click will automatically of mining.
 Those acquired minerals will be used as raw material for
@@ -112,12 +113,12 @@ raft driving is most recommended.
 
 [@lvl14-17]
 #SAY
-If you wish for higher exp. Go OmaCave northwest
+If you wish for higher exp cave. Go OmaCave northwest
 of Bichon-province. This is the first dungeon in Mir world where CaveBat,
-CaveMaggot, and Skeleton appear.
-Bring Candle, Portal Scroll and enough potions.
+CaveMaggot, and Skeletons appear.
+Bring Candles, Town Teleports and enough potions.
 It is located far away from town.
-But be specially aware of poison from CaveMaggot. You mat be paralyzed.
+But be specially aware of the poison from CaveMaggots. You may be paralyzed.
 
 <Back/@level11-21>                 <Go to Main/@main>
 
@@ -125,9 +126,9 @@ But be specially aware of poison from CaveMaggot. You mat be paralyzed.
 #SAY
 Go to Dead Mine at the west of Bichon-Province or InsectCave at the
 southwest of WoomyonWoods.
-This place may give you a difficult time because killed Zombie will keep
+This place may give you a difficult time because dead Zombies will keep
 reviving for a few times.
-Thunderbolt of Wizard is very effective in this place.
+A Wizard's Thunderbolt is very effective in this place.
 
 <Back/@level11-21>                   <Go to Main/@main>
 
@@ -152,11 +153,11 @@ RedValley would be an alternative choice at this level.
 
 [@level41]
 #SAY
-Once you achieved this level, go to ZumaTemple at the East of Mongchon
-Province. Party is recommended since soloing here is very difficult.
+Once you've achieved this level, go to ZumaTemple towrads the East of Mongchon
+Province. A party is recommended since soloing here is very difficult.
 By the time you get used to this place, go to PastBichon by the TimeStone
 in Prajna field.
-You will meet scary monsters and fire dragon.
+You will meet scary monsters and a firey dragon.
 
 <Back/@hunting>                   <Go to Main/@main>
 
@@ -170,6 +171,9 @@ skills. Ask me anytime, I will be glad to guide you.
 <Warrior skill/@warrskill>
 <Wizard skill/@wizskill>
 <Taoist skill/@taoskill>
+<Assassin skill/@sinskill>
+<Archer skill/@arcskill>
+
 <Combat Technic/@combattech>
 
 <Go to Main/@main>
@@ -253,6 +257,54 @@ Taoist skill page 2:
 <SummonHolyDeva 38/@summondeva>     <Curse 40/@curse>     <PoisonCloud 43/@poisoncloud>
 
 <Back/@combat>                         <Go to Main/@main>
+
+[@sinskill]
+#SAY
+Assassin skill page 1:
+Assassins are members of a secret organization and their history is relatively unknown. 
+They're capable of hiding themselves and performing attacks while being unseen by 
+others, which naturally makes them excellent at making fast kills. It is necessary 
+for them to avoid being in battles with multiple enemies due to their weak vitality 
+and strength.
+
+<FatalSword 7/@fatalsword>     <LightBody 27/@lightbody>     <PoisonSword 34/@poisonsword>
+<DoubleSlash 15/@doubleslash>     <HeavenlySword 30/@heavenlysword>     <MoonLight 36/@moonlight>
+<Haste 20/@haste>     <FireBurst 33/@fireburst>     <MPEater 38/@mpeater>
+<FlashDash 25/@flashdash>     <Trap 33/@trap>     <SwiftFeet 40/@swiftfeet>
+<DarkBody 46/@darkbody>     <CresentSlash 50/@cresentslash>     <Hemorrhage 47/@hemorrhage>
+
+<Back/@combat>              <Go to Main/@main>
+
+[@arcskill]
+#SAY
+Archer skill page 1:
+Archers are a class of great accuracy and strength, 
+using their powerful skills with bows to deal extraordinary 
+damage from range. Much like wizards, they rely on their 
+keen instincts to dodge oncoming attacks as they tend to 
+leave themselves open to frontal attacks. However, 
+their physical prowess and deadly aim allows them to instil 
+fear into anyone they hit.
+
+<Focus 7/@focus>     <ElementalShot 20/@elementalshot>     <Backstep 30/@backstep>
+<StraightShot 9/@straightshot>     <ExplosiveTrap 22/@explosivetrap>     <DelayedExplosion 31/@delayedexplosion>
+<MentalState 11/@mentalstate>     <Concentration 23/@concentration>     <ElementalBarrier 33/@elementalbarrier>
+<DoubleShot 14/@doubleshot>     <VampireShot 26/@vampireshot>     <BindingShot 35/@bindingshot>
+<Meditation 19/@meditation>     <SummonVampire 28/@summonvampire>
+
+<Back/@combat>              <Go to Next/@arcskill2>
+
+[@arcskill2]
+#SAY
+Archer skill page 2:
+
+<SummonToad 37/@summontoad>     <PoisonShot 40/@poisonshot>     <CrippleShot 43/@crippleshot>
+<SummonSnakes 46/@summonsnakes>     <NapalmShot 48/@napalmshot>     <OneWithNature 50/@onewithnature>
+
+<Back/@combat>                         <Go to Main/@main>
+
+
+-------------------------------------------------------------------------------------------------------
 
 [@fencing]
 #SAY
@@ -377,7 +429,7 @@ Defense power and duration time will depend on the skill level.
 Once the skill has been used, you will have to wait to use it again.
 
 <Back/@warrskill>                     <Go to Main/@main>
-
+------------------------------------------------------------------------------------------------------
 [@fireball]
 #SAY
 Fireball (Level 7)
@@ -584,7 +636,7 @@ If the caster is attacked while using the skill, it will be cancelled.
 The damage inflicted raises with the skill level.
 
 <Back/@wizskill>                     <Go to Main/@main>
-
+------------------------------------------------------------------------------------------------------
 [@healing]
 #SAY
 Healing (Level 7)
@@ -789,6 +841,188 @@ It requires Grey Poison.
 
 <Back/@taoskill>                     <Go to Main/@main>
 
+------------------------------------------------------------------------------------------------------
+
+[@focus]
+#SAY
+Focus (Level 7)
+
+Passively increases chance to hit with physical attacks. 
+Can also proc a critical attack to do extra damage.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@straightshot]
+#SAY
+StraightShot (Level 9)
+
+Infuses your arrow with mana to deal extra damage.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@mentalstate]
+#SAY
+MentalState (Level 11)
+
+TO BE ADDED
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@doubleshot]
+#SAY
+DoubleShot (Level 14)
+
+Fire double arrows at your target.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@meditation]
+#SAY
+Meditation (Level 19)
+
+Allows gathering of elements when attacking monsters. 
+Can gain up to 4 elements.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@elementalshot]
+#SAY
+ElementalShot (Level 20)
+
+High damage magical attack. Damage is increased per element. 
+Generates 2 elements if none exist. Pushes back target if 
+archer is higher level.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@explosivetrap]
+#SAY
+ExplosiveTrap (Level 22)
+
+Lay down a row of traps that explode on contact with an enemy.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@concentration]
+#SAY
+Concentration (Level 23)
+
+Increase the chance of gathering elements whilst active.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@vampireshot]
+#SAY
+VamnpireShot (Level 26)
+
+Fire a leaching arrow that can heal the archer based on 
+damage done. Chance to gain Vampire buff which enhances 
+Cripple Shot and OneWithNature spells.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@summonvampire]
+#SAY
+SummonVampire (Level 28)
+
+Summon a spider vampire every 40 seconds to fight for you. 
+The vampire pet can leach HP to its master.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@backstep]
+#SAY
+BackStep (Level 30)
+
+Leap backwards out of danger.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@delayedexplosion]
+#SAY
+DelayedExplosion (Level 31)
+
+Fire an arrow that has a delayed explosion. 
+Gather more elements for more damage.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@elementalbarrier]
+#SAY
+ElementalBarrier (Level 33)
+
+Protects the caster with an elemental barrier. 
+More elements on cast increases damage reduction.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@bindingshot]
+#SAY
+BindingShot (Level 35)
+
+TO BE ADDED
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@summontoad]
+#SAY
+SummonToad (Level 37)
+
+Summon a toad to fight for you for 15 seconds. 
+The toad cannot move and will explode if its master 
+leaves its view range.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@poisonshot]
+#SAY
+PoisonShot (Level 40)
+
+Fire a poison arrow to green poison enemies. 
+Lasts maximum of 15 seconds. Chance to gain Poison 
+Buff which enhances Cripple Shot and OneWithNature spells.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@crippleshot]
+#SAY
+CrippleShot (Level 43)
+
+A special arrow that has enhances effects. 
+PoisonShot buff will make Cripple shot produce a 3×3 
+AOE poison attack. VampBuff will make Cripple shot 
+hit twice and steal HP.
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@summonsnakes]
+#SAY
+SummonSnakes (Level 46)
+
+Summon a Totem that spawns a swarm of snakes that aggro 
+all monsters nearby and attack with a chance to paralysis 
+the target. Can only be cast every 80 seconds.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@napalmshot]
+#SAY
+NapalmShot (Level 48)
+
+Fire an arrow that explodes in a 5×5 radius around the target.
+
+<Back/@arcskill>                     <Go to Main/@main>
+
+[@onewithnature]
+#SAY
+OneWithNature (Level 50)
+
+Summon an elemental ring around the archer that deals damage 
+to all targets within a 5×5 radius of the archer.
+                                
+<Back/@arcskill>                     <Go to Main/@main>
+
+-------------------------------------------------------------------------------------------------------
+
 [@basic]
 #SAY
 These are the basic info. You must know as beginner.
@@ -854,3 +1088,9 @@ guild information and etc.
 <Back/@basic>                               <Go to Main/@main>
 
 [Quests]
+-9
+-12
+-15
+-18
+-21
+-26

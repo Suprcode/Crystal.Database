@@ -28,3 +28,6 @@ ZombieEye 5
 
 [@GoldReward]
 2550
+
+// Pickup - CraftsLady_Alice 0 321 265
+// Hand In - CraftsLady_Alice 0 321 265

@@ -24,3 +24,6 @@ Speak to {Robert/LimeGreen} in {SerpentValley/Yellow}
 
 [@GoldReward]
 925
+
+// Pickup - 
+// Hand In - Merchant_Robert 2 505 479

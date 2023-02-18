@@ -26,3 +26,6 @@ SkeletonHead 1
 
 [@GoldReward]
 2500
+
+// Pickup - Teleport_Kyle 0 371 314
+// Hand In - Teleport_Kyle 0 371 314

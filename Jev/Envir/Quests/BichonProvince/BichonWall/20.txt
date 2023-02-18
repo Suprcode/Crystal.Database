@@ -26,3 +26,6 @@ SpiderFrog 25
 
 [@GoldReward]
 3100
+
+// Pickup - Examiner_Tony 0 340 257
+// Hand In - Examiner_Tony 0 340 257

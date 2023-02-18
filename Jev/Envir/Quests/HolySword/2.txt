@@ -22,3 +22,6 @@ RootSpider 1 "Kill a RootSpider in TreePath"
 [@ExpReward]
 
 [@GoldReward]
+
+// Pickup - Master_Perry 1002 14 13
+// Hand In - 

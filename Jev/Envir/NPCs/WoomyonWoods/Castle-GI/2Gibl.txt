@@ -29,8 +29,3 @@ Traveller, You are lucky... We have the materials to do Special repairs.
 1
 
 [Quests]
-29
-54
--54
-59
--59

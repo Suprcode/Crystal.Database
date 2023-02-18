@@ -20,3 +20,6 @@ Please Visit {SabukWall/Yellow} and speak with {Mr.Wang/LimeGreen}.
 
 [@GoldReward]
 3300
+
+// Pickup - MirGuide_James 2 505 483
+// Hand In - Merchant_Mr.Wang 3 663 304

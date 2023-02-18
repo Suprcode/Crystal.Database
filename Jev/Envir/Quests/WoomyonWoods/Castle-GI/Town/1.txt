@@ -26,3 +26,6 @@ CookBook 2
 
 [@GoldReward]
 3480
+
+// Pickup - 
+// Hand In - Merchant_Jim 4 244 188

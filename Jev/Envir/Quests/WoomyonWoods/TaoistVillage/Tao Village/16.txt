@@ -29,3 +29,6 @@ HardTemperedArmour
 
 [@GoldReward]
 1500
+
+// Pickup - LeadTrainer 1002 11 8
+// Hand In - 

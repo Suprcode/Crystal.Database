@@ -23,3 +23,6 @@ Talk to {Edwin/LimeGreen} in {MongchonProvince/Yellow}.
 
 [@GoldReward]
 4750
+
+// Pickup - Teleport_Harrison 0 291 296
+// Hand In - Transport_Edwin 3 365 340

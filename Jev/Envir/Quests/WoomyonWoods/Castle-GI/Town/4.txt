@@ -23,3 +23,6 @@ about the pending Threat.
 
 [@GoldReward]
 2563
+
+// Pickup - SubjagationManager_James 0 343 182
+// Hand In - SubjugationLead_Eric 1 317 71

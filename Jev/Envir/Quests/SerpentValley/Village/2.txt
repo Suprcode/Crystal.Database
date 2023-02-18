@@ -24,3 +24,6 @@ JadeRing 1
 
 [@GoldReward]
 300
+
+// Pickup - Merchant_Bradley 0120 7 8
+// Hand In - Merchant_Melissa 2 517 477

@@ -24,3 +24,6 @@ Please go speak to {MasterShok/LimeGreen} in
 
 [@GoldReward]
 1480
+
+// Pickup - Teleport_Kyle 0 371 314
+// Hand In - Master_Shok 1 312 73

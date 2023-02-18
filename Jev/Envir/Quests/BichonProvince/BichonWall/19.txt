@@ -24,3 +24,6 @@ RareCopperOre 10
 
 [@GoldReward]
 3000
+
+// Pickup - Blacksmith_Bill 0 302 221
+// Hand In - Blacksmith_Bill 0 302 221

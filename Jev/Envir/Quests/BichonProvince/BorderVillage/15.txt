@@ -23,3 +23,6 @@ Speak to {MirGuide Peter/LimeGreen} Coordinates 335:275
 
 [@GoldReward]
 60
+
+// Pickup - HighPriest_Jude 0 429 475
+// Hand In - MirGuide_Peter 0 328 258

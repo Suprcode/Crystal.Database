@@ -1,6 +1,10 @@
 [@Main]
+#IF
+ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+#ELSEACT
+MOVE 0 300 300
  
 <Buy/@Buy> Crafting Material
 <Sell/@Sell> Crafting Material
@@ -27,8 +31,8 @@ Sell.
 (MP)DrugXL
 AmuletOfRevival
 PeddlerTorch
-GreyPoison
-YellowPoison
+GreenPoison
+RedPoison
 BlackThread
 WhiteThread
 RedThread
@@ -44,6 +48,7 @@ HerbalTea
 MeatSoup
 ZerkSoup
 LargeBone
+Bone
 SewingGoods
 BoneHammer
 FishBait

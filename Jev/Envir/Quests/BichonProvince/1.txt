@@ -20,3 +20,6 @@ Template.
 [@ExpReward]
 
 [@GoldReward]
+
+// Pickup - Teleport_Jason 0 292 216
+// Hand In - Teleport_Kyle 0 371 314

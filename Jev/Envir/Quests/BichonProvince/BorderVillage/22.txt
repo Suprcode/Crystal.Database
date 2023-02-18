@@ -23,3 +23,6 @@ Relics 10
 
 [@GoldReward]
 1700
+
+// Pickup - Alchemist_Samuel 0 324 291
+// Hand In - Merchant_Ruben 0 288 608

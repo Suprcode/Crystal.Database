@@ -25,3 +25,6 @@ Visit {MasterShok/LimeGreen} Coordinates 312:73
 
 [@GoldReward]
 900
+
+// Pickup - Merchant_Melissa 2 517 477
+// Hand In - Master_Shok 1 312 73

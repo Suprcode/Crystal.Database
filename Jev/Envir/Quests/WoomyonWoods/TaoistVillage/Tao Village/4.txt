@@ -24,3 +24,6 @@ the Drapery Merchant.
 
 [@GoldReward]
 5250
+
+// Pickup - LeadTrainer_Harry 1002 11 8
+// Hand In - 

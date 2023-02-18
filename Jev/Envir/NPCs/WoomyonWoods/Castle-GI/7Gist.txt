@@ -95,6 +95,7 @@ and you can return to a village promptly by using it...
 [Trade]
 Candle
 Torch
+TownTeleport
 RandomTeleport
 DungeonEscape
 Amulet

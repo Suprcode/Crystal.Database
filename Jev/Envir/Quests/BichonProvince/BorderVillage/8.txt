@@ -28,3 +28,6 @@ Fencing
 
 [@GoldReward]
 45
+
+// Pickup - Master_Wa 0 110 317
+// Hand In - Master_Wa 0 110 317

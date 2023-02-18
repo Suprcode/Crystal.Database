@@ -3,3 +3,6 @@
 
 ;Crafting Materials
 1/3 ScorpionTail 
+
+;Quest
+1/2000 AncientScyther Q

@@ -20,3 +20,6 @@ the {LeadTrainer/LimeGreen}.
 3912
 
 [@GoldReward]
+
+// Pickup - 
+// Hand In - LeadTrainer_Harry 1002 11 8

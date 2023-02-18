@@ -36,7 +36,7 @@ You can repair Helmets here.
 
 
 [Types]
-9
+4
 
 [Trade]
 BronzeHelmet
@@ -45,6 +45,4 @@ BrassHelmet
 GoldenTiara
 SkeletonHelmet
 ShamanHelmet
-
-
 

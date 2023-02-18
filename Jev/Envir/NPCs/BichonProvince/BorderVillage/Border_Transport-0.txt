@@ -1,6 +1,6 @@
 [@MAIN]
 #IF
-CHECKPKPOINT > 2
+CHECKPKPOINT > 100
 #SAY
 I will not help an evil person like you...
  

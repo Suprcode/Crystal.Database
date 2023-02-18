@@ -24,3 +24,6 @@ MobBlood 2
 
 [@GoldReward]
 2850
+
+// Pickup - Merchant_Helen 1 292 84
+// Hand In - Merchant_Dr.Kim 0017 5 3

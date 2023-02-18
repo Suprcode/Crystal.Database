@@ -28,3 +28,6 @@ Healing
 
 [@GoldReward]
 45
+
+// Pickup - HighPriest_Jude 0 429 475
+// Hand In - HighPriest_Jude 0 429 475

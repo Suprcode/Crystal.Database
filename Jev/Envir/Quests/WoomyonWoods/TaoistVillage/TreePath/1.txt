@@ -23,3 +23,6 @@ BatPoison 20
 
 [@GoldReward]
 33000
+
+// Pickup - Merhcant_Janey 1006 9 10
+// Hand In - Merchant_Janey 1006 9 10

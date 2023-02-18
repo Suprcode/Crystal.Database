@@ -28,3 +28,6 @@ Web 10
 
 [@GoldReward]
 500
+
+// Pickup - Alchemist_Samuel 0 324 291
+// Hand In - Alchemist_Samuel 0 324 291

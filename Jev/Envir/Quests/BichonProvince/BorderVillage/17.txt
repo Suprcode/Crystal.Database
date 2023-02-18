@@ -28,3 +28,6 @@ FatalSword
 
 [@GoldReward]
 45
+
+// Pickup - HighAssassin_Cloud 0 101 411
+// Hand In - HighAssassin_Cloud 0 101 411

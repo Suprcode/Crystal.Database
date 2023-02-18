@@ -26,3 +26,6 @@ OmaFighter 10
 
 [@GoldReward]
 1100
+
+// Pickup - Master_Shok 1 312 73
+// Hand In - Master_Shok 1 312 73

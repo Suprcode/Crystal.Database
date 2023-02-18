@@ -25,3 +25,6 @@ TraineeSuit 2
 
 [@GoldReward]
 4425
+
+// Pickup - Merchant_Melissa 2 517 477
+// Hand In - Merchant_Sam 1003 13 16

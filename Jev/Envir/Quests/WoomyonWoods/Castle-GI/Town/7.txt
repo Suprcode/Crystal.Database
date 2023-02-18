@@ -29,3 +29,6 @@ RingOfMoral
 
 [@GoldReward]
 11000
+
+// Pickup - SubjugationManager_James 1 343 182
+// Hand In - 

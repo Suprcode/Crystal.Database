@@ -27,3 +27,6 @@ BugSpecimen 10
 
 [@GoldReward]
 8800
+
+// Pickup - Merchant_Daniel 3 361 335
+// Hand In - Merchant_Daniel 3 361 335

@@ -24,3 +24,6 @@ ZombiesHeart 10
 
 [@GoldReward]
 7000
+
+// Pickup - MasterMK_Deric 11 165 296
+// Hand In - MasterMK_Deric 11 165 296

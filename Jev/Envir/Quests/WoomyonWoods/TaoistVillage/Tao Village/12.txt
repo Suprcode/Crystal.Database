@@ -23,3 +23,6 @@ TraineeRing 1
 
 [@GoldReward]
 7000
+
+// Pickup - CrushedBones 12 36 368
+// Hand In - 

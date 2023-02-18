@@ -22,3 +22,6 @@ OldRobe 1
 
 [@GoldReward]
 4200
+
+// Pickup - OldSkull D422 97 320
+// Hand In - InnKeeper_Robin 0146 5 10

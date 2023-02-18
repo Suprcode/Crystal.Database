@@ -27,3 +27,6 @@ daughter
 
 [@GoldReward]
 1110
+
+// Pickup - Merchant_Robert 2 505 479
+// Hand In - 

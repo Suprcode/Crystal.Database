@@ -48,4 +48,4 @@ FishingHook
 FishingFloat
 FishDetector
 FishingReel
-FishBait
+FishBait 100

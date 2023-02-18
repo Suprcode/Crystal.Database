@@ -1,8 +1,12 @@
 [@Main]
+#IF
+ISADMIN
 #SAY
 Managing the affairs of a Game Master like you is a pleasure.
 What function would you like me to perform today <$DATE>
- 
+#ELSEACT
+MOVE 0 300 300
+
 <Guild Application/@CreateGuildCheck> , <View Market/@MARKET> , <View Consigned Items/@CONSIGNMENT> , <Consign Item/@CONSIGN>
 <Kill my Pets/@KillPets> , <Open my Storage/@STORAGE> , <Reset Quest Flags/@ResetQuestFlags>
  

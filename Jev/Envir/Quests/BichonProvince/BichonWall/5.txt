@@ -23,3 +23,6 @@ Go speak to {MongchonScout/LimeGreen} in the {Tavern/Yellow}
 
 [@GoldReward]
 1200
+
+// Pickup - 
+// Hand In - MongchonScout_Brian 0100 4 10
