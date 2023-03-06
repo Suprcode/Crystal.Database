@@ -5,93 +5,18 @@
 
 
 *LATEST* 
-18/02/23
+06/03/23
 
--Added RandomItemStats 8/9/10 for MysteryItems.
--SpiderLeg image changed to a Leg rather then a book.
--SealedHeroes can no longer be stored/traded/sold/dropped.
--Corrected exsisting Names & ToolTip for Transforms in Item Databse.
--Adding missing items from Blue/Red/Green OctagonalBoxes.
--Fixed Mount slots. (Only Wolves use masks).
--Changed Poison names. (Grey = Green / Yellow = Red).
--CheongboItems for each class are now class required.
--TaoCoronet Required level set to 40.
--Random Stats added to StoneLeatherBelt + BlackIronBelt.
--Changed BlackIronBelt from Bracelet to Belt type.
--Decreased Bait cost + Increased Bait stack limit to 100.
--SuperiorMagicHelmet Stats changed.
--StrongWoodenBow image fixed.
--OmaKingRobe stats changed for all classes.
--HoaSword stats changed.
--Corrected Guards in BW & WW(S).
--Fixed some more doors in BW.
--Removed double safezone outside BW SZ.
--BW DeadMine Door fixed on 1F (Right door).
--Fixed x2 broken Guards in Pranja Island.
--Guard1 now spawn in each Acadamy (Bichon Wall Training Rooms).
--Removed Ancient Mobs from OmaCave 1-3F.
--AncientZT added to AZT KR.
--Added Ancient ZT bigmaps + icons.
--Doubled Pranja Island spawns.
--Added big maps for Lunar + Icons for Bigmap.
--Frozen Statue/Guardian/RedZuma added to Lunar floors.
--Removed Ancient Bone Elite from Ancient_Oma Cave 2nd floor.
--Fixed Scott NPC.
--Added TownTeleports to all Peddler NPCs.
--Changed Lottery NPC scripts (Removed Lottery tickets).
--Altered Book Store NPCS.
--Town Teleports added to Merchant_Derby in Castle-Gi.
--Helmets can now be sold to Merchant_Michelle in Mud Wall.
--You can now sell mounts back to Merchant_Kim in BW.
--XL Potions removed from Merchant_Murray in Castle-Gi.
--Removed final XL pot buy options.
--Added Archer and Assassin skills to MirGuide Peter in BW.
--Fixed multiple NPC Scripts.
--WarGodOils can now be sold via Pedlars.
--Fixed some spelling mistakes within Mir Guide NPC.
--Fixed Sailor Npc script (Pranja Island).
--Increased bait buy option from 1 to 100.
--Convert LargeBones > Bones added to crafting.
--Added Bone Recipe to all Crafting NPCs.
--Fixed spelling mistake within Archer_Captain NPC script.
--Tweaked Oma Warrior variant stats.
--Guards now using correct AI.
--Guard1 AI changed to 58.
--Guard1 now kill player pets when on attack all (This applies to the guards in TaoVillage).
--Altered Lunar mob stats.
--Ancient_RedThunderZuma now has correct AI.
--Frozen Statue/Guardian/RedZuma added.
--Removed LightWarrior monster from Database + Drops.
--Fixed some quests.
--Started to list Pick up/Hand in NPC details on quest scripts (Back end change).
--Potenital fix implemented for MystreriousStone quest + Edited task description to be inside the box.
--Collect Information quest hidden until fully added.
--Fixed Quest Boss Mob of Woomyon (101) to give player BlackIronBelt reward.
--Redirected Quests 152/153 from MysteriousStone to OmaCavern quest folder.
--Redirected Ancient Oma Cave drop files to Ancient OmaCavern drop folder.
--Finaly fixed Ancient Oma Cave quest - Enquire at the inn.
--Added drop files for all three versions of Bone Warrior.
--Added drop files for all versions of Bone Elite.
--Increased HP/MP pot drops in BugCave.
--Zombie51 now has items in the drop file.
--Relics Added to Cave Maggots in Oma Cave/Ancient Oma Cave.
--AncientScyther added to drop files in Ancient Oma Cave.
--Altered CaveMaggot drop file (Relics easier to obtain).
--Changed Currish drop for JadeRing(Quest) to 1/1.
--Bone Elite drops altered (All BE types).
--Added SkeletonBone & SkeletonHelmet Quest Items to BoneElite drops.
--AncientScyther Quest item now in Bone Elite drops.
--Altered Ancient Zuma Taurus drop file.
--Added Frozen Statue/Guardian/RedZuma drop files.
--AncientSycher removed from Ancient Oma Cave mobs and moved to normal Oma Cave mobs.
--All ancient mob drops are now in subfolders.
--Altered Focus Level 1 Points.
--Added Lunar KR minimap image. (mmap.lib)
--Added Ancient ZT bigmaps. (mmap.lib)
--Rested EXP buff will now pause while inside SafeZone. (Code)
--Item sell values now shown when hovering over an item in your bag. (Code)
--New BichonProvince map (n0) added with removed dead spots + fishing spots on the bridge at Bichon Wall SafeZone.
--New SerpantValley map (2) added with removed dead spots.
+-Awakening now works (Script change)
+-All NPCS now check for 199 PK point instead of 2.
+-HellCavern Bigmaps added.
+-BugCave movements adjusted.
+-BigMap Icons added for all caves and provinces.
+-TrollCave added NPC to teleport from 3F > 4F (vice versa)
+-Swamp added NPC to teleport from 3F > 4F (vice versa)
+-Swamp added minimap for DarkSwamp (KR)
+-Swamp GeneralTucsion (boss) now spawns at the centre of map.
+-Database is ready for Net.7 upgrade and works with either Net.7 & Net 4.8.
 
 27/01/21
 
@@ -808,3 +733,16 @@ Class skills changed in terms of some levels, points to level, player level for 
 -Item sell values now shown when hovering over an item in your bag. (Code)
 -New BichonProvince map (n0) added with removed dead spots + fishing spots on the bridge at Bichon Wall SafeZone.
 -New SerpantValley map (2) added with removed dead spots.
+
+06/03/23
+
+-Awakening now works (Script change)
+-All NPCS now check for 199 PK point instead of 2.
+-HellCavern Bigmaps added.
+-BugCave movements adjusted.
+-BigMap Icons added for all caves and provinces.
+-TrollCave added NPC to teleport from 3F > 4F (vice versa)
+-Swamp added NPC to teleport from 3F > 4F (vice versa)
+-Swamp added minimap for DarkSwamp (KR)
+-Swamp GeneralTucsion (boss) now spawns at the centre of map.
+-Database is ready for Net.7 upgrade and works with either Net.7 & Net 4.8.
