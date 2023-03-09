@@ -4,7 +4,7 @@ can be found in {DeadMineEntrance/Yellow}, but the area
 is infested with {Zombies/Crimson}. 
 
 [@TaskDescription]
-Eliminate {Zombie's/Crimson} in the {Mines/Yellow}.
+Eliminate 5 of each {Zombie/Crimson} in the {Mines/Yellow}.
 
 [@Completion]
 

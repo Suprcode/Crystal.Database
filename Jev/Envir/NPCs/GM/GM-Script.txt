@@ -4,11 +4,11 @@ ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 You appear to have {<$GAMEGOLD>/ORANGE} gold coins to spend.
-#ELSEACT
-MOVE 0 300 300
- 
 <Buy/@Buy> Script
 <Sell/@Sell> Script
+
+#ELSEACT
+MOVE 0 300 300
 
 [@Sell]
 #SAY

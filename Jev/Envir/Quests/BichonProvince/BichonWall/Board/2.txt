@@ -9,7 +9,7 @@ Travel to {OmaCave/Yellow} and collect {Skeleton Bone's/LightSteelBlue}.
 [@KillTasks]
 
 [@ItemTasks]
-SkeletonBone 40 "Gather SkeletonBones"
+SkeletonBone 15
 
 [@FlagTasks]
 

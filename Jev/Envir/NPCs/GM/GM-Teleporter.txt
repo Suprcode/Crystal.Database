@@ -1,11 +1,16 @@
 [@Main]
+#IF
+ISADMIN
+#SAY
 To teleport back to this map: {@MOVE R001 100 100/LimeGreen}
 Tip: {@observer/LIMEGREEN} if you want to be invisible to other players.
  
-Teleport to <Town/@TeleTownMain> , <Dungeon Entrance/@TeleDungeonEntranceMain> , <Dungeon Boss/@TeleDungeonBossMain>
+Teleport to <Towns/@TeleTownMain> , <Dungeon Entrance/@TeleDungeonEntranceMain> , <Dungeon Boss/@TeleDungeonBossMain>
 Teleport to <Contest Room/@ContestRoom> , <Prison/@Prison> , <Ghoul Cave/@GhoulCave> , <Mystery Cave/@MysteryCave>
  
 Menu: <Exit/@Exit>
+#ELSEACT
+MOVE 0 300 300
 
 [@TeleTownMain]
  
@@ -53,10 +58,10 @@ MOVE M001 395 196
 
 [@TeleBichonProvince]
 #ACT
-MOVE n0 329 270
+MOVE 0 329 270
 [@TeleBorderVillage]
 #ACT
-MOVE n0 288 616
+MOVE 0 288 616
 [@TeleWoomyonWoods]
 #ACT
 MOVE 1 315 82

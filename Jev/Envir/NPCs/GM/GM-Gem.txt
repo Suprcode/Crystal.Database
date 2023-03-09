@@ -3,11 +3,11 @@
 ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-#ELSEACT
-MOVE 0 300 300
- 
 <Buy/@Buy> Gem
 <Sell/@Sell> Gem
+
+#ELSEACT
+MOVE 0 300 300
 
 [@Sell]
 #SAY

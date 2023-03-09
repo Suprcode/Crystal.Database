@@ -4,14 +4,13 @@ ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 I see you have {<$HP> | <$MAXHP> HP/RED} and {<$MP> | <$MAXMP> MP/ROYALBLUE}
-#ELSEACT
-MOVE 0 300 300
- 
 <Buy/@Buy> Potion
 <Sell/@Sell> Potion
  
 Tip: Use {@superman/LIMEGREEN} for an infinite amount of HP and MP.
 
+#ELSEACT
+MOVE 0 300 300
 
 [@Buy]
 #SAY

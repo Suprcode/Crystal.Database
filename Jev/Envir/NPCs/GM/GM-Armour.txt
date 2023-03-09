@@ -4,15 +4,14 @@ ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 I see you're wearing: {<$ARMOUR>/CORAL}
-#ELSEACT
-MOVE 0 300 300
- 
+
 <Buy/@Buy> Armour
 <Sell/@Sell> Armour
 <Repair/@Repair> Armour
 <Special Repair/@SRepair> Armour
-
-
+#ELSEACT
+MOVE 0 300 300
+ 
 [@Buy]
 #SAY
 Buy.

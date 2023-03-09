@@ -3,15 +3,14 @@
 ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
-#ELSEACT
-MOVE 0 300 300
- 
 <Buy/@Buy> Book
 <Sell/@Sell> Book
  
 Learn all <Warrior/@Warrior> , <Wizard/@Wizard> , <Taoist/@Taoist> , <Archer/@Archer> , <Assassin/@Assassin> spells.
 
-
+#ELSEACT
+MOVE 0 300 300
+ 
 [@Sell]
 #SAY
 Sell.
@@ -109,6 +108,7 @@ GIVESKILL SwiftFeet 3
 GIVESKILL DarkBody 3
 GIVESKILL Hemorrhage 3
 GIVESKILL CrescentSlash 3
+GIVESKILL MOONMIST 3
 [@Archer]
 #ACT
 GIVESKILL Focus 
@@ -129,6 +129,7 @@ GIVESKILL CrippleShot 3
 GIVESKILL SummonSnakes 3
 GIVESKILL NapalmShot 3
 GIVESKILL OneWithNature 3
+GIVESKILL STONETRAP 3
 
 [Types]
 20
@@ -199,8 +200,6 @@ Curse
 Plague
 PoisonCloud
 EnergyShield
-NewTaoist1
-NewTaoist2
 FatalSword
 DoubleSlash
 Haste
@@ -216,8 +215,7 @@ SwiftFeet
 DarkBody
 Hemorrhage
 CresentSlash
-NewAssassin1
-NewAssassin2
+MoonMist
 Focus
 StraightShot
 DoubleShot
@@ -236,3 +234,4 @@ CrippleShot
 SummonSnakes
 NapalmShot
 OneWithNature
+StoneTrap

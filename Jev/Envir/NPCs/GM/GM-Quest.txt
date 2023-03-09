@@ -3,12 +3,11 @@
 ISADMIN
 #Say
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+<Look at Quest Items/@Buy>
+
 #ELSEACT
 MOVE 0 300 300
  
-<Look at Quest Items/@Buy>
-
-
 [@Buy]
 #SAY
 Buy.

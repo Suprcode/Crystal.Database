@@ -71,6 +71,7 @@
 ;Fish
 
 ;Quest
+1/5 DeerMeat Q
 
 ;Awakening
 

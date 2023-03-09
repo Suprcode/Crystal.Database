@@ -4,14 +4,14 @@ ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 I see you're wearing: {<$WEAPON>/CORAL} and have {<$PKPOINT>/ORANGE} PK Points.
-#ELSEACT
-MOVE 0 300 300
- 
 <Buy/@Buy> Weapon
 <Sell/@Sell> Weapon
 <Repair/@Repair> Weapon
 <Special Repair/@SRepair> Weapon
 
+#ELSEACT
+MOVE 0 300 300
+ 
 [@Repair]
 #SAY
 Repair.

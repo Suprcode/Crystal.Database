@@ -4,11 +4,11 @@ ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 I see you're holding: {<$TORCH>/CORAL}
-#ELSEACT
-MOVE 0 300 300
- 
 <Buy/@Buy> Grocery
 <Sell/@Sell> Grocery
+
+#ELSEACT
+MOVE 0 300 300
 
 [@Buy]
 #SAY
