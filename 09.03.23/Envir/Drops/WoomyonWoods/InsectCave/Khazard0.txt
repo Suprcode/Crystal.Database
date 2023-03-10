@@ -1,0 +1,559 @@
+;Level1
+;Gold
+1/1 Gold 3000 LV1
+
+
+;Pots + Other
+1/1 (HP)DrugMedium LV1
+1/1 (MP)DrugMedium LV1
+1/1 (HP)DrugMedium LV1
+1/1 (MP)DrugMedium LV1
+1/1 (HP)DrugLarge LV1
+1/1 (MP)DrugLarge LV1
+1/2 SunPotion LV1
+1/2 SunPotion(M) LV1
+
+1/40 BenedictionOil LV1
+
+1/40 AwakeningSoul0 LV1
+1/40 AwakeningSoul0 LV1
+1/30 KhazardRune LV1
+
+;Weapon
+
+
+;Armours
+
+
+;Helmets
+
+
+;Necklaces
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stones
+
+
+;Books
+
+
+;Ore
+1/5 BlackIronOre LV1
+1/7 GoldOre LV1
+1/9 Nephrite LV1
+1/11 Platinum LV1
+
+;Quests
+1/1 KhazardBody Q LV1 
+1/2 InsectCaveMap Q LV1
+
+;Level2
+;Gold
+1/1 Gold 3000 LV2
+
+
+;Pots + Other
+1/1 (HP)DrugMedium LV2
+1/1 (MP)DrugMedium LV2
+1/1 (HP)DrugMedium LV2
+1/1 (MP)DrugMedium LV2
+1/1 (HP)DrugLarge LV2
+1/1 (MP)DrugLarge LV2
+1/2 SunPotion LV2
+1/2 SunPotion(M) LV2
+
+1/40 BenedictionOil LV2
+
+1/40 AwakeningSoul0 LV2
+1/40 AwakeningSoul0 LV2
+1/30 KhazardRune LV2
+
+;Weapon
+
+
+;Armours
+
+
+;Helmets
+
+
+;Necklaces
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stones
+
+
+;Books
+
+
+;Ore
+1/5 BlackIronOre LV2
+1/7 GoldOre LV2
+1/9 Nephrite LV2
+1/11 Platinum LV2
+
+;Quests
+1/1 KhazardBody Q LV2 
+1/2 InsectCaveMap Q LV2
+
+;Level3
+;Gold
+1/1 Gold 3000 LV3
+
+
+;Pots + Other
+1/1 (HP)DrugMedium LV3
+1/1 (MP)DrugMedium LV3
+1/1 (HP)DrugMedium LV3
+1/1 (MP)DrugMedium LV3
+1/1 (HP)DrugLarge LV3
+1/1 (MP)DrugLarge LV3
+1/2 SunPotion LV3
+1/2 SunPotion(M) LV3
+
+1/40 BenedictionOil LV3
+
+1/40 AwakeningSoul0 LV3
+1/40 AwakeningSoul0 LV3
+1/30 KhazardRune LV3
+
+;Weapon
+
+
+;Armours
+
+
+;Helmets
+
+
+;Necklaces
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stones
+
+
+;Books
+
+
+;Ore
+1/5 BlackIronOre LV3
+1/7 GoldOre LV3
+1/9 Nephrite LV3
+1/11 Platinum LV3
+
+;Quests
+1/1 KhazardBody Q LV3 
+1/2 InsectCaveMap Q LV3
+
+;Level4
+;Gold
+1/1 Gold 3000 LV4
+
+
+;Pots + Other
+1/1 (HP)DrugMedium LV4
+1/1 (MP)DrugMedium LV4
+1/1 (HP)DrugMedium LV4
+1/1 (MP)DrugMedium LV4
+1/1 (HP)DrugLarge LV4
+1/1 (MP)DrugLarge LV4
+1/2 SunPotion LV4
+1/2 SunPotion(M) LV4
+
+1/40 BenedictionOil LV4
+
+1/40 AwakeningSoul0 LV4
+1/40 AwakeningSoul0 LV4
+1/30 KhazardRune LV4
+
+;Weapon
+
+
+;Armours
+
+
+;Helmets
+
+
+;Necklaces
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stones
+
+
+;Books
+
+
+;Ore
+1/5 BlackIronOre LV4
+1/7 GoldOre LV4
+1/9 Nephrite LV4
+1/11 Platinum LV4
+
+;Quests
+1/1 KhazardBody Q LV4 
+1/2 InsectCaveMap Q LV4
+
+;Level5
+;Gold
+1/1 Gold 3000 LV5
+
+
+;Pots + Other
+1/1 (HP)DrugMedium LV5
+1/1 (MP)DrugMedium LV5
+1/1 (HP)DrugMedium LV5
+1/1 (MP)DrugMedium LV5
+1/1 (HP)DrugLarge LV5
+1/1 (MP)DrugLarge LV5
+1/2 SunPotion LV5
+1/2 SunPotion(M) LV5
+
+1/40 BenedictionOil LV5
+
+1/40 AwakeningSoul0 LV5
+1/40 AwakeningSoul0 LV5
+1/30 KhazardRune LV5
+
+;Weapon
+
+
+;Armours
+
+
+;Helmets
+
+
+;Necklaces
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stones
+
+
+;Books
+
+
+;Ore
+1/5 BlackIronOre LV5
+1/7 GoldOre LV5
+1/9 Nephrite LV5
+1/11 Platinum LV5
+
+;Quests
+1/1 KhazardBody Q LV5 
+1/2 InsectCaveMap Q LV5
+
+;Level6
+;Gold
+1/1 Gold 3000 LV6
+
+
+;Pots + Other
+1/1 (HP)DrugMedium LV6
+1/1 (MP)DrugMedium LV6
+1/1 (HP)DrugMedium LV6
+1/1 (MP)DrugMedium LV6
+1/1 (HP)DrugLarge LV6
+1/1 (MP)DrugLarge LV6
+1/2 SunPotion LV6
+1/2 SunPotion(M) LV6
+
+1/40 BenedictionOil LV6
+
+1/40 AwakeningSoul0 LV6
+1/40 AwakeningSoul0 LV6
+1/30 KhazardRune LV6
+
+;Weapon
+
+
+;Armours
+
+
+;Helmets
+
+
+;Necklaces
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stones
+
+
+;Books
+
+
+;Ore
+1/5 BlackIronOre LV6
+1/7 GoldOre LV6
+1/9 Nephrite LV6
+1/11 Platinum LV6
+
+;Quests
+1/1 KhazardBody Q LV6 
+1/2 InsectCaveMap Q LV6
+
+;Level7
+;Gold
+1/1 Gold 3000 LV7
+
+
+;Pots + Other
+1/1 (HP)DrugMedium LV7
+1/1 (MP)DrugMedium LV7
+1/1 (HP)DrugMedium LV7
+1/1 (MP)DrugMedium LV7
+1/1 (HP)DrugLarge LV7
+1/1 (MP)DrugLarge LV7
+1/2 SunPotion LV7
+1/2 SunPotion(M) LV7
+
+1/40 BenedictionOil LV7
+
+1/40 AwakeningSoul0 LV7
+1/40 AwakeningSoul0 LV7
+1/30 KhazardRune LV7
+
+;Weapon
+
+
+;Armours
+
+
+;Helmets
+
+
+;Necklaces
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stones
+
+
+;Books
+
+
+;Ore
+1/5 BlackIronOre LV7
+1/7 GoldOre LV7
+1/9 Nephrite LV7
+1/11 Platinum LV7
+
+;Quests
+1/1 KhazardBody Q LV7 
+1/2 InsectCaveMap Q LV7
+
+;Level8
+;Gold
+1/1 Gold 3000 LV8
+
+
+;Pots + Other
+1/1 (HP)DrugMedium LV8
+1/1 (MP)DrugMedium LV8
+1/1 (HP)DrugMedium LV8
+1/1 (MP)DrugMedium LV8
+1/1 (HP)DrugLarge LV8
+1/1 (MP)DrugLarge LV8
+1/2 SunPotion LV8
+1/2 SunPotion(M) LV8
+
+1/40 BenedictionOil LV8
+
+1/40 AwakeningSoul0 LV8
+1/40 AwakeningSoul0 LV8
+1/30 KhazardRune LV8
+
+;Weapon
+
+
+;Armours
+
+
+;Helmets
+
+
+;Necklaces
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Medals
+
+
+;Shields
+
+
+;Pads
+
+
+;Stones
+
+
+;Books
+
+
+;Ore
+1/5 BlackIronOre LV8
+1/7 GoldOre LV8
+1/9 Nephrite LV8
+1/11 Platinum LV8
+
+;Quests
+1/1 KhazardBody Q LV8 
+1/2 InsectCaveMap Q LV8
