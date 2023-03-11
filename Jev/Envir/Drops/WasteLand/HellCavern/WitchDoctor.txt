@@ -2,12 +2,12 @@
 1/10 Gold 2250
 
 ;Potions
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/25 (HP)DrugLarge
-1/25 (MP)DrugLarge
-1/30 SunPotion
-1/50 SunPotion(M)
+1/5 (HP)DrugLarge
+1/5 (MP)DrugLarge
+1/5 (HP)DrugLarge
+1/5 (MP)DrugLarge
+1/15 SunPotion
+1/25 SunPotion(M)
 
 ;Weapons
 1/50 PrinceDagger
@@ -92,5 +92,5 @@
 ;Books
 1/9000000 FlameField
 1/700000 CrossHalfMoon
-1/700000 trap
-1/700 poisonsword
+1/700000 Trap
+1/700 Poisonsword

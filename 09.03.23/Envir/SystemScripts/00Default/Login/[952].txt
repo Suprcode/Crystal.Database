@@ -1,9 +1,0 @@
-;;Gamemaster SET to view R001 NPCs
-
-[@MAIN]
-{
-#IF
-CHECK [952] 1
-#ELSEACT
-SET [952] 1
-}

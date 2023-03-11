@@ -1,9 +1,0 @@
-[@MAIN]
-#SAY
-The Bones.. They look freshly eaten.
- 
-<Close/@exit>
-
-[Quests]
--79
-80
