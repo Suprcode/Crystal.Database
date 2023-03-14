@@ -1,22 +1,20 @@
-# JevsUpdatedCrystalDatabase
+# PATCH NOTES
 
 
 ***Patch Notes*** 
 
 
 *LATEST* 
-06/03/23
+14.03.23
 
--Awakening now works (Script change)
--All NPCS now check for 199 PK point instead of 2.
--HellCavern Bigmaps added.
--BugCave movements adjusted.
--BigMap Icons added for all caves and provinces.
--TrollCave added NPC to teleport from 3F > 4F (vice versa)
--Swamp added NPC to teleport from 3F > 4F (vice versa)
--Swamp added minimap for DarkSwamp (KR)
--Swamp GeneralTucsion (boss) now spawns at the centre of map.
--Database is ready for Net.7 upgrade and works with either Net.7 & Net 4.8.
+-Deer drop file changed to increase chances of venison drops.
+-All Trust Merchant NPC scripts adjusted. (Removed unnecessary lines)
+-VioletKekTal stat parity.
+-Fishing rod accessories have had their weights reduced to 0.
+-Ancient Oma Cave quest line is finally fixed.
+-WhimperingBee drop file edited to fix Archer Armour rate.
+-StoneTrap has been given some stats. (Will need testing once AI is complete)
+-Assassin Hero's disabled. (Bug found)
 
 27/01/21
 
@@ -746,3 +744,53 @@ Class skills changed in terms of some levels, points to level, player level for 
 -Swamp added minimap for DarkSwamp (KR)
 -Swamp GeneralTucsion (boss) now spawns at the centre of map.
 -Database is ready for Net.7 upgrade and works with either Net.7 & Net 4.8.
+
+09.03.23
+
+-NewbieGuild now works. (Script change)
+-Adjusted Guild levels and Guild EXP.
+-Removed Oma Cave NPC from bigmap. (Causes a crash)
+-Fixed Movements from Wastelands > BichonProvince.
+-Fixed Movements from PrivateHouse 0130 > BichonProvince. (Both ways)
+-HerbalTea stats changed. (Too high)
+-MoonMist fully implemented. (Book,Bookstore,Code)
+-Mirguide script has been cleaned up and reorganised.
+-FilterWords have been added. (Might be too aggressive)
+-GeneralJinmYo name changed to GeneralMeowMeow.
+-GeneralTucson name changed to TucsonGeneral.
+-Fixed the scripts for GM map npcs. (ISADMIN check was above buy and sell options)
+-All ChestnutTree variants have had a drop adjustment.
+-SpittingSpider's drop has been adjusted.
+-NPC added to HiddenRoom to buy and sell armours. (Oma Cave)
+-Gathering Of Bones quest required bones changed from 40 to 15.
+
+11.03.23
+
+-Khazard has had a drop change.
+-All NPC scripts/quest scripts that direct the player to Peter in BW have had the Cords changed.
+-Some Spell Parity. -Added remainder of bigmaps to caves (Excluding KRs)
+-Oma Fighter/Oma Warrior exp changed.
+
+Hell Cavern:
+-HellKeeper spawning on all floors removed. (1 in KR)
+-HellKeeper AI changed to 79.
+-All monsters have drop files and are redirected to correct directory.
+
+-Snow Cavern now has minimaps/bigmaps.
+-Assassin accuracy base state changed from 5 to 8.
+-Red Cavern now has minimaps/bigmaps.
+-Archer accuracy base state changed from 8 to 10.
+-Oma Fighter & Oma Warrior EXP values changed.
+-BoneFighter & Bone Warrior EXP values changed.
+-Started adding some movements inside Red Cavern.
+
+14.03.23
+
+-Deer drop file changed to increase chances of venison drops.
+-All Trust Merchant NPC scripts adjusted. (Removed unnecessary lines)
+-VioletKekTal stat parity.
+-Fishing rod accessories have had their weights reduced to 0.
+-Ancient Oma Cave quest line is finally fixed.
+-WhimperingBee drop file edited to fix Archer Armour rate.
+-StoneTrap has been given some stats. (Will need testing once AI is complete)
+-Assassin Hero's disabled. (Bug found)
