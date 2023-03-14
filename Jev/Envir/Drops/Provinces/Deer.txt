@@ -27,8 +27,7 @@
 ;Ores
 
 ;Meat
-1/5 Venison 
-1/10 Venison 
+1/1 Venison 
 
 ;Crafting Materials
 
@@ -69,7 +68,7 @@
 ;Fish
 
 ;Quest
-1/5 DeerMeat Q
+1/2 DeerMeat Q
 
 ;Awakening
 

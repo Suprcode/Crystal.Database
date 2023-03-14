@@ -31,7 +31,7 @@ LocalMessage "You current have <$PKPOINT> PK Points." Hint
 ;;Home Command.
 [@_CUSTOMCOMMAND(HOME)]
 #ACT
-MOVE n0 328 264
+MOVE 0 328 264
 
 //Use MOVE 0 328 264 if using the old BW map.
 

@@ -50,4 +50,4 @@
 
 ;Quests
 1/5 Relics Q
-1/2000 AncientScyther Q
+1/200 AncientScyther Q

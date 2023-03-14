@@ -55,4 +55,4 @@
 1/1 MaggotShells Q
 1/1 MaggotParts Q
 1/4 Relics Q
-1/2000 AncientScyther Q
+1/200 AncientScyther Q

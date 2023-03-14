@@ -25,8 +25,8 @@
 1/800 SoulArmour(F) 
 1/800 RelicArmour(M) 
 1/800 RelicArmour(F) 
-1/00 LightLeatherArmour(M) 
-1/8400 LightLeatherArmour(F) 
+1/800 LightLeatherArmour(M) 
+1/800 LightLeatherArmour(F) 
 
 ;Helmets
 1/4000 SkeletonHelmet 

@@ -17,7 +17,6 @@ Enquire about the symbols.
 533 "Enquire at the Library."
 534 "Enquire at the Inn."
 535 "Finally Understand how the Scyther Works."
-536 "Return to the MysteriousStone in OmaCavern."
 
 [@CarryItems]
 

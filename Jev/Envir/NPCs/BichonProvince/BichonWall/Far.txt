@@ -23,7 +23,7 @@ GOTO @MAIN-3
 
 [@MAIN-2]
 #IF
-CHECK [537] 1
+CHECK [534] 1
 #SAY
 Ah those symbols... I helped Sir Mogu with them in the past.
 Theres not much information about the Language..

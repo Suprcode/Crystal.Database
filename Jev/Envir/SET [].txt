@@ -35,7 +35,7 @@
 [532] = Finished {HolySwordQuest}
 [533] = Library {AncientOmaCavern}
 [534] = Inn {AncientOmaCavern}
-[535] = Finally understand Scyther {AncientOmaCavern}
+[535] = Finally understand Scyther {AncientOmaCavern} //Far
 [536] = Return to the MysteriousStone {AncientOmaCaver}
 [537] = Sir.Mogu
 [538] = Emperor Far. (still to come)
