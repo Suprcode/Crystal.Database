@@ -5,16 +5,25 @@
 
 
 *LATEST* 
-14.03.23
+25.03.23
 
--Deer drop file changed to increase chances of venison drops.
--All Trust Merchant NPC scripts adjusted. (Removed unnecessary lines)
--VioletKekTal stat parity.
--Fishing rod accessories have had their weights reduced to 0.
--Ancient Oma Cave quest line is finally fixed.
--WhimperingBee drop file edited to fix Archer Armour rate.
--StoneTrap has been given some stats. (Will need testing once AI is complete)
--Assassin Hero's disabled. (Bug found)
+-RedOrchid Set now have the correct stats.
+-Pet EXP being stopped now fixed.
+-Group HP bar now visible.
+-Fatal Sword now coded correctly.
+-Newbie guild cap fixed backend.
+-Account creation screen bug fixed.
+-Login/Char select screen music now defined as correct type.
+-Taoist pets no longer die upon log out. (PetSave bug)
+-Way to Monghcon quest. (Pickup in Serpent Valley/Drop off in Monghcon)
+-Gameshop items added. (Gold ONLY)
+-Mudwall board. (Fixed teleports to stores)
+-BichonWall board. (Added Hairdresser teleport)
+-Swamp. (Monster drop files added & Stats changed)
+-Hero Inspect now working.
+-Press ESC to close Hero windows.
+-Hero windows now in English.
+-Hero bag. (Drop items straight to floor)
 
 27/01/21
 
@@ -794,3 +803,23 @@ Hell Cavern:
 -WhimperingBee drop file edited to fix Archer Armour rate.
 -StoneTrap has been given some stats. (Will need testing once AI is complete)
 -Assassin Hero's disabled. (Bug found)
+
+25.03.23
+
+-RedOrchid Set now have the correct stats.
+-Pet EXP being stopped now fixed.
+-Group HP bar now visible.
+-Fatal Sword now coded correctly.
+-Newbie guild cap fixed backend.
+-Account creation screen bug fixed.
+-Login/Char select screen music now defined as correct type.
+-Taoist pets no longer die upon log out. (PetSave bug)
+-Way to Monghcon quest. (Pickup in Serpent Valley/Drop off in Monghcon)
+-Gameshop items added. (Gold ONLY)
+-Mudwall board. (Fixed teleports to stores)
+-BichonWall board. (Added Hairdresser teleport)
+-Swamp. (Monster drop files added & Stats changed)
+-Hero Inspect now working.
+-Press ESC to close Hero windows.
+-Hero windows now in English.
+-Hero bag. (Drop items straight to floor)
