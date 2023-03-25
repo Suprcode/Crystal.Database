@@ -5,7 +5,7 @@
 #SAY
 I can send you several places nearby.
 
-<Weapon shop/@weapon>   <Armour shop/@Armour>
+<Blacksmith/@weapon>   <Armour shop/@armour>
 <Book store/@book>   <Accessory shop/@access>
 <Inn/@store>
 
@@ -15,7 +15,7 @@ I will be back <later/@Exit>
 #ACT
 Move 0159
 
-[@Armour]
+[@armour]
 #ACT
 Move 0149
 
@@ -24,12 +24,10 @@ Move 0149
 Move 0158
 
 [@store]
-#IF
 #ACT
 Move 0145
 
 [@book]
-#IF
 #ACT
 Move 0161
 

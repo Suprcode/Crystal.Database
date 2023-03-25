@@ -49,7 +49,6 @@ Congratulations <$USERNAME>,
 Thank You for your contribution. As a reward you now have access
 to the following Premium Dungeons which don't have any Restrictions.
  
-<Dungeon 1/@PremDungeon1> | <Dungeon 2/@PremDungeon2> | <Dungeon 3/@PremDungeon3> - Dungeons to come.
 Quick Entry to:
 <Ancient Oma Cave/@AOC> | <Ancient Wooma Temple/@AWT> | <Ancient Stone Temple/@AST>
 <Ancient Zuma Temple/@AZT> | <Ancient Prajna Cave/@APC>

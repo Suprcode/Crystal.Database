@@ -70,3 +70,5 @@ HookedSpear
 IronBlades
 LongBow
 
+[Quests]
+-42
