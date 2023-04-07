@@ -5,25 +5,44 @@
 
 
 *LATEST* 
-25.03.23
+07.04.23
 
--RedOrchid Set now have the correct stats.
--Pet EXP being stopped now fixed.
--Group HP bar now visible.
--Fatal Sword now coded correctly.
--Newbie guild cap fixed backend.
--Account creation screen bug fixed.
--Login/Char select screen music now defined as correct type.
--Taoist pets no longer die upon log out. (PetSave bug)
--Way to Monghcon quest. (Pickup in Serpent Valley/Drop off in Monghcon)
--Gameshop items added. (Gold ONLY)
--Mudwall board. (Fixed teleports to stores)
--BichonWall board. (Added Hairdresser teleport)
--Swamp. (Monster drop files added & Stats changed)
--Hero Inspect now working.
--Press ESC to close Hero windows.
--Hero windows now in English.
--Hero bag. (Drop items straight to floor)
+-Curse now causes attacking players to go brown.
+-Turn Undead now makes you brown if you cast upon a player's pet.
+-MP/HP now regen when running.
+-Fixed Lover Buff.
+-Shoulder Dash bug fix.
+-Focus Master Target pet mode added.
+-Flaming Sword now has a visible timer icon.
+-Blizzard & Meteor Shower light bug fixed.
+-Fixed custom Keybinds resetting after re-logging.
+-All NPC scripts now organized into sub folders.
+-SpiderLegs item now drops when the quest is active.
+-Gold Chestnut drop rate increased. (Easier to obtain)
+-2 Assassin weapons removed. (Duplicate)
+-Assassin base agility changed from 7 - 16. (Parity, will need testing)
+-BoneFamiliar is now classified as undead.
+-ChesnutTree HP/EXP Values changes. (Parity)
+-EbonyTree Level Changed from 16 to 60. (Parity)
+-CherryTree Level Changed from 16 to 60. (Parity)
+-Added Material Dealer NPC in Border Village.
+-All Teleport NPC scripts adjusted to remove same-town teleport and included a 2k service fee.
+-SuperiorMagicHelmet AC/AMC stats changed from 1-3 to 1-2.
+-Ancient Natural Cave now boots you out if you exceed max level for cave.
+-NewbieGuild wont boot you after every level. Now checks for max level.
+-Red Orchid Items now have the correct HP Drain %.
+-Assassin Base Accuracy changed to 7.
+-Lowered gold prices of all Premium Passes.
+-Specialist_Eugene In TaoVillage now sells green poison.
+-You can now sell belts to Merchant_Jennifer in Mudwall.
+-Minimap/Bigmaps added to Ancient Stone Tomb.
+-Bug Cave Evil Tongs now all have drop files.
+-Adjusted movements into Border Village Storage.
+-Healing Circle (Taoist Spell) now fully implemented.
+-Stack size of Benediction Oils increased from 1 to 5.
+-All Ancient Monsters have had their AI's looking at.
+-Bug Cave GiantWorms SunPotion drop rate increased (Harder) due to typo.
+-All Archer spells have been adjusted where needed to match official. (Levels + EXP Requirements)
 
 27/01/21
 
@@ -823,3 +842,42 @@ Hell Cavern:
 -Press ESC to close Hero windows.
 -Hero windows now in English.
 -Hero bag. (Drop items straight to floor)
+
+07.04.23
+
+-Curse now causes attacking players to go brown.
+-Turn Undead now makes you brown if you cast upon a player's pet.
+-MP/HP now regen when running.
+-Fixed Lover Buff.
+-Shoulder Dash bug fix.
+-Focus Master Target pet mode added.
+-Flaming Sword now has a visible timer icon.
+-Blizzard & Meteor Shower light bug fixed.
+-Fixed custom Keybinds resetting after re-logging.
+-All NPC scripts now organized into sub folders.
+-SpiderLegs item now drops when the quest is active.
+-Gold Chestnut drop rate increased. (Easier to obtain)
+-2 Assassin weapons removed. (Duplicate)
+-Assassin base agility changed from 7 - 16. (Parity, will need testing)
+-BoneFamiliar is now classified as undead.
+-ChesnutTree HP/EXP Values changes. (Parity)
+-EbonyTree Level Changed from 16 to 60. (Parity)
+-CherryTree Level Changed from 16 to 60. (Parity)
+-Added Material Dealer NPC in Border Village.
+-All Teleport NPC scripts adjusted to remove same-town teleport and included a 2k service fee.
+-SuperiorMagicHelmet AC/AMC stats changed from 1-3 to 1-2.
+-Ancient Natural Cave now boots you out if you exceed max level for cave.
+-NewbieGuild wont boot you after every level. Now checks for max level.
+-Red Orchid Items now have the correct HP Drain %.
+-Assassin Base Accuracy changed to 7.
+-Lowered gold prices of all Premium Passes.
+-Specialist_Eugene In TaoVillage now sells green poison.
+-You can now sell belts to Merchant_Jennifer in Mudwall.
+-Minimap/Bigmaps added to Ancient Stone Tomb.
+-Bug Cave Evil Tongs now all have drop files.
+-Adjusted movements into Border Village Storage.
+-Healing Circle (Taoist Spell) now fully implemented.
+-Stack size of Benediction Oils increased from 1 to 5.
+-All Ancient Monsters have had their AI's looking at.
+-Bug Cave GiantWorms SunPotion drop rate increased (Harder) due to typo.
+-All Archer spells have been adjusted where needed to match official. (Levels + EXP Requirements)
