@@ -89,6 +89,7 @@ Hero managment page
 <<Create Hero/@CreateHero/Green>>
 <<ReviveHero/@ReviveHero/Red>>
 <<SealHero/@SealHero/Yellow>>
+<<DeleteHero/@DeleteHero/Blue>>
 
 [@ReviveHero]
 #ACT
@@ -97,4 +98,18 @@ ReviveHero
 [@SealHero]
 #ACT
 SealHero
+
+[@DeleteHero]
+#IF
+CHECKITEM SealedHero
+#ACT
+GOTO @Found
+#ELSESAY
+You don't currently have a Sealed Hero.
+
+[@Found]
+#ACT
+TAKEITEM SealedHero
+#SAY
+Hero had now passed over to the gods.
 

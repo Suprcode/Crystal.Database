@@ -3,6 +3,18 @@
 #IF
 CHECKNAMELIST NewbieGuild
 #ACT
+GOTO @LVLCHK
+
+[@LVLCHK]
+#IF
+LEVEL > 25
+#ACT
+GOTO @Remove
+#ELSEACT
+
+
+[@Remove]
+#ACT
 REMOVEFROMGUILD NewbieGuild
 REMOVENAMELIST NewbieGuild
 }

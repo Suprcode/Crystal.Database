@@ -7,11 +7,11 @@
 1/8 BronzeChestnut 
 1/8 BronzeChestnut 
 
-1/16 SilverChestnut 
-1/16 SilverChestnut 
+1/10 SilverChestnut 
+1/10 SilverChestnut 
 
-1/25 GoldChestnut 
-1/25 GoldChestnut 
+1/12 GoldChestnut 
+1/12 GoldChestnut 
 
 1/10 Timber
 1/20 Timber

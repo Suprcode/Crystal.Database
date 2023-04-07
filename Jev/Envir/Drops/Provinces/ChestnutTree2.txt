@@ -10,8 +10,8 @@
 1/8 SilverChestnut 
 1/8 SilverChestnut 
 
-1/15 GoldChestnut 
-1/15 GoldChestnut 
+1/10 GoldChestnut 
+1/10 GoldChestnut 
 
 1/4 Timber
 1/10 Timber

@@ -7,11 +7,11 @@
 1/6 BronzeChestnut 
 1/6 BronzeChestnut 
 
-1/11 SilverChestnut 
-1/11 SilverChestnut 
+1/8 SilverChestnut 
+1/8 SilverChestnut 
 
-1/20 GoldChestnut 
-1/20 GoldChestnut 
+1/10 GoldChestnut 
+1/10 GoldChestnut 
 
 1/7 Timber
 1/15 Timber

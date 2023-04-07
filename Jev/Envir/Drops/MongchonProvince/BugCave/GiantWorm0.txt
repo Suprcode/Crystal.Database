@@ -76,8 +76,8 @@
 1/4 (MP)DrugMedium
 1/8 (HP)DrugLarge 
 1/8 (MP)DrugLarge
-1/4 SunPotion 
-1/6 SunPotion(M) 
+1/40 SunPotion 
+1/60 SunPotion(M) 
 1/20 OldGinseng 
 
 ;Crafting Materials

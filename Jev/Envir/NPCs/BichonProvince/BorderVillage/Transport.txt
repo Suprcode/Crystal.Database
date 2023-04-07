@@ -22,34 +22,74 @@ Maybe next <Time/@exit>
 [@tele]
 #SAY
 Which place would you like to go?
- 
-<<BorderVillage/@Border>>
+
+My service fee is 2000 gold.
+
 <<BichonWall/@BichonWall>>
 <<SerpentValley/@Serpent>>
 <<MudWall/@MudWall>>
 <<TaoistSchool/@TaoVillage>>
 <<CastleGi-Ryoong/@CastleGi>>
-
-[@Border]
-#ACT
-MOVE 0 289 617
+<<WoomyonCamp/@Camp>>
 
 [@BichonWall]
+#IF
+CHECKGOLD > 1999
 #ACT
 MOVE 0 296 222
+TAKEGOLD 2000
+#ELSEACT
+GOTO @gold
 
 [@Serpent]
+#IF
+CHECKGOLD > 1999
 #ACT
 MOVE 2 500 485
+TAKEGOLD 2000
+#ELSEACT
+GOTO @gold
 
 [@MudWall]
+#IF
+CHECKGOLD > 1999
 #ACT
 MOVE 3 361 342
+TAKEGOLD 2000
+#ELSEACT
+GOTO @gold
 
 [@TaoVillage]
+#IF
+CHECKGOLD > 1999
 #ACT
 MOVE 11 163 337
+TAKEGOLD 2000
+#ELSEACT
+GOTO @gold
 
 [@CastleGi]
+#IF
+CHECKGOLD > 1999
 #ACT
 MOVE 4 264 257
+TAKEGOLD 2000
+#ELSEACT
+GOTO @gold
+
+[@Camp]
+#IF
+CHECKGOLD > 1999
+#ACT
+MOVE 1 315 82
+TAKEGOLD 2000
+#ELSEACT
+GOTO @gold
+
+[@gold]
+#SAY
+Sorry you do not have enough gold.
+
+<Exit/@Exit>
+
+[Quests]
