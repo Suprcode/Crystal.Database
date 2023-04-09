@@ -5,44 +5,18 @@
 
 
 *LATEST* 
-07.04.23
+09.04.23
 
--Curse now causes attacking players to go brown.
--Turn Undead now makes you brown if you cast upon a player's pet.
--MP/HP now regen when running.
--Fixed Lover Buff.
--Shoulder Dash bug fix.
--Focus Master Target pet mode added.
--Flaming Sword now has a visible timer icon.
--Blizzard & Meteor Shower light bug fixed.
--Fixed custom Keybinds resetting after re-logging.
--All NPC scripts now organized into sub folders.
--SpiderLegs item now drops when the quest is active.
--Gold Chestnut drop rate increased. (Easier to obtain)
--2 Assassin weapons removed. (Duplicate)
--Assassin base agility changed from 7 - 16. (Parity, will need testing)
--BoneFamiliar is now classified as undead.
--ChesnutTree HP/EXP Values changes. (Parity)
--EbonyTree Level Changed from 16 to 60. (Parity)
--CherryTree Level Changed from 16 to 60. (Parity)
--Added Material Dealer NPC in Border Village.
--All Teleport NPC scripts adjusted to remove same-town teleport and included a 2k service fee.
--SuperiorMagicHelmet AC/AMC stats changed from 1-3 to 1-2.
--Ancient Natural Cave now boots you out if you exceed max level for cave.
--NewbieGuild wont boot you after every level. Now checks for max level.
--Red Orchid Items now have the correct HP Drain %.
--Assassin Base Accuracy changed to 7.
--Lowered gold prices of all Premium Passes.
--Specialist_Eugene In TaoVillage now sells green poison.
--You can now sell belts to Merchant_Jennifer in Mudwall.
--Minimap/Bigmaps added to Ancient Stone Tomb.
--Bug Cave Evil Tongs now all have drop files.
--Adjusted movements into Border Village Storage.
--Healing Circle (Taoist Spell) now fully implemented.
--Stack size of Benediction Oils increased from 1 to 5.
--All Ancient Monsters have had their AI's looking at.
--Bug Cave GiantWorms SunPotion drop rate increased (Harder) due to typo.
--All Archer spells have been adjusted where needed to match official. (Levels + EXP Requirements)
+-Added new spells to GM Book NPC. (Buy & Give option)
+-Meteor Shower spell added. (Image bug found)
+-Immortal Skin spell added.
+-MoonMist spell now fully added.
+-Healing Circle spell added.
+-GM Chars now login into Gamemaster map. (r001)
+-Added Rebirth Manager Panel to GM Manager NPC.
+-GM Set flag now working correctly to hide GM NPCS from non-gm chars.
+-Started working on Rebirth NPC script addition to BichonWall Notice Board. (Still outstanding)
+-Last but not least: Conquests are now fully implemented into game. SabukWall set to start for 30 mins from 18:00, daily. (All bugs fixed)
 
 27/01/21
 
@@ -881,3 +855,16 @@ Hell Cavern:
 -All Ancient Monsters have had their AI's looking at.
 -Bug Cave GiantWorms SunPotion drop rate increased (Harder) due to typo.
 -All Archer spells have been adjusted where needed to match official. (Levels + EXP Requirements)
+
+09.04.23
+
+-Added new spells to GM Book NPC. (Buy & Give option)
+-Meteor Shower spell added. (Image bug found)
+-Immortal Skin spell added.
+-MoonMist spell now fully added.
+-Healing Circle spell added.
+-GM Chars now login into Gamemaster map. (r001)
+-Added Rebirth Manager Panel to GM Manager NPC.
+-GM Set flag now working correctly to hide GM NPCS from non-gm chars.
+-Started working on Rebirth NPC script addition to BichonWall Notice Board. (Still outstanding)
+-Last but not least: Conquests are now fully implemented into game. SabukWall set to start for 30 mins from 18:00, daily. (All bugs fixed)
