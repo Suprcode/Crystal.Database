@@ -2,3 +2,4 @@
 #IF
 ISADMIN
 #INCLUDE [SystemScripts\00Default\Login\[952].txt] @Main
+#INCLUDE [SystemScripts\00Default\Login\r001.txt] @Main

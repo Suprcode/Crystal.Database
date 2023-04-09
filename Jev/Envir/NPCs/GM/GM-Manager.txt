@@ -7,6 +7,7 @@ What function would you like me to perform today <$DATE>
 
 <Guild Application/@CreateGuildCheck> , <View Market/@MARKET> , <Hero Management/@Hero>
 <Kill my Pets/@KillPets> , <Open my Storage/@STORAGE> , <Reset Quest Flags/@ResetQuestFlags>
+<Rebirth Panel/@RebirthPanel>
  
 Menu: <Exit/@Exit>                                                  <Event Managment Page/@EventManagment>
 #ELSEACT
@@ -113,3 +114,105 @@ TAKEITEM SealedHero
 #SAY
 Hero had now passed over to the gods.
 
+[@RebirthPanel]
+#SAY
+Here you can set your Rebirth.
+
+Apply Rebirth          Delete Rebirth             Check Rebirth
+
+<Rebirth 1/@RB1>                 <Rebirth 1/@RB1DEL>                       <Rebirth 1/@RB1CHK>
+<Rebirth 2/@RB2>                 <Rebirth 2/@RB2DEL>                       <Rebirth 2/@RB2CHK>
+<Rebirth 3/@RB3>                 <Rebirth 3/@RB3DEL>                       <Rebirth 3/@RB3CHK>
+<All/@RB123>                             <All/@DEL123>
+‎ 
+
+<Back/@Main>
+[@RB1]
+#ACT
+SET [993] 1
+#SAY
+Rebirth 1 granted.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB2]
+#ACT
+SET [994] 1
+#SAY
+Rebirth 2 granted.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB3]
+#ACT
+SET [995] 1
+#SAY
+Rebirth 3 granted.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB123]
+#ACT
+SET [993] 1
+SET [994] 1
+SET [995] 1
+#SAY
+All rebirth flags applied.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB1DEL]
+#ACT
+SET [993] 0
+#SAY
+Rebirth 1 cleared.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB2DEL]
+#ACT
+SET [994] 0
+#SAY
+Rebirth 2 cleared.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB3DEL]
+#ACT
+SET [995] 0
+#SAY
+Rebirth 3 cleared.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@DEL123]
+#ACT
+SET [993] 0
+SET [994] 0
+SET [995] 0
+#SAY
+All rebirth flags cleared.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB1CHK]
+#IF
+CHECK [993] 1
+#SAY
+You currently have Rebirth 1.
+<Back/@RebirthPanel>    <Exit/@Exit>
+#ELSESAY
+You do not have Rebirth 1.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB2CHK]
+#IF
+CHECK [994] 1
+#SAY
+You currently have Rebirth 2.
+<Back/@RebirthPanel>    <Exit/@Exit>
+#ELSESAY
+You do not have Rebirth 2.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RB3CHK]
+#IF
+CHECK [995] 1
+#SAY
+You currently have Rebirth 3.
+<Back/@RebirthPanel>    <Exit/@Exit>
+#ELSESAY
+You do not have Rebirth 3.
+<Back/@RebirthPanel>    <Exit/@Exit>

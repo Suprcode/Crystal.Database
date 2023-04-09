@@ -3,7 +3,7 @@
 [@MAIN]
 {
 #IF
-CHECK [952] 1
-#ELSEACT
+ISADMIN
+#ACT
 SET [952] 1
 }

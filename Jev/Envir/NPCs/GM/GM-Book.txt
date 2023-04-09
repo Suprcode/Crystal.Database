@@ -41,6 +41,7 @@ GIVESKILL Rage 3
 GIVESKILL CounterAttack 3
 GIVESKILL SlashingBurst 3
 GIVESKILL Fury 3
+GIVESKILL ImmortalSkin 3
 [@Wizard]
 #ACT
 GIVESKILL FireBall 3
@@ -66,6 +67,8 @@ GIVESKILL Blizzard 3
 GIVESKILL MagicBooster 3
 GIVESKILL MeteorStrike 3
 GIVESKILL IceThrust 3
+GIVESKILL StormEscape 3
+GIVESKILL FastMove 3
 [@Taoist]
 #ACT
 GIVESKILL Healing 3
@@ -91,7 +94,7 @@ GIVESKILL Curse 3
 GIVESKILL Plague 3
 GIVESKILL PoisonCloud 3
 GIVESKILL EnergyShield 3
-GIVESKILL HEALINGCIRCLE 3
+GIVESKILL HealingCircle 3
 [@Assassin]
 #ACT
 GIVESKILL FatalSword 3
@@ -109,7 +112,8 @@ GIVESKILL SwiftFeet 3
 GIVESKILL DarkBody 3
 GIVESKILL Hemorrhage 3
 GIVESKILL CrescentSlash 3
-GIVESKILL MOONMIST 3
+GIVESKILL MoonMist 3
+GIVESKILL CatTongue 3
 [@Archer]
 #ACT
 GIVESKILL Focus 
@@ -130,7 +134,8 @@ GIVESKILL CrippleShot 3
 GIVESKILL SummonSnakes 3
 GIVESKILL NapalmShot 3
 GIVESKILL OneWithNature 3
-GIVESKILL STONETRAP 3
+GIVESKILL StoneTrap 3
+GIVESKILL Portal 3
 
 [Types]
 20
@@ -152,7 +157,7 @@ Rage
 CounterAttack
 SlashingBurst
 Fury
-NewWarrior2
+ImmortalSkin
 FireBall
 Repulsion
 ElectricShock
@@ -176,8 +181,8 @@ Blizzard
 MagicBooster
 MeteorStrike
 IceThrust
-NewWizard1
-NewWizard2
+StormEscape
+FastMove
 Healing
 SpiritSword
 Poisoning
@@ -201,6 +206,7 @@ Curse
 Plague
 PoisonCloud
 EnergyShield
+HealingCircle
 FatalSword
 DoubleSlash
 Haste
@@ -217,6 +223,7 @@ DarkBody
 Hemorrhage
 CresentSlash
 MoonMist
+CatTongue
 Focus
 StraightShot
 DoubleShot
@@ -236,3 +243,4 @@ SummonSnakes
 NapalmShot
 OneWithNature
 StoneTrap
+Portal
