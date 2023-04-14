@@ -4,24 +4,16 @@ CONQUESTOWNER 1
 #SAY
 Welcome <$CONQUESTOWNER(1)>,
 
-SabukWall Tax Income:
-$ <$CONQUESTGOLD(1)> {Gold/Yellow}
+SabukWall Tax Income:                   SabukWall NPC Tax Rate:
+$ <$CONQUESTGOLD(1)> {Gold/Yellow}                                              % <$CONQUESTRATE(1)> {Gold/Yellow}
 
- <Withdraw fund/@withdrawal>
- 
-SabukWall NPC Tax Rate:
-
-% <$CONQUESTRATE(1)> {Gold/Yellow}
-
- <Sabuk Taxes/@tax>
+ <Withdraw fund/@withdrawal>                                   <Sabuk Taxes/@tax>
  
 Next Conquest Date:
 
 * <$CONQUESTSCHEDULE(1)> {Attacking Guild/Orange}
 
- <Repair Castle/@repaircastle>             <Rehire Archers/@reliveachers>
-
- <Exit/@exit>
+ <Repair Castle/@repaircastle>             <Rehire Archers/@reliveachers>      <Exit/@exit>
 
 #ELSEACT
 LocalMessage "Come back when you own Sabuk Wall!" Hint

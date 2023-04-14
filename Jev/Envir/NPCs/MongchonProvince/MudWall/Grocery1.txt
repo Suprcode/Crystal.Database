@@ -13,6 +13,10 @@ But do not forgot my prices are not low...
 [@BuySell]
 #SAY
 What Item would you like to buy or sell?
+
+I see you're holding: {<$TORCH>/CORAL}
+I see you're holding: {<$AMULET>/CORAL}
+
 <BuyBack/@BuyBack>
  
 <Back/@Main>

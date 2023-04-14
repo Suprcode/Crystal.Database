@@ -13,7 +13,9 @@ GOTO @Main-1
 #SAY
 Welcome Traveller, my name is Wayne I'm a Master Artisan.. 
 I have specialized in Weaponry for many year's now.
- 
+
+I see you're wearing: {<$WEAPON>/CORAL}
+
 <Special/@SRepair> Repair Weapon.
  
 <Close/@exit>

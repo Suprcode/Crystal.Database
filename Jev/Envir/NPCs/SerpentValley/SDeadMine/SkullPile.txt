@@ -21,7 +21,7 @@
 CHECKITEM ScrollOfSeal 1
 #ACT
 TAKEITEM ScrollOfSeal 1
-MOVE LABY01 
+MOVE LABY01
 
 #ELSESAY
 You need to have the {ScrollOfSeal/LightSteelBlue} to enter!

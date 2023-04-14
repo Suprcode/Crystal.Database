@@ -58,7 +58,8 @@
 [991] = Level 65 Effect.
 [992] = Level 75 Effect.
 
-//Rebirth Effects
+
 [993] = Rebirth 1 Effect (Level 60-69)
 [994] = Rebirth 2 Effect (Level 70-79)
 [995] = Rebirth 3 Effect (Level 80+)
+[1000] = Rebirthed Player (Used for NPC Flag check for RB players)

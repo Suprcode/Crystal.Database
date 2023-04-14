@@ -13,7 +13,6 @@
 #ACT
 MOVE B352
 
-
 [@cloth]
 #ACT
 MOVE B353
@@ -25,7 +24,6 @@ MOVE B351
 [@pot]
 #ACT
 MOVE 5 160 316
-
 
 [@chief]
 #ACT

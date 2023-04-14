@@ -13,7 +13,9 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 Hello traveller, How may I help you?
- 
+
+I see you're holding: {<$TORCH>/CORAL}
+I see you're holding: {<$AMULET>/CORAL}
 <View/@BuySell> Store. 
 <Ask/@Ask> about Item.
  

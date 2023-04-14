@@ -7,9 +7,9 @@ What function would you like me to perform today <$DATE>
 
 <Guild Application/@CreateGuildCheck> , <View Market/@MARKET> , <Hero Management/@Hero>
 <Kill my Pets/@KillPets> , <Open my Storage/@STORAGE> , <Reset Quest Flags/@ResetQuestFlags>
-<Rebirth Panel/@RebirthPanel>
+<Rebirth Panel/@RebirthPanel> , <Event Management Page/@EventManagement>
  
-Menu: <Exit/@Exit>                                                  <Event Managment Page/@EventManagment>
+<Exit/@Exit>
 #ELSEACT
 MOVE 0 300 300
 
@@ -74,16 +74,208 @@ SET [509] 0
 SET [510] 0
 LINEMESSAGE "All quest flags have been reset." Hint
 
-[@EventManagment]
+[@EventManagement]
 #SAY
 This could be used for starting global events and other stuff as the
 server develops and adds in more functionality over time.
+
+<<SabukWall/@Sabuk>>
+ 
+ 
+ 
+ 
  
 <Back/@Main>
 
+[@Sabuk]
+#SAY
+Sabuk Wall Management Panel
+
+<Start War/End War/@StartWar>             <Statistics/@SWStatistics>
+<Teleport to InnerWall/@InnerWall>
+<Guard Check/@Guards>
+<Gate/Wall Check/@Gates>
+<Repair All/@SWReset>
+
+Current Owner of SabukWall is: <$CONQUESTOWNER(1)>
+
+<Back/@EventManagement>     <Exit/@Exit>
+
+[@StartWar]
+#ACT
+STARTCONQUEST 1
+
+[@InnerWall]
+#ACT
+MOVE 0150 12 15
+
+[@Guards]
+#SAY
+
+<Revive All/@RepairAll>
+
+<$CONQUESTGUARD(1,1)>   <Repair/@Guard1>
+<$CONQUESTGUARD(1,2)>   <Repair/@Guard2>
+<$CONQUESTGUARD(1,3)>   <Repair/@Guard3>
+<$CONQUESTGUARD(1,4)>   <Repair/@Guard4>
+<$CONQUESTGUARD(1,5)>   <Repair/@Guard5>
+<$CONQUESTGUARD(1,6)>   <Repair/@Guard6>
+<$CONQUESTGUARD(1,7)>   <Repair/@Guard7>
+<$CONQUESTGUARD(1,8)>   <Repair/@Guard8>
+<$CONQUESTGUARD(1,9)>   <Repair/@Guard9>
+<$CONQUESTGUARD(1,10)>   <Repair/@Guard10>
+<$CONQUESTGUARD(1,11)>   <Repair/@Guard11>
+<$CONQUESTGUARD(1,12)>   <Repair/@Guard12>
+
+<Back/@Sabuk>     <Exit/@Exit>
+
+[@Gates]
+#SAY
+
+<Repair All Walls/@RepairAllWalls>
+
+Walls and Gates
+<$CONQUESTWALL(1,1)>   <Repair/@Wall1>
+<$CONQUESTWALL(1,2)>   <Repair/@Wall2>
+<$CONQUESTWALL(1,3)>   <Repair/@Wall3>
+<$CONQUESTGATE(1,1)>   <Repair/@Gate1>
+
+<Open Gate/@OpenGate> <Close Gate/@CloseGate>
+
+<Back/@Sabuk>     <Exit/@Exit>
+
+[@OpenGate]
+#ACT
+OPENGATE 1 1
+LocalMessage "Gate Opened." Hint
+
+[@CloseGate]
+#ACT
+CLOSEGATE 1 1
+LocalMessage "Gate Closed." Hint
+
+[@RepairAllWalls]
+#ACT
+CONQUESTWALL 1 1
+CONQUESTWALL 1 2
+CONQUESTWALL 1 3
+LocalMessage "All Walls Repaired." Hint
+
+[@Wall1]
+#ACT
+CONQUESTWALL 1 1
+LocalMessage "You have Repaired Left Wall!" Hint
+
+[@Wall2]
+#ACT
+CONQUESTWALL 1 2
+LocalMessage "Center Wall Repaired." Hint
+
+[@Wall3]
+#ACT
+CONQUESTWALL 1 3
+LocalMessage "Right Wall Repaired." Hint
+
+[@Gate1]
+#ACT
+CONQUESTGATE 1 1
+LocalMessage "Gate Repaired." Hint
+
+[@RepairAll]
+#ACT
+CONQUESTGUARD 1 1
+CONQUESTGUARD 1 2
+CONQUESTGUARD 1 3
+CONQUESTGUARD 1 4
+CONQUESTGUARD 1 5
+CONQUESTGUARD 1 6
+CONQUESTGUARD 1 7
+CONQUESTGUARD 1 8
+CONQUESTGUARD 1 9
+CONQUESTGUARD 1 10
+CONQUESTGUARD 1 11
+CONQUESTGUARD 1 12
+LocalMessage "All Guards Revived." Hint
+
+[@Guard1]
+#ACT
+CONQUESTGUARD 1 1
+LocalMessage "Guard 1 Revived." Hint
+
+[@Guard2]
+#ACT
+CONQUESTGUARD 1 2
+LocalMessage "Guard 2 Revived." Hint
+
+[@Guard3]
+#ACT
+CONQUESTGUARD 1 3
+LocalMessage "Guard 3 Revived." Hint
+
+[@Guard4]
+#ACT
+CONQUESTGUARD 1 4
+LocalMessage "Guard 4 Revived." Hint
+
+[@Guard5]
+#ACT
+CONQUESTGUARD 1 5
+LocalMessage "Guard 5 Revived." Hint
+
+[@Guard6]
+#ACT
+CONQUESTGUARD 1 6
+LocalMessage "Guard 6 Revived." Hint
+
+[@Guard7]
+#ACT
+CONQUESTGUARD 1 7
+LocalMessage "Guard 7 Revived." Hint
+
+[@Guard8]
+#ACT
+CONQUESTGUARD 1 8
+LocalMessage "Guard 8 Revived." Hint
+
+[@Guard9]
+#ACT
+CONQUESTGUARD 1 9
+LocalMessage "Guard 9 Revived." Hint
+
+[@Guard10]
+#ACT
+CONQUESTGUARD 1 10
+LocalMessage "Guard 10 Revived." Hint
+
+[@Guard11]
+#ACT
+CONQUESTGUARD 1 11
+LocalMessage "Guard 11 Revived." Hint
+
+[@Guard12]
+#ACT
+CONQUESTGUARD 1 12
+LocalMessage "Guard 12 Revived." Hint
+
+[@SWReset]
+#ACT
+CONQUESTREPAIRALL 1
+LocalMessage "SabukWall Walls/Gate/Guards Repaired/Revived" Hint
+
+[@SWStatistics]
+#SAY
+Below are some Sabuk Statistics.
+‎ 
+
+Conquest Gold Stored: <$CONQUESTGOLD(1)>
+Conquest Intrest Rate: <$CONQUESTRATE(1)>
+Next Conquest Date: <$CONQUESTSCHEDULE(1)>
+‎ 
+<Back/@Sabuk>     <Exit/@Exit>
+
 [@Hero]
 #SAY
-Hero managment page 
+Hero Management page 
 
 <Back/@Main>
 
@@ -125,6 +317,7 @@ Apply Rebirth          Delete Rebirth             Check Rebirth
 <Rebirth 3/@RB3>                 <Rebirth 3/@RB3DEL>                       <Rebirth 3/@RB3CHK>
 <All/@RB123>                             <All/@DEL123>
 ‎ 
+<Check Main Rebirth Flag/@RBMAIN>      <Delete Main Rebirth Flag/@RBMAINDEL>      <Apply Main Rebirth Flag/@RBMAINADD>
 
 <Back/@Main>
 [@RB1]
@@ -148,11 +341,19 @@ SET [995] 1
 Rebirth 3 granted.
 <Back/@RebirthPanel>    <Exit/@Exit>
 
+[@RBMAINADD]
+#ACT
+SET [1000] 1
+#SAY
+Main Rebirth Flag granted.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
 [@RB123]
 #ACT
 SET [993] 1
 SET [994] 1
 SET [995] 1
+SET [1000] 1
 #SAY
 All rebirth flags applied.
 <Back/@RebirthPanel>    <Exit/@Exit>
@@ -183,8 +384,26 @@ Rebirth 3 cleared.
 SET [993] 0
 SET [994] 0
 SET [995] 0
+SET [1000] 0
 #SAY
 All rebirth flags cleared.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RBMAINDEL]
+#ACT
+SET [1000] 0
+#SAY
+Main Rebirth cleared.
+<Back/@RebirthPanel>    <Exit/@Exit>
+
+[@RBMAIN]
+#IF
+CHECK [1000] 1
+#SAY
+You currently have Main Rebirth Effect.
+<Back/@RebirthPanel>    <Exit/@Exit>
+#ELSESAY
+You do not have Main Rebirth Effect.
 <Back/@RebirthPanel>    <Exit/@Exit>
 
 [@RB1CHK]

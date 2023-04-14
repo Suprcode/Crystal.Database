@@ -12,7 +12,9 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 Welcome. Thanks for dropping in.
- 
+
+I see you're wearing: {<$WEAPON>/CORAL}
+
 <View/@BuySell> Store.
 <Repair/@Repair> Weapon.
  

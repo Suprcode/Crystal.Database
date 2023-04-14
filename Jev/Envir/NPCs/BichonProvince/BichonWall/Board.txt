@@ -87,9 +87,9 @@ SealHero
 Rebirth starts at Level 60 and grants you a Rebirth Effect
 depending on your level after rebirth.
 
-Effect 1 - <Level 60-69/@RB1>
-Effect 2 - Level 70-79
-Effect 3 - Level 80+
+Rebirth 1 - <Level 60-69/@RB1>
+Rebirth 2 - <Level 70-79/@RB2>
+Rebirth 3 - <Level 80+/@RB3>
 
 Check your rebirth eligibility above.
 
@@ -109,21 +109,85 @@ CHECK [993] 0
 #SAY
 Would you like to rebirth?
 
-<Yes/@RB1Apply>       <No/@RebirthMain>
+<Yes/@RB1APPLY>       <No/@RebirthMain>
 #ELSESAY
 You are already Rebirth 1.
 
 <Back/@RebirthMain>     <Exit/@EXIT>
 
-[@RB1Apply]
+[@RB1APPLY]
 #ACT
 SET [993] 1
+SET [1000] 1
+ADDNAMELIST ../NameLists/Rebirth1.txt
 #SAY
 You are now Reborn.
 
 <Back/@RebirthMain>     <Exit/@EXIT>
+
+[@RB2]
+#IF
+LEVEL < 70
+#SAY
+You need to be above Level 70 to rebirth.
+
+<Back/@RebirthMain>     <Exit/@EXIT>
+#ELSEACT
+GOTO @RB2CHECK
+
+[@RB2CHECK]
+#IF
+CHECK [994] 0
+#SAY
+Would you like to rebirth?
+
+<Yes/@RB2APPLY>       <No/@RebirthMain>
 #ELSESAY
-You are Rebirth 1
+You are already Rebirth 2.
+
+<Back/@RebirthMain>     <Exit/@EXIT>
+
+[@RB2APPLY]
+#ACT
+SET [993] 0
+SET [994] 1
+DELNAMELIST ../NameLists/Rebirth1.txt
+ADDNAMELIST ../NameLists/Rebirth2.txt
+#SAY
+You are now Reborn.
+
+<Back/@RebirthMain>     <Exit/@EXIT>
+
+[@RB3]
+#IF
+LEVEL < 80
+#SAY
+You need to be above Level 80 to rebirth.
+
+<Back/@RebirthMain>     <Exit/@EXIT>
+#ELSEACT
+GOTO @RB3CHECK
+
+[@RB3CHECK]
+#IF
+CHECK [995] 0
+#SAY
+Would you like to rebirth?
+
+<Yes/@RB3APPLY>       <No/@RebirthMain>
+#ELSESAY
+You are already Rebirth 3.
+
+<Back/@RebirthMain>     <Exit/@EXIT>
+
+[@RB3APPLY]
+#ACT
+SET [994] 0
+SET [995] 1
+DELNAMELIST ../NameLists/Rebirth2.txt
+ADDNAMELIST ../NameLists/Rebirth3.txt
+#SAY
+You are now Reborn.
 
 <Back/@RebirthMain>     <Exit/@EXIT>
 

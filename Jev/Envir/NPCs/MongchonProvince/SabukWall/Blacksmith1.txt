@@ -13,6 +13,9 @@ GOTO @Main-1
 #SAY
 Hey! Jude, don't make it bad... Well customer get here..
 How do you feel about my song?
+
+I see you're wearing: {<$WEAPON>/CORAL}
+
 <Weapon Refine/@Refine>
 <Retrieve Weapon/@RefineCollect>
 <Check Weapon/@RefineCheck>

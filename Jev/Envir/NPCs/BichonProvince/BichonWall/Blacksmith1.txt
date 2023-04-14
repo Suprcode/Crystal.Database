@@ -13,7 +13,9 @@ GOTO @Main-1
 #SAY
 Hello, Are you looking for something particular? 
 How can I be of assistance.
- 
+
+I see you're wearing: {<$WEAPON>/CORAL}
+
 <View/@BuySell> Store.
 <Repair/@Repair> Weapon.
  

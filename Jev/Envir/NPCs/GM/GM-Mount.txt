@@ -4,6 +4,7 @@ ISADMIN
 #SAY
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 I see you have: {<$MOUNT>/CORAL}
+Mount Loyalty: {<$MOUNTLOYALTY>/CORAL}
 You need to be Lebel 22 for mounts, Your Level: {<$LEVEL>/ORANGE}
 <Buy/@Buy> Mount Equipment
 <Sell/@Sell> Mount Equipment

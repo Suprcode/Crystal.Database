@@ -41,3 +41,13 @@ MOVE 0 328 264
 #ACT
 CLEARPETS
 LocalMessage "Your Pets have been killed successfully."
+
+
+[@_CUSTOMCOMMAND(GM)]
+#IF
+ISADMIN
+#ACT
+MOVE r001 100 100
+LocalMessage "Moved to Gamemaster Map" Hint
+#ELSEACT
+LocalMessage "You are not a Gamemaster" Hint

@@ -13,7 +13,9 @@ GOTO @Main-1
 #SAY
 Welcome traveller,
 I sell Items for your Tiger! Please take alook!
- 
+I see you have: {<$MOUNT>/CORAL}
+Mount Loyalty: {<$MOUNTLOYALTY>/CORAL}
+
 <View/@BuySell> Store.
  
 <Close/@exit>
