@@ -5,18 +5,23 @@
 
 
 *LATEST* 
-09.04.23
+14.04.23
 
--Added new spells to GM Book NPC. (Buy & Give option)
--Meteor Shower spell added. (Image bug found)
--Immortal Skin spell added.
--MoonMist spell now fully added.
--Healing Circle spell added.
--GM Chars now login into Gamemaster map. (r001)
--Added Rebirth Manager Panel to GM Manager NPC.
--GM Set flag now working correctly to hide GM NPCS from non-gm chars.
--Started working on Rebirth NPC script addition to BichonWall Notice Board. (Still outstanding)
--Last but not least: Conquests are now fully implemented into game. SabukWall set to start for 30 mins from 18:00, daily. (All bugs fixed)
+-Red Cavern all movements are in with Bigmap icons too.
+-Red Valley now has Bigmap Icons.
+-Snow Cavern door to KR fixed.
+-Lunar door added to treepath.
+-Ice Hell doors fixed.
+-Rebirth 1-3 now fully implemented. (Check BW Board)
+-Dangerous Cavern now has a minimap/bigmap.
+-Pranja Temple Door icon fixed for F 7>KR + Bigmap added to KR.
+-Hell Fire KR now has a minimap/bigmap.
+-Stone Trap AI now correct. (130 > 255)
+-Rebirth Panel added to GM_Manager in r001.
+-GM_Teleporter has had a huge rework.
+-GM Stable now displays currently equipped Mount and Mount Loyalalty.
+-@GM command added to teleport admin accounts to r001 @ 100:100.
+-GM_Manager has Sabuk Wall Management Panel.
 
 27/01/21
 
@@ -868,3 +873,22 @@ Hell Cavern:
 -GM Set flag now working correctly to hide GM NPCS from non-gm chars.
 -Started working on Rebirth NPC script addition to BichonWall Notice Board. (Still outstanding)
 -Last but not least: Conquests are now fully implemented into game. SabukWall set to start for 30 mins from 18:00, daily. (All bugs fixed)
+
+14.04.23
+
+-Red Cavern all movements are in with Bigmap icons too.
+-Red Valley now has Bigmap Icons.
+-Snow Cavern door to KR fixed.
+-Lunar door added to treepath.
+-Ice Hell doors fixed.
+-Rebirth 1-3 now fully implemented. (Check BW Board)
+-Dangerous Cavern now has a minimap/bigmap.
+-Pranja Temple Door icon fixed for F 7>KR + Bigmap added to KR.
+-Hell Fire KR now has a minimap/bigmap.
+-Stone Trap AI now correct. (130 > 255)
+-Rebirth Panel added to GM_Manager in r001.
+-GM_Teleporter has had a huge rework.
+-GM Stable now displays currently equipped Mount and Mount Loyalalty.
+-@GM command added to teleport admin accounts to r001 @ 100:100.
+-GM_Manager has Sabuk Wall Management Panel.
+
