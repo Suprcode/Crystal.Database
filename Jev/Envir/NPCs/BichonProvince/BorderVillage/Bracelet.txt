@@ -12,7 +12,8 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 Welcome, What can I do for you?
- 
+I see you're wearing: {L: <$BRACELET_L> R: <$BRACELET_R>/CORAL}
+
 <View/@BuySell> Store.
 <Repair/@Repair> Bracelets or Gloves.
  

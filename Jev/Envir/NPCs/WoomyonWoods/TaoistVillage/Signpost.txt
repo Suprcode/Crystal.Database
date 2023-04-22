@@ -20,7 +20,7 @@ MOVE 1005
 
 [@cloth]
 #ACT
-MOVE 1001
+MOVE 1003
 
 [@pot]
 #ACT
@@ -28,9 +28,8 @@ MOVE 1006
 
 [@weap]
 #ACT
-MOVE 1007
+MOVE 1001
 
 [@ped]
 #ACT
-MOVE 1006
-
+MOVE 1007

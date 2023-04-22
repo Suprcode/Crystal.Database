@@ -12,7 +12,7 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 Welcome, how may I help you?
-
+I see you're wearing: {<$HELMET>/CORAL}
 <Purchase/@BuySell> Helmets.
 <Repair/@Repair> Helmet.
  
