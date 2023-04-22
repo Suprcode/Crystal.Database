@@ -5,23 +5,16 @@
 
 
 *LATEST* 
-14.04.23
+22.04.23
 
--Red Cavern all movements are in with Bigmap icons too.
--Red Valley now has Bigmap Icons.
--Snow Cavern door to KR fixed.
--Lunar door added to treepath.
--Ice Hell doors fixed.
--Rebirth 1-3 now fully implemented. (Check BW Board)
--Dangerous Cavern now has a minimap/bigmap.
--Pranja Temple Door icon fixed for F 7>KR + Bigmap added to KR.
--Hell Fire KR now has a minimap/bigmap.
--Stone Trap AI now correct. (130 > 255)
--Rebirth Panel added to GM_Manager in r001.
--GM_Teleporter has had a huge rework.
--GM Stable now displays currently equipped Mount and Mount Loyalalty.
--@GM command added to teleport admin accounts to r001 @ 100:100.
--GM_Manager has Sabuk Wall Management Panel.
+-Class books now have correct colors depending on Required Class (Parity)
+-All spells have been adjusted to either be useable or not useable by a Hero.
+-TaoVillage Notice Board NPC script adjustment to fix broken Shop Teleports.
+-All Merchant NPCS display currently equipped Items. (NPC Dependant)
+-WhiteDragonPassage: Hydra AI Fixed/SmallDrake AI Fixed/SandStorm Mob removed from Respawns/Respawn count increased.
+-WhiteValley: Cave Movements adjusted/Added Icons for movements/Added NPC Charlotte to enter IceHell.
+-IceHell: Icons added for movements/Movements tweaked (Still needs more work)/Minimaps & Bigmaps added.
+-GM Teleporter Options to teleport to town stores added.
 
 27/01/21
 
@@ -892,3 +885,13 @@ Hell Cavern:
 -@GM command added to teleport admin accounts to r001 @ 100:100.
 -GM_Manager has Sabuk Wall Management Panel.
 
+22.04.23
+
+-Class books now have correct colors depending on Required Class (Parity)
+-All spells have been adjusted to either be useable or not useable by a Hero.
+-TaoVillage Notice Board NPC script adjustment to fix broken Shop Teleports.
+-All Merchant NPCS display currently equipped Items. (NPC Dependant)
+-WhiteDragonPassage: Hydra AI Fixed/SmallDrake AI Fixed/SandStorm Mob removed from Respawns/Respawn count increased.
+-WhiteValley: Cave Movements adjusted/Added Icons for movements/Added NPC Charlotte to enter IceHell.
+-IceHell: Icons added for movements/Movements tweaked (Still needs more work)/Minimaps & Bigmaps added.
+-GM Teleporter Options to teleport to town stores added.
