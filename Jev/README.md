@@ -5,16 +5,22 @@
 
 
 *LATEST* 
-22.04.23
+24.05.23
 
--Class books now have correct colors depending on Required Class (Parity)
--All spells have been adjusted to either be useable or not useable by a Hero.
--TaoVillage Notice Board NPC script adjustment to fix broken Shop Teleports.
--All Merchant NPCS display currently equipped Items. (NPC Dependant)
--WhiteDragonPassage: Hydra AI Fixed/SmallDrake AI Fixed/SandStorm Mob removed from Respawns/Respawn count increased.
--WhiteValley: Cave Movements adjusted/Added Icons for movements/Added NPC Charlotte to enter IceHell.
--IceHell: Icons added for movements/Movements tweaked (Still needs more work)/Minimaps & Bigmaps added.
--GM Teleporter Options to teleport to town stores added.
+Patch Notes
+24.05.23
+
+-Guild Territories added. (Note: Not rentalable atm)
+-GM Manager NPC added GT teleport options.
+-HellKeeper Movement speed adjusted to 0.
+-RedEyeSkull stack size increased from 1 to 10.
+-Apples stack size increased from 1 to 5.
+-MudWall Notice Board removed book store teleport option. (Sadly the book store was burnet down)
+-Border Village Butcher moved slightly up.
+-GreaterWeaver Ai changed from 0 to 39.
+-SnowCavern monster drop files added and relocated.
+-MudWall Private House movement fixed. 255:335
+-SkullPile script spelling adjusted.
 
 27/01/21
 
@@ -895,3 +901,17 @@ Hell Cavern:
 -WhiteValley: Cave Movements adjusted/Added Icons for movements/Added NPC Charlotte to enter IceHell.
 -IceHell: Icons added for movements/Movements tweaked (Still needs more work)/Minimaps & Bigmaps added.
 -GM Teleporter Options to teleport to town stores added.
+
+24.05.23
+
+-Guild Territories added. (Note: Not rentalable atm)
+-GM Manager NPC added GT teleport options.
+-HellKeeper Movement speed adjusted to 0.
+-RedEyeSkull stack size increased from 1 to 10.
+-Apples stack size increased from 1 to 5.
+-MudWall Notice Board removed book store teleport option. (Sadly the book store was burnet down)
+-Border Village Butcher moved slightly up.
+-GreaterWeaver Ai changed from 0 to 39.
+-SnowCavern monster drop files added and relocated.
+-MudWall Private House movement fixed. 255:335
+-SkullPile script spelling adjusted.
