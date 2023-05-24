@@ -10,9 +10,9 @@
 [@Read]
 #SAY
 "From another being who endlessly wanders this place,"
-"Obtain the book and bring it to me."
+"Obtain the scroll and bring it to me."
  
-(Is this the book?)
+(Is this the scroll?)
 (<I should try it out./@Enter>)
 
 

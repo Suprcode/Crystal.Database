@@ -1,2 +1,28 @@
-;Gold
-1/5 Gold 400
+;Pots + Other
+
+
+;Weapons
+
+
+;Armour
+
+
+;Helmets
+
+
+;Necklace
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Stone

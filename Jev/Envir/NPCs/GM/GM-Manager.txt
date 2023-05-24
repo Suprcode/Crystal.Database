@@ -7,7 +7,7 @@ What function would you like me to perform today <$DATE>
 
 <Guild Application/@CreateGuildCheck> , <View Market/@MARKET> , <Hero Management/@Hero>
 <Kill my Pets/@KillPets> , <Open my Storage/@STORAGE> , <Reset Quest Flags/@ResetQuestFlags>
-<Rebirth Panel/@RebirthPanel> , <Event Management Page/@EventManagement>
+<Rebirth Panel/@RebirthPanel> , <Event Management Page/@EventManagement> , <Guild Territory/@GT>
  
 <Exit/@Exit>
 #ELSEACT
@@ -435,3 +435,52 @@ You currently have Rebirth 3.
 #ELSESAY
 You do not have Rebirth 3.
 <Back/@RebirthPanel>    <Exit/@Exit>
+
+[@GT]
+#SAY
+Welcome to the Guild Territory Panel.
+
+Please select what GT you would like to teleport to.
+
+<Guild Territory 1/@GT1>
+<Guild Territory 2/@GT2>
+<Guild Territory 3/@GT3>
+<Guild Territory 4/@GT4>
+<Guild Territory 5/@GT5>
+<Guild Territory 6/@GT6>
+<Guild Territory 7/@GT7>
+<Guild Territory 8/@GT8>
+<Guild Territory 9/@GT9>
+<Guild Territory 10/@GT10>
+
+<Back/@Main>  <Exit/@Exit>
+[@GT1]
+#ACT
+MOVE GA0 54 55
+[@GT2]
+#ACT
+MOVE GA1 54 55
+[@GT3]
+#ACT
+MOVE GA2 54 55
+[@GT4]
+#ACT
+MOVE GA3 54 55
+[@GT5]
+#ACT
+MOVE GA4 54 55
+[@GT6]
+#ACT
+MOVE GA5 54 55
+[@GT7]
+#ACT
+MOVE GA6 54 55
+[@GT8]
+#ACT
+MOVE GA7 54 55
+[@GT9]
+#ACT
+MOVE GA8 54 55
+[@GT10]
+#ACT
+MOVE GA9 54 55

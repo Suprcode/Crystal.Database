@@ -1,7 +1,28 @@
-;Gold
-1/5 Gold 1750
+;Pots + Other
 
-;Potions
-1/30 (HP)DrugLarge
-1/30 (MP)DrugLarge 
-1/100 SunPotion 
+
+;Weapons
+
+
+;Armour
+
+
+;Helmets
+
+
+;Necklace
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Stone

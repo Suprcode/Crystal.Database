@@ -1,11 +1,28 @@
+;Pots + Other
+
+
+;Weapons
+
+
+;Armour
+
+
 ;Helmets
-1/100 MysteryHelmet
+
+
+;Necklace
+
 
 ;Bracelets
-1/100 MysteryWheel 
+
 
 ;Rings
-1/100 MysteryCircle 
 
-;Potions
-1/100 MysteryWater
+
+;Shoes
+
+
+;Belts
+
+
+;Stone

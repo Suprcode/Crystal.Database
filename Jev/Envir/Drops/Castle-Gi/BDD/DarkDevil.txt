@@ -36,7 +36,7 @@
 1/25 SoulSpringWand
 1/25 WarMageStaff 
 1/25 BladesOfDarkness
-1/25 MaleficBow
+1/250 MaleficBow
 1/110 WarSpiritBlade
 1/110 MagicScythe
 1/110 StoneBambooFan

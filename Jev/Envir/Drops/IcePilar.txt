@@ -1,76 +1,28 @@
-;Gold
+;Pots + Other
+
 
 ;Weapons
 
-;Armours
+
+;Armour
+
 
 ;Helmets
 
-;Necklaces
+
+;Necklace
+
 
 ;Bracelets
 
+
 ;Rings
 
-;Amulets
+
+;Shoes
+
 
 ;Belts
 
-;Boots
 
-;Stones
-
-;Torches
-
-;Potions
-
-;Ores
-
-;Meat
-
-;Crafting Materials
-
-;Scrolls
-
-;Gems
-
-;Mount
-
-;Books
-
-;Nothing
-
-;Script
-
-;Reins
-
-;Bells
-
-;Saddle
-
-;Ribbon
-
-;Mask
-
-;Food
-
-;Hook
-
-;Float
-
-;Bait
-
-;Finder
-
-;Reel
-
-;Fish
-
-;Quest
-
-;Awakening
-
-;Pets
-
-;Transform
-
+;Stone

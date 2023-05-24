@@ -1,5 +1,28 @@
-;Gold
-1/5 Gold 400
+;Pots + Other
 
-;Quest
-1/5 StolenGold Q
+
+;Weapons
+
+
+;Armour
+
+
+;Helmets
+
+
+;Necklace
+
+
+;Bracelets
+
+
+;Rings
+
+
+;Shoes
+
+
+;Belts
+
+
+;Stone

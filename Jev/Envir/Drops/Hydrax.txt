@@ -1,9 +1,5 @@
-;Gold
-1/10 Gold 1150
-
 ;Pots + Other
-1/15 (HP)DrugXL
-1/15 (MP)DrugXL
+
 
 ;Weapons
 
@@ -29,23 +25,4 @@
 ;Belts
 
 
-;Medals
-
-
-;Shields
-
-
-;Pads
-
-
 ;Stone
-
-
-;Books
-
-
-;CraftingMaterials
-
-
-;Quests
-

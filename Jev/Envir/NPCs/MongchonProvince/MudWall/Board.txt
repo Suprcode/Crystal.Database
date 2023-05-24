@@ -6,8 +6,7 @@
 I can send you several places nearby.
 
 <Blacksmith/@weapon>   <Armour shop/@armour>
-<Book store/@book>   <Accessory shop/@access>
-<Inn/@store>
+<Accessory shop/@access>   <Inn/@store>
 
 I will be back <later/@Exit>
 
@@ -26,10 +25,6 @@ Move 0158
 [@store]
 #ACT
 Move 0145
-
-[@book]
-#ACT
-Move 0161
 
 [Quests]
 142
