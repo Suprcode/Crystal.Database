@@ -1,5 +1,7 @@
 Todo:
 
+List can be found here: https://trello.com/b/uN3mvn7Q/database
+
 Add more Daily Quests
 Add Quest to enter Palace
 
