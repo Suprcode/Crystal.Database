@@ -5,22 +5,16 @@
 
 
 *LATEST* 
-24.05.23
+26.06.23
 
 Patch Notes
-24.05.23
+26.06.23
 
--Guild Territories added. (Note: Not rentalable atm)
--GM Manager NPC added GT teleport options.
--HellKeeper Movement speed adjusted to 0.
--RedEyeSkull stack size increased from 1 to 10.
--Apples stack size increased from 1 to 5.
--MudWall Notice Board removed book store teleport option. (Sadly the book store was burnet down)
--Border Village Butcher moved slightly up.
--GreaterWeaver Ai changed from 0 to 39.
--SnowCavern monster drop files added and relocated.
--MudWall Private House movement fixed. 255:335
--SkullPile script spelling adjusted.
+-Working with latest code 2d199c2
+-ArcherMage renamed to MasterMage_Don + Relocated inside MageHouse.
+-Archer's house renmaed to MageHouse.
+-Meet the mage instructor Hand-in fixed.
+-14 new weapons added from Official.
 
 27/01/21
 
@@ -915,3 +909,11 @@ Hell Cavern:
 -SnowCavern monster drop files added and relocated.
 -MudWall Private House movement fixed. 255:335
 -SkullPile script spelling adjusted.
+
+26.06.23
+
+-Working with latest code 2d199c2
+-ArcherMage renamed to MasterMage_Don + Relocated inside MageHouse.
+-Archer's house renmaed to MageHouse.
+-Meet the mage instructor Hand-in fixed.
+-14 new weapons added from Official.
