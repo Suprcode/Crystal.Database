@@ -5,22 +5,30 @@
 
 
 *LATEST* 
-24.05.23
+28.06.23
 
 Patch Notes
-24.05.23
+28.06.23
+-Added following images to Images.lib & Dnitems.lib: 3100-3123 // 3380-3382 // 3885-3889 // 3970-3979 // 3170,3172,3365,3591,3592,3930 //
+4029-4042 // 4053-4061 // 4065,4067 // 4070-4073 // 4090-4107 // 4113,4117 // 4120-4126 // 4140-4148 // 4171 // 4190-4193 // 
+4210-4265 // 4305,4350,4360,4382,4383,4433,4434 // 4510-5102
 
--Guild Territories added. (Note: Not rentalable atm)
--GM Manager NPC added GT teleport options.
--HellKeeper Movement speed adjusted to 0.
--RedEyeSkull stack size increased from 1 to 10.
--Apples stack size increased from 1 to 5.
--MudWall Notice Board removed book store teleport option. (Sadly the book store was burnet down)
--Border Village Butcher moved slightly up.
--GreaterWeaver Ai changed from 0 to 39.
--SnowCavern monster drop files added and relocated.
--MudWall Private House movement fixed. 255:335
--SkullPile script spelling adjusted.
+-Added the following Items: 
+PinkUnderpants
+BlueMarshmallow
+Underpants
+LeopardTattooSuit
+YellowUnderpants
+SnowUnderpants
+PinkMarshmallow
+
+-Item images changes:
+BenedictionOil 26 to 3366
+WarGodOil 2 to 3367
+RepairOil 27 to 3368
+
+-IceDragonSword (1364) Deleted from item db (dupilcate)
+
 
 27/01/21
 
@@ -915,3 +923,33 @@ Hell Cavern:
 -SnowCavern monster drop files added and relocated.
 -MudWall Private House movement fixed. 255:335
 -SkullPile script spelling adjusted.
+
+26.06.23
+
+-Working with latest code 2d199c2
+-ArcherMage renamed to MasterMage_Don + Relocated inside MageHouse.
+-Archer's house renmaed to MageHouse.
+-Meet the mage instructor Hand-in fixed.
+-14 new weapons added from Official.
+
+28.06.23
+-Added following images to Images.lib & Dnitems.lib: 3100-3123 // 3380-3382 // 3885-3889 // 3970-3979 // 3170,3172,3365,3591,3592,3930 //
+4029-4042 // 4053-4061 // 4065,4067 // 4070-4073 // 4090-4107 // 4113,4117 // 4120-4126 // 4140-4148 // 4171 // 4190-4193 // 
+4210-4265 // 4305,4350,4360,4382,4383,4433,4434 // 4510-5102
+
+-Added the following Items: 
+PinkUnderpants
+BlueMarshmallow
+Underpants
+LeopardTattooSuit
+YellowUnderpants
+SnowUnderpants
+PinkMarshmallow
+
+-Item images changes:
+BenedictionOil 26 to 3366
+WarGodOil 2 to 3367
+RepairOil 27 to 3368
+
+-IceDragonSword (1364) Deleted from item db (dupilcate)
+
