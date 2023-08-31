@@ -19,19 +19,19 @@ How to use;
 
 # Current Databases
 
-- Jev 23/07/20 - Present (Actively updated)
+- Jev 23/07/20 - Present (Actively but slow updates)
 - Daneo1989 27/11/14 - 31/10/15 (No longer updated)
 - NightWolf - 13/12/14 - (No longer updated)
 
 # Useful Links
 
-LOMCN - https://www.lomcn.org/
+LOMCN - https://www.lomcn.net/
 
 Contributors - https://github.com/Suprcode/mir2-database/graphs/contributors
 
 MirFiles - http://mirfiles.com/
 
-Mir 2 WIKI - http://wiki.mironline.co.uk/Main_Page
+Mir 2 WIKI - https://www.lomcn.net/wiki/index.php/Crystal
 
 Crystal Mir2 Tutorials - https://www.lomcn.org/forum/forums/crystalm2-tutorials.634/
 
