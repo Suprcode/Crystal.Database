@@ -5,30 +5,12 @@
 
 
 *LATEST* 
-28.06.23
+26.11.23
 
 Patch Notes
-28.06.23
--Added following images to Images.lib & Dnitems.lib: 3100-3123 // 3380-3382 // 3885-3889 // 3970-3979 // 3170,3172,3365,3591,3592,3930 //
-4029-4042 // 4053-4061 // 4065,4067 // 4070-4073 // 4090-4107 // 4113,4117 // 4120-4126 // 4140-4148 // 4171 // 4190-4193 // 
-4210-4265 // 4305,4350,4360,4382,4383,4433,4434 // 4510-5102
+26.11.23
 
--Added the following Items: 
-PinkUnderpants
-BlueMarshmallow
-Underpants
-LeopardTattooSuit
-YellowUnderpants
-SnowUnderpants
-PinkMarshmallow
-
--Item images changes:
-BenedictionOil 26 to 3366
-WarGodOil 2 to 3367
-RepairOil 27 to 3368
-
--IceDragonSword (1364) Deleted from item db (dupilcate)
-
+-Net 8 Support
 
 27/01/21
 
@@ -44,7 +26,6 @@ HellKnight2/HellKnight3/HellKnight4/HellBomb1/HellBomb2/HellBomb3
 
 -Changed max resolution to 1440 (Thank you far)
 
-
 28/01/21
 
 -Adjusted SafeZones in Bichon Province.
@@ -57,7 +38,6 @@ HellKnight2/HellKnight3/HellKnight4/HellBomb1/HellBomb2/HellBomb3
 
 -Added Envir Folder *Includes*
 -Added Drops
-
 
 30/01/21
 
@@ -134,7 +114,6 @@ HellKnight1 /
 RestlessJar /
 Jar1 /
 Jar2 /
-
 
 16/04/21
 
@@ -253,7 +232,7 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
  Works with latest 432338e Suprcode release
  https://github.com/Suprcode/mir2/commit/432338e57bd2c3aa830554a80ec67ed92cdb87d0
  
- 25/02/22
+25/02/22
 
 -Changed GeneralJimnYo Ai from 140 to 123 (Correct AI)
 
@@ -319,6 +298,7 @@ Warrior Scroll//Taoist Scroll//Wizard Scroll//Assassin Scroll
 -Hydrax Changed Image from Guard to Hydrax
 
 08/03/22
+
 -World Map & Big Map system added.
 
 Currently only BichonProvince and surrounding caves have been added.
@@ -329,17 +309,20 @@ Thanks to Lilcooldoode
 Updated to work with the latest source code (9e78f8f)
 
 13/03/22
+
 -Updated to work with the latest source code (7a70fc2) (13/03/22)
 -Changed all Teleport NPC scripts with new script feature.
 https://imgur.com/XZg3EBn
 
 31/03/22
+
 -Updated to work with the latest source code (16c006c)
 -Added Level up announcement for Levels: 20,40 & 60
 -Added Create/Revive/Seal Hero options on BW Signpost NPC.
 -Added Configs folder for quick set up for Heroes and Bigmap/WorldMap system.
 
 14/04/22
+
 -Updated to work with the latest source code (c371cd8)
 
 -Added the remainder of the Provinces to the worldmap.
@@ -348,6 +331,7 @@ View
 Thank you to @IceMan for the addition.
 
 30/05/22
+
 -Update to work with the latest source code. Few quest adjustments.
 -Removed maps as they can be grabbed from the client.
 -If you are missing any maps then head over to the Released section and locate Unused & Used maps.
@@ -357,6 +341,7 @@ Known issues:
 A few quests are not back in.
 
 06/07/22
+
 -Removed all unsupported databases.
 -Updated to work with the latest source.
 -Changed Hen Drop file.
@@ -364,6 +349,7 @@ A few quests are not back in.
 -Changed CraftingBook dura to 5.
 
 17/07/22
+
 The big update
 
 //Fixed Movements:
@@ -483,6 +469,7 @@ SnowCave_2F Correct map but still black, Maybe missing tiles?
 WhiteDragonPassage Mob AIs
 
 26/07/22
+
 -ImmortalSkin RandomStats removed.
 -Class books now have independant colours.
 -Map 41: DM001 changed to new DM001A (Used the same map as id 36)
@@ -933,6 +920,7 @@ Hell Cavern:
 -14 new weapons added from Official.
 
 28.06.23
+
 -Added following images to Images.lib & Dnitems.lib: 3100-3123 // 3380-3382 // 3885-3889 // 3970-3979 // 3170,3172,3365,3591,3592,3930 //
 4029-4042 // 4053-4061 // 4065,4067 // 4070-4073 // 4090-4107 // 4113,4117 // 4120-4126 // 4140-4148 // 4171 // 4190-4193 // 
 4210-4265 // 4305,4350,4360,4382,4383,4433,4434 // 4510-5102
@@ -953,3 +941,6 @@ RepairOil 27 to 3368
 
 -IceDragonSword (1364) Deleted from item db (dupilcate)
 
+26.11.23
+
+-Net 8 Support
