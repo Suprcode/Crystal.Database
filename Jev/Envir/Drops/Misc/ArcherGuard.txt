@@ -13,6 +13,7 @@
 ;Rings
 
 ;Amulets
+1/1 GreenPoison 
 
 ;Belts
 
