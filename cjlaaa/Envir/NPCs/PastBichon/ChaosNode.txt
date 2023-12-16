@@ -1,0 +1,18 @@
+﻿[@main]
+#SAY
+龙之巢穴暂未开放
+
+;;#IF
+;;CHECKITEM 龙鳞 1 
+;;#ACT
+;;TAKEITEM 龙鳞 1
+;;#SAY
+;;<进入龙之巢穴./@tele>
+;;#ELSESAY
+;;你没有{龙鳞/LightSteelBlue}!
+;;<关闭/@exit>
+
+[@tele]
+#ACT
+MOVE D2081 30 50
+break

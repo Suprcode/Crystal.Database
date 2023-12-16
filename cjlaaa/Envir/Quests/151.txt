@@ -1,0 +1,29 @@
+[@Description]
+深入{赤月峡谷/Yellow}猎杀{赤月恶魔/Crimson}.
+
+[@TaskDescription]
+猎杀{赤月恶魔/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+RedMoonEvil 1
+
+[@ItemTasks]
+
+[@FlagTasks]
+
+[@CarryItems]
+邪恶巨人油 2
+邪恶巨人心 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+赤血魔剑
+赤血魔刀
+RedMoonBow
+
+[@ExpReward]
+
+[@GoldReward]

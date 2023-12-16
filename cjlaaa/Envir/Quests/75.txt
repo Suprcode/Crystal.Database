@@ -1,0 +1,25 @@
+﻿[@Description]
+你听说过{蛇谷矿区/Yellow}吗?
+我要被里面传出的呼啸声折磨疯了.
+
+[@TaskDescription]
+消灭5只{爬行僵尸/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+爬行僵尸 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+24000
+
+[@GoldReward]
+24000

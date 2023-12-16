@@ -1,0 +1,74 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+I see you're wearing: {<$BOOTS>/CORAL}
+ 
+<Buy/@Buy> Boot
+<Sell/@Sell> Boot
+<Repair/@Repair> Boot
+<Special Repair/@SRepair> Boot
+
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+[@Repair]
+#SAY
+Repair.
+ 
+<Back/@Main>
+
+[@SRepair]
+#SAY
+Special repair.
+ 
+<Back/@Main>
+
+
+[Types]
+10
+
+[Trade]
+天龙神形步
+雷霆战靴
+雷霆战靴(H)
+RedJadeShoes
+RedJadeShoes(H)
+软玉矿Shoes
+软玉矿Shoes(H)
+强身靴子1
+强身靴子2
+强身靴子3
+强身靴子4
+强身靴子5
+血龙靴子
+监视者靴子
+监视者靴子1
+监视者靴子2
+监视者靴子3
+监视者靴子4
+监视者靴子5
+贝玉靴子
+黑术靴
+青宝靴(勇猛)
+青宝靴(魔性)
+青宝靴(仙界)
+青宝靴(机敏)
+CheongboBoots(ARCH)
+RottenShoes
+布鞋
+鹿皮靴
+紫绸靴
+避魂靴
+龙靴
+赤鳞靴
+黄金宝靴

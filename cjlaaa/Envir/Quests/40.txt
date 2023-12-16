@@ -1,0 +1,26 @@
+﻿[@Description]
+你好旅行者.我搬来{沃玛森林/Yellow}已经40年了.
+曾经,我努力猎杀着周围的怪物,
+但现在我老了,干不动了,你能帮帮我吗?
+
+[@TaskDescription]
+为{MasterShok/LimeGreen}猎杀5只{半兽战士/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+半兽战士 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+5500
+
+[@GoldReward]
+5500

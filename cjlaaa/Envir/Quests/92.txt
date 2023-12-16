@@ -1,0 +1,32 @@
+﻿[@Description]
+这里还有很多怪物,请你再帮我杀掉一些.
+
+[@TaskDescription]
+消灭2只{钢牙蜘蛛/Crimson},2只{幻影蜘蛛/Crimson}
+3只{花吻蜘蛛/Crimson}和{黑锷蜘蛛/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+钢牙蜘蛛 2
+幻影蜘蛛 2
+花吻蜘蛛 3
+黑锷蜘蛛 3
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+重盔
+焰火魔袍
+灵魂道袍
+残影魔甲
+
+[@ExpReward]
+35500
+
+[@GoldReward]
+35500

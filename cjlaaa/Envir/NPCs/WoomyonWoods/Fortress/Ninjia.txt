@@ -1,0 +1,41 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好，我的名字叫Ninjia,我的工作是
+运用魔力将人们安全的送回比奇，
+只需要一点小钱。那么你现在是想?
+ 
+我想使用 <服务/@tele>
+我想 <下次再来/@exit> 
+
+[@tele]
+#SAY
+你想去哪里?
+ 
+前往: <比奇城/@move3> {(2000 Gold)/GOLD}
+
+[@move3]
+#IF
+CHECKGOLD > 2000
+#ACT
+MOVE 0 296 221
+TAKEGOLD 2000
+#ELSEACT
+GOTO @B1
+
+[@B1]
+#SAY
+你没有足够的 {Gold/Gold} 来使用此项服务!
+不要浪费我的时间，快走吧!
+ 
+<关闭/@exit>

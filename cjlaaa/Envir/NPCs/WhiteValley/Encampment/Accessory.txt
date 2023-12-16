@@ -1,0 +1,62 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+I will not help an evil person like you...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+Welcome, What can I do for you?
+ 
+<View/@BuySell> Store.
+<Repair/@Repair> Jewellery.
+ 
+<Close/@exit>
+
+[@BuySell]
+#SAY
+Which item would you like to Buy or Sell?
+<Buy Back/@BuyBack>
+ 
+<Back/@main>
+
+[@BuyBack]
+#SAY
+These are the items still available to purchase back.
+ 
+<Back/@main>
+
+[@Repair]
+#SAY
+You can repair various kinds of Jewellery.
+  
+<Back/@main>
+
+[Types]
+5
+6
+7
+
+[Trade]
+魔鬼项链
+PheonixBead
+琥珀项链
+灯笼项链
+牛角戒指
+生铁戒指
+白玉戒指
+蓝色水晶戒指
+黑色水晶戒指
+蛇眼戒指
+珍珠戒指
+金戒指
+钢手镯
+大手镯
+尽力手镯
+道士手镯
+黑檀手镯

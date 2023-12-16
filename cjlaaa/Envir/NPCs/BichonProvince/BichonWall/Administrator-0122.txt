@@ -1,0 +1,89 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+这里是比奇皇宫，整个大陆的中心.
+我是这里的国王，你有什么需要?
+<建立行会/@CREATEGUILD>
+<发起行会战争/@REQUESTWAR>
+<申请沙巴克攻城战/@requestcastlewar>
+<询问如何建立行会/@buildguildexp> || <关于行会战/@guildwarexp>
+
+ 
+
+[@buildguildexp]
+#SAY
+建立行会需要如下物品:-
+1000000 {Gold/Gold} & 沃玛号角, 
+在建立行会时，行会名称不允许有无法识别的
+符号，当行会成员全部退出行会后，行会将自动解散.
+<返回/@main>
+
+[@guildwarexp]]
+#SAY
+<行会战争/@guildwar2> 是行会与行会之间发起的 
+<合法/@warrule> 战争，只有行会的会长才能发起行会战.
+ 当你 <请求/@propose>发起行会战后, 本场行会战将持续3小时. 
+你必须支付 <$GUILDWARFEE> {Gold/Gold} 来发起一场行会战争. 
+ 
+<返回/@main>
+
+[@guildwar2]
+#SAY
+当你的行会处在行会战时期，盟友的名字将变成蓝色,
+而敌对行会的玩家名字将变为橙色.
+如果你在行会战时期上线，将会在聊天框中收到如下提示:
+'与 {nnn} 正在行会战中' 如果你杀掉了敌对行会的
+敌人，将不增加pk值.
+<返回/@guildwarexp>
+
+[@warrule]
+#SAY
+行会战在城内的安全区和一些
+特殊区域不会生效 (比如在某些建筑中).
+如果你在行会战中pk了非敌对行会的玩家
+你的pk值也会增加.
+ 
+<返回/@guildwarexp>
+
+[@propose]
+#SAY
+行会战争只能由行会会长申请.
+<返回/@guildwarexp>
+
+[@donate]
+#SAY
+我们还没有筹集到足够的捐款.
+ 
+ <返回/@main>
+
+[@requestcastlewar]
+#SAY
+申请沙巴克攻城战需要一个祖玛头像。
+当申请成功后，攻城战将在2天后打响，
+现在就要申请吗？
+ 
+ <申请/@requestcastlewarnow>
+ 
+ <返回/@main>
+
+[~@request_ok]
+#SAY
+沙巴克攻城战申请已经受理. 
+请前往沙巴克门口的老人处查询攻城时间.
+ 
+<离开/@exit>
+; 最近的沙巴克攻城战发生在
+; <$CASTLEWARDATE> PM 8.
+
+
+

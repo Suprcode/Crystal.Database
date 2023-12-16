@@ -1,0 +1,12 @@
+﻿[@MAIN]
+#IF
+CHECKQUEST 111 0
+#SAY
+一个普普通通的柱子.
+#ELSESAY
+当你的手触摸到这个柱子，你感受到了一股神秘的气息..
+#ELSEACT
+SET [523] 1
+LOCALMESSAGE "MysteriousPillar 被找到!" Hint
+BREAK
+CLOSE

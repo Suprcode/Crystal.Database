@@ -1,0 +1,254 @@
+﻿[@Main]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+欢迎，需要点什么?
+ 
+<浏览/@BuySell> 商店.
+打听 <关于武技/@helpbooks> 的消息.
+收集 <信息/@information>
+ 
+<关闭/@exit>
+
+[@BuySell]
+#SAY
+你要买卖哪本书.
+<买回/@BuyBack>
+ 
+<返回/@Main>
+
+[@helpbooks]
+#SAY
+你想打听哪个职业的技能?
+ 
+战士:   <技能列表/@War1>
+法师:   <技能列表/@Wiz1>
+道士:   <技能列表/@Tao1>
+
+
+[@War1]
+#SAY
+Level  7: 基本剑术
+Level 15: 攻杀剑术
+Level 22: 刺杀剑术
+Level 26: 半月弯刀
+Level 30: 野蛮冲撞
+Level 32: 双龙斩
+Level 32: 捕绳剑
+<更多/@War2> <返回/@helpbooks>
+
+[@War2]
+#SAY
+Level 35: 烈火剑法
+Level 36: 狮子吼
+Level 38: 圆月弯刀
+Level 38: 攻破斩
+Level 39: 护身气幕
+Level 44: 剑气爆
+Level 45: 血龙剑法
+Level 47: 反击
+Level 50: 日闪
+<返回/@helpbooks>
+
+[@Wiz1]
+#SAY
+Level  7: 火球术
+Level 12: 抗拒火环
+Level 13: 诱惑之光
+Level 15: 大火球
+Level 16: 地狱火
+Level 17: 雷电术
+<更多/@Wiz2> <返回/@helpbooks>
+
+[@Wiz2]
+#SAY
+Level 19: 瞬息移动
+Level 22: 爆裂火焰
+Level 24: 火墙
+Level 26: 疾光电影
+Level 28: 寒冰掌
+Level 30: 地狱雷光
+Level 31: 魔法盾
+Level 32: 圣言术
+<更多/@Wiz3> <返回/@helpBooks>
+
+[@Wiz3]
+#SAY
+Level 33: 嗜血术
+Level 35: 冰咆哮
+Level 38: 火龙术
+Level 41: 分身术
+Level 42: 火龙气焰
+Level 44: 天霜冰环
+Level 47: 深延术
+Level 49: 流星火雨
+Level 53: 冰焰术
+<返回/@helpBooks>
+
+[@Tao1]
+#SAY
+Level  7: 治愈术
+Level  9: 精神力战法
+Level 14: 施毒术
+Level 18: 灵魂火符
+Level 19: 召唤骷髅
+Level 20: 隐身术
+<更多/@Tao2> <返回/@helpbooks>
+
+[@Tao2]
+#SAY
+Level 21: 集体隐身术
+Level 22: 幽灵盾
+Level 23: 心灵启示
+Level 25: 神圣战甲术
+Level 27: 气功波
+Level 28: 困魔咒
+Level 30: 净化术
+<更多/@Tao3> <返回/@helpBooks>
+
+[@Tao3]
+#SAY
+Level 31: 群体治疗术
+Level 31: 迷魂术
+Level 33: 无极真气
+Level 35: 召唤神兽
+Level 37: 复活术
+Level 38: 召唤月灵
+Level 40: 诅咒术
+Level 43: 毒云
+Level 48: 阴阳盾
+<返回/@helpBooks>
+
+
+[@Assa1]
+#SAY
+Level  7: 绝命剑法
+Level 15: 双刀术
+Level 20: 体迅风
+Level 25: 拔刀术
+Level 27: 风身术
+Level 30: 迁移剑
+Level 33: 烈风击
+<More/@Assa2> <Back/@helpBooks>
+
+[@Assa2]
+#SAY
+Level 33: 捕缚术
+Level 34: 猛毒剑气
+Level 36: 月影术
+Level 38: 吸气
+Level 40: 轻身步
+Level 46: 烈火身
+Level 50: MoonBlade
+<Back/@helpBooks>
+
+
+[@Arc1]
+#SAY
+Level  7: Focus
+Level  9: StraightShot
+Level 11: MentalState
+Level 14: DoubleShot
+Level 19: Meditation
+Level 20: ElementalShot
+Level 22: ExplosiveTrap
+<More/@Arc2> <Back/@helpBooks>
+
+[@Arc2]
+#SAY
+Level 23: Concentration
+Level 26: VampireShot
+Level 28: SummonVampire
+Level 30: BackStep
+Level 31: DelayedExplosion
+Level 33: ElementalBarrier
+Level 35: BindingShot
+<More/@Arc3> <Back/@helpBooks>
+
+[@Arc3]
+#SAY
+Level 37: SummonToad
+Level 40: PoisonShot
+Level 43: CrippleShot
+Level 46: SummonSnakes
+Level 48: NapalmShot
+Level 50: OneWithNature
+<Back/@helpBooks>
+
+[@Information]
+#IF
+CHECKQUEST 152 1
+#ACT
+SET [533] 1
+#SAY
+嗯... 这种符号似乎是很久以前的文字了...
+Sir Mogu 似乎对这种语言颇有研究，你可以去客栈问问他.
+<Thank You/@exit>
+
+
+[Types]
+20
+
+[Trade]
+基本剑术
+攻杀剑术
+刺杀剑术
+半月弯刀
+野蛮冲撞
+双龙斩
+捕绳剑
+烈火剑法
+火球术
+抗拒火环
+诱惑之光
+大火球
+地狱火
+雷电术
+瞬息移动
+爆裂火焰
+火墙
+疾光电影
+寒冰掌
+地狱雷光
+魔法盾
+圣言术
+嗜血术
+冰咆哮
+治愈术
+精神力战法
+施毒术
+灵魂火符
+召唤骷髅
+隐身术
+集体隐身术
+幽灵盾
+心灵启示
+神圣战甲术
+气功波
+困魔咒
+净化术
+群体治疗术
+迷魂术
+无极真气
+召唤神兽
+绝命剑法
+双刀术
+体迅风
+拔刀术
+风身术
+迁移剑
+烈风击
+捕缚术
+猛毒剑气
+
+[Quests]
+50

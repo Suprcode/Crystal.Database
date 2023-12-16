@@ -1,0 +1,11 @@
+﻿;Gold
+1/10 Gold 100
+
+;Crafting Materials
+1/4 食人花叶 
+1/5 食人花果 
+
+;Quest
+1/2 食人花茎 Q
+1/2 食人花果实 Q
+

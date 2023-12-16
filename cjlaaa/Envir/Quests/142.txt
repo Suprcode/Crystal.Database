@@ -1,0 +1,26 @@
+﻿[@Description]
+盟重省悬赏任务
+
+[@TaskDescription]
+前往{石墓/Yellow}击杀{野猪/Crimson}并收集{野猪牙/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+野猪牙 15 
+
+[@FlagTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+380000
+
+[@GoldReward]
+250000

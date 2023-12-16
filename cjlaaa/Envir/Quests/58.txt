@@ -1,0 +1,27 @@
+﻿[@Description]
+嗯..这次攻势似乎是由{骷髅精灵/Crimson}发起的.
+我们现在为了布防,暂时分不出人手去对付它,
+你能帮我杀掉骷髅精灵吗?
+（骷髅精灵一般盘踞在兽人古墓中）
+
+[@TaskDescription]
+猎杀{骷髅精灵/Crimson}并把它的{头骨/LightSteelBlue}带回来
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+骷髅头骨 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+12500
+
+[@GoldReward]
+12500

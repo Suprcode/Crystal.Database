@@ -1,0 +1,23 @@
+[@Description]
+聆听{Abel/LimeGreen}的故事.
+
+[@TaskDescription]
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@FlagTasks]
+531 "Listen to Abel's Story"
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+
+[@GoldReward]

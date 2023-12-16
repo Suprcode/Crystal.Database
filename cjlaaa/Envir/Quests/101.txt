@@ -1,0 +1,26 @@
+﻿[@Description]
+咆哮...不断的咆哮...
+找到恶魔的藏身之处并杀掉它
+
+[@TaskDescription]
+猎杀{半兽勇士/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+半兽勇士 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+黑铁之靴
+
+[@SelectRewards]
+
+[@ExpReward]
+82000
+
+[@GoldReward]
+20500

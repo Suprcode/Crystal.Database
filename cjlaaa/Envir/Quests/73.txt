@@ -1,0 +1,26 @@
+﻿[@Description]
+谢谢你,勇敢的冒险者.
+听说我的朋友{Soho/LimeGreen}还活着我很高兴.
+此外,我还有点别的事麻烦你.
+
+[@TaskDescription]
+运送{怪物血/LightSteelBlue}给{毒蛇山谷/Yellow}的{Dr.Kim/LimeGreen}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+怪物血 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+9855
+
+[@GoldReward]
+14250

@@ -1,0 +1,26 @@
+﻿[@Description]
+你知道怎么去{封魔谷/Yellow}吗?
+我想送一本菜谱给封魔谷的{ButcherJim/LimeGreen}.
+
+[@TaskDescription]
+前往{沃玛森林/Yellow}的北方,
+将{菜谱/LightSteelBlue}带给{封魔谷/Yellow}的{Jim/LimeGreen}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+菜谱 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+13710
+
+[@GoldReward]
+17400

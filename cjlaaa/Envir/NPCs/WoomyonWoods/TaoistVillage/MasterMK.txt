@@ -1,0 +1,18 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+如此多的怪物...啊...我诅咒他们都去死!
+
+[Quests]
+85
+-85

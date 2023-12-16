@@ -1,0 +1,27 @@
+﻿[@Description]
+请帮帮我. 这附近都是蛇,对于初来乍到的我实在不是一个好消息! 
+现在我被这些蛇弄得寝不安眠,似乎它们就在我的床下!
+
+[@TaskDescription]
+猎杀5只{红蛇/Crimson} 和 {虎蛇/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+虎蛇 5
+红蛇 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+坚实盔甲
+
+[@ExpReward]
+5000
+
+[@GoldReward]
+1250

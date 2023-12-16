@@ -1,0 +1,25 @@
+﻿[@Description]
+这项链是我的{生命之石/LightSteelBlue}.
+这也是我返回这里的原因.请帮帮我好吗!
+
+[@TaskDescription]
+猎杀{巨型蠕虫/Crimson}然后找回{老旧的项链/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+老旧的项链 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+80000
+
+[@GoldReward]
+80000

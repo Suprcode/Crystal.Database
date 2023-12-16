@@ -1,0 +1,32 @@
+[@Description]
+南蛮,从上古时代繁盛至今的茂密雨林!
+无数身材庞大的上古巨兽盘踞于此!
+作为南蛮本土居民，我们一直想打通南方的通道,抵达南蛮城堡!
+你愿意帮助我们击杀一些{白象/Yellow}和{硬皮犀牛/Yellow}吗?
+我会给你丰厚的奖励作为报酬!
+
+[@TaskDescription]
+消灭 {白象/Crimson}, {硬皮犀牛/Crimson}各 15 只.
+
+[@Completion]
+
+[@KillTasks]
+白象 15
+硬皮犀牛 15
+
+
+[@ItemTasks]
+
+
+[@CarryItems]
+
+[@FixedRewards]
+EXP100%3
+
+[@SelectRewards]
+
+[@ExpReward]
+25000000
+
+[@GoldReward]
+600000

@@ -1,0 +1,30 @@
+﻿[@Description]
+{骨魔洞/Yellow}曾是勇士与恶魔的战斗之地.
+但是最近我们发现,
+这山洞中战死的勇士都被恶灵之力转化成了白骨,
+这对我们造成了很大的威胁.
+请前往并消灭这些白骨,让勇士们安息.
+
+[@TaskDescription]
+前往东方的{骨魔洞/Yellow},
+猎杀10只{骷髅弓箭手/Crimson}和10只{骷髅长枪兵/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+骷髅弓箭手 10
+骷髅长枪兵 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+395000
+
+[@GoldReward]
+195000

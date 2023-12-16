@@ -1,0 +1,28 @@
+﻿[@Description]
+年轻的冒险者,我的名字叫{Smith/LimeGreen}.
+现在村外的怪物太泛滥,我都不敢去{比奇城/Yellow}了.
+你能帮我消灭一些怪物吗?
+
+[@TaskDescription]
+消灭5只{鹿/Crimson}和5只{稻草人/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+鹿 5
+稻草人 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+镔铁手镯
+
+[@SelectRewards]
+
+[@ExpReward]
+600
+
+[@GoldReward]
+150

@@ -1,0 +1,234 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+ 
+<Buy/@Buy> Book
+<Sell/@Sell> Book
+ 
+Learn all <Warrior/@Warrior> , <Wizard/@Wizard> , <Taoist/@Taoist> , <Archer/@Archer> , <Assassin/@Assassin> spells.
+
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+[@Warrior]
+#Act
+GIVESKILL 基本剑术 3
+GIVESKILL 攻杀剑术 3
+GIVESKILL 刺杀剑术 3
+GIVESKILL 半月弯刀 3
+GIVESKILL 野蛮冲撞 3
+GIVESKILL 双龙斩 3
+GIVESKILL 捕绳剑 3
+GIVESKILL 烈火剑法 3
+GIVESKILL 狮子吼 3
+GIVESKILL 圆月弯刀 3
+GIVESKILL 攻破斩 3
+GIVESKILL 护身气幕 3
+GIVESKILL 剑气爆 3
+GIVESKILL 反击 3
+GIVESKILL 日闪 3
+GIVESKILL 血龙剑法 3
+[@Wizard]
+#ACT
+GIVESKILL 火球术 3
+GIVESKILL 抗拒火环 3
+GIVESKILL 诱惑之光 3
+GIVESKILL 大火球 3
+GIVESKILL 地狱火 3
+GIVESKILL 雷电术 3
+GIVESKILL 瞬息移动 3
+GIVESKILL 爆裂火焰 3
+GIVESKILL 火墙 3
+GIVESKILL 疾光电影 3
+GIVESKILL 寒冰掌 3
+GIVESKILL 地狱雷光 3
+GIVESKILL 魔法盾 3
+GIVESKILL 圣言术 3
+GIVESKILL 嗜血术 3
+GIVESKILL 冰咆哮 3
+GIVESKILL 火龙术 3
+GIVESKILL 分身术 3
+GIVESKILL 火龙气焰 3
+GIVESKILL 天霜冰环 3
+GIVESKILL 深延术 3
+GIVESKILL 流星火雨 3
+GIVESKILL 冰焰术 3
+[@Taoist]
+#ACT
+GIVESKILL 治愈术 3
+GIVESKILL 精神力战法 3
+GIVESKILL 施毒术 3
+GIVESKILL 灵魂火符 3
+GIVESKILL 召唤骷髅 3
+GIVESKILL 隐身术 3
+GIVESKILL 集体隐身术 3
+GIVESKILL 幽灵盾 3
+GIVESKILL 心灵启示 3
+GIVESKILL 神圣战甲术 3
+GIVESKILL 气功波 3
+GIVESKILL 困魔咒 3
+GIVESKILL 净化术 3
+GIVESKILL 群体治疗术 3
+GIVESKILL 迷魂术 3
+GIVESKILL 无极真气 3
+GIVESKILL 召唤神兽 3
+GIVESKILL 复活术 3
+GIVESKILL 召唤月灵 3
+GIVESKILL 诅咒术 3
+GIVESKILL 瘟疫 3
+GIVESKILL 毒云 3
+GIVESKILL 阴阳盾 3
+[@Assassin]
+#ACT
+GIVESKILL 绝命剑法 3
+GIVESKILL 双刀术 3
+GIVESKILL 体迅风 3
+GIVESKILL 拔刀术 3
+GIVESKILL 风身术 3
+GIVESKILL 迁移剑 3
+GIVESKILL 烈风击 3
+GIVESKILL 捕缚术 3
+GIVESKILL 猛毒剑气 3
+GIVESKILL 月影术 3
+GIVESKILL 吸气 3
+GIVESKILL 轻身步 3
+GIVESKILL 烈火身 3
+GIVESKILL 血风击 3
+GIVESKILL CrescentSlash 3
+[@Archer]
+#ACT
+GIVESKILL Focus 
+GIVESKILL StraightShot 3
+GIVESKILL DoubleShot 3
+GIVESKILL ExplosiveTrap 3
+GIVESKILL DelayedExplosion 3
+GIVESKILL Meditation 3
+GIVESKILL BackStep 3
+GIVESKILL ElementalShot 3
+GIVESKILL Concentration 3
+GIVESKILL ElementalBarrier 3
+GIVESKILL SummonVampire 3
+GIVESKILL VampireShot 3
+GIVESKILL SummonToad 3
+GIVESKILL PoisonShot 3
+GIVESKILL CrippleShot 3
+GIVESKILL SummonSnakes 3
+GIVESKILL NapalmShot 3
+GIVESKILL OneWithNature 3
+
+[Types]
+20
+
+[Trade]
+基本剑术
+攻杀剑术
+刺杀剑术
+半月弯刀
+野蛮冲撞
+双龙斩
+捕绳剑
+烈火剑法
+狮子吼
+圆月弯刀
+攻破斩
+护身气幕
+剑气爆
+反击
+日闪
+血龙剑法
+NewWarrior2
+火球术
+抗拒火环
+诱惑之光
+大火球
+地狱火
+雷电术
+瞬息移动
+爆裂火焰
+火墙
+疾光电影
+寒冰掌
+地狱雷光
+魔法盾
+圣言术
+嗜血术
+冰咆哮
+火龙术
+分身术
+火龙气焰
+天霜冰环
+深延术
+流星火雨
+冰焰术
+NewWizard1
+NewWizard2
+治愈术
+精神力战法
+施毒术
+灵魂火符
+召唤骷髅
+隐身术
+集体隐身术
+幽灵盾
+心灵启示
+神圣战甲术
+气功波
+困魔咒
+净化术
+群体治疗术
+迷魂术
+无极真气
+召唤神兽
+复活术
+召唤月灵
+诅咒术
+瘟疫
+毒云
+阴阳盾
+NewTaoist1
+NewTaoist2
+绝命剑法
+双刀术
+体迅风
+拔刀术
+风身术
+迁移剑
+烈风击
+捕缚术
+猛毒剑气
+月影术
+吸气
+轻身步
+烈火身
+血风击
+猫舌兰
+NewAssassin1
+NewAssassin2
+Focus
+StraightShot
+DoubleShot
+ExplosiveTrap
+DelayedExplosion
+Meditation
+BackStep
+ElementalShot
+Concentration
+ElementalBarrier
+SummonVampire
+VampireShot
+SummonToad
+PoisonShot
+CrippleShot
+SummonSnakes
+NapalmShot
+OneWithNature

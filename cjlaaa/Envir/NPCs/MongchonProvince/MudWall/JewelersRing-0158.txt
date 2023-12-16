@@ -1,0 +1,52 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好旅行者，你需要点什么?
+ 
+<浏览/@BuySell> 商店.
+<修理/@Repair> 戒指.
+ 
+<关闭/@Exit>
+
+[@BuySell]
+#SAY
+你想买卖哪种戒指?
+<买回/@BuyBack>. 
+ 
+<返回/@Main>
+
+[@BuyBack]
+#SAY
+如果你不离线，那么你卖出的东西就可以买回去.
+ 
+<返回/@Main>
+
+[@Repair]
+#SAY
+你想修理你的戒指吗?
+ 
+ 
+ 
+<返回/@Main>
+
+[Types]
+7
+
+[Trade]
+古铜戒指
+六角戒指
+玻璃戒指
+牛角戒指
+生铁戒指
+白玉戒指
+蓝色水晶戒指

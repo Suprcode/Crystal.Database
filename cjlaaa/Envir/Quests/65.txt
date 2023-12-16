@@ -1,0 +1,25 @@
+﻿[@Description]
+你好旅行者,一只{僵尸/Crimson}在几天前杀了我的宠物.
+请你帮我复仇,杀光他们!
+
+[@TaskDescription]
+前往{废矿/Yellow}消灭10只{萨满僵尸/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+萨满僵尸 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+15000
+
+[@GoldReward]
+15000

@@ -1,0 +1,26 @@
+﻿[@Description]
+我真是蠢,我的令牌不知道被我丢到哪里去了.
+我只记得好像是在我前往{沙巴克/Yellow}的路上弄丢的,
+当时我被{僵尸/Crimson}包围了.
+
+[@TaskDescription]
+寻找{沙巴克/Yellow}的密道,然后找到{比奇令牌/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+比奇令牌(3) 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+90000
+
+[@GoldReward]
+90000

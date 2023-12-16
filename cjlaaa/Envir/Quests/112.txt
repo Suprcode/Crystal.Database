@@ -1,0 +1,26 @@
+﻿[@Description]
+看来传言是真的.
+请回到{隐藏入口/Yellow}猎杀一些{爬行僵尸/Crimson}.
+
+[@TaskDescription]
+猎杀5只{爬行僵尸/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+爬行僵尸 5 
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+降魔环
+
+[@SelectRewards]
+
+[@ExpReward]
+110000
+
+[@GoldReward]
+27500

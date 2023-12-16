@@ -1,0 +1,25 @@
+﻿[@Description]
+现在你终于看起来像个训练有素的弓箭手了.
+我已经让{MirGuide Peter/LimeGreen}给你安排了一些活儿.
+去吧,好好干,他不会亏待你的.
+
+[@TaskDescription]
+与坐标335:275附近的{MirGuide Peter/LimeGreen}交谈.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+240
+
+[@GoldReward]
+300

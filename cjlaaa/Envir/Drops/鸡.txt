@@ -1,0 +1,6 @@
+;Meat
+1/5 鸡肉 
+1/15 鸡肉 
+
+;CraftingMaterial
+1/20 Feather

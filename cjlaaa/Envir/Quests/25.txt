@@ -1,0 +1,32 @@
+[@Description]
+你好冒险家. 感谢来访.
+为了确保{沃玛森林/Yellow}的安全,
+我不得不向你们寻求帮助.
+从{比奇城/Yellow}来的路上,
+你可能已经见识到{食人花/Crimson}的厉害了. 
+我们需要消灭它们以确保来往商队的安全.
+
+[@TaskDescription]
+从{食人花/Crimson}的尸体上收集1个{食人花茎/LightSteelBlue}和1个{食人花叶/LightSteelBlue},
+并交给{沃玛森林/Yellow}的{Merchant Jang/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+食人花茎 1
+食人花叶 1
+
+[@CarryItems]
+
+[@FixedRewards]
+纯钢手镯
+
+[@SelectRewards]
+
+[@ExpReward]
+2250
+
+[@GoldReward]
+565

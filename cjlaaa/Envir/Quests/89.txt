@@ -1,0 +1,28 @@
+﻿[@Description]
+我听说西面的{道馆矿区/Yellow}中有很多僵尸出没,
+去帮我杀掉他们.
+
+[@TaskDescription]
+消灭{被诅咒的萨满/Crimson},{被诅咒的僵尸/Crimson},
+{被诅咒的神父/Crimson}各5只.
+
+[@Completion]
+
+[@KillTasks]
+被诅咒的萨满 5
+被诅咒的僵尸 5
+被诅咒的神父 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+33000
+
+[@GoldReward]
+33000

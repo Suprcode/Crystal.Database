@@ -1,0 +1,31 @@
+﻿[@Description]
+苍月岛孤悬海外，时时刻刻都在与岛屿上的怪物殊死搏斗.
+尤其是远方的牛魔寺庙，更是有着难以想象的庞大势力!
+你愿意帮助我们击杀一些{风之牛魔/Yellow}和{火焰牛魔/Yellow}吗?
+我会给你丰厚的奖励作为报酬!
+
+[@TaskDescription]
+消灭 {风之牛魔/Crimson}, {火焰牛魔/Crimson}各 10 只.
+
+[@Completion]
+
+[@KillTasks]
+风之牛魔 10
+火焰牛魔 10
+
+
+[@ItemTasks]
+
+
+[@CarryItems]
+
+[@FixedRewards]
+
+
+[@SelectRewards]
+
+[@ExpReward]
+2400000
+
+[@GoldReward]
+250000

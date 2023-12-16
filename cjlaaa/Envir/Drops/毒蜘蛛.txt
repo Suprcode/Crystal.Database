@@ -1,0 +1,10 @@
+;Gold
+1/10 Gold 100
+
+;Crafting Materials
+1/3 蜘蛛牙 
+1/10 蜘蛛网 
+
+;Quest
+1/2 毒药袋 Q
+1/1 网 Q

@@ -1,0 +1,74 @@
+﻿;;TownScroll
+[@_UseItem(3)]
+#SAY
+你想去哪里? 
+ 
+传送到: <边界村/@BVV&T1>
+传送到: <比奇城/@BWV&T1>
+传送到: <毒蛇山谷/@SVV&T1>
+传送到: <盟重土城/@MWV&T1>
+传送到: <沙巴克/@SCV&T1>
+<我想浏览其他选项/@MoreV&T1> 
+
+[@MoreV&T1]
+#SAY
+传送到: <沃玛村/@FV&T1>
+传送到: <封魔谷/@CRCV&T1>
+传送到: <道馆/@TVV&T1>
+传送到: <苍月岛/@PTV&T1> 
+传送到: <远古比奇/@PBV&T1> Required Level30
+<返回/@_UseItem(3)>
+
+[@BVV&T1]
+#ACT
+MOVE 0 289 617
+
+[@BWV&T1]
+#ACT
+MOVE 0 333 267
+
+[@SVV&T1]
+#ACT
+MOVE 2 502 485
+
+[@MWV&T1]
+#ACT
+MOVE 3 334 332
+
+[@SCV&T1]
+#ACT
+MOVE 3 638 284
+
+[@FV&T1]
+#ACT
+MOVE 1 318 84
+
+[@SeoVV&T1]
+#ACT
+MOVE UMM 132 173
+
+[@CRCV&T1]
+#ACT
+MOVE 4 227 207
+
+[@TVV&T1]
+#ACT
+MOVE 11 187 304
+
+[@PTV&T1]
+#ACT
+MOVE 5 142 334
+
+[@PBV&T1]
+#IF
+CHECKLEVEL > 30
+#ACT
+MOVE 6 124 157
+#ELSESAY
+抱歉，你的等级不够.
+ 
+<返回/@_UseItem(3)>
+
+[@WLV&T1]
+#ACT
+MOVE HELL00 48 223

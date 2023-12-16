@@ -1,0 +1,24 @@
+﻿[@Description]
+请向{Robin/LimeGreen}复命,
+他是{盟重土城/Yellow}的仓库守卫
+
+[@TaskDescription]
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+旧法袍 1
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+3794
+
+[@GoldReward]
+4200

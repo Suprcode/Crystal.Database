@@ -1,0 +1,87 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好，我是一名传送员,我的工作是
+运用魔力将人们安全的送到他们想去的
+各大主城.整段旅途瞬间可达，只需要一点小钱
+那么你现在是想?
+ 
+我想使用 <服务/@tele>
+我想 <下次再来/@exit> 
+
+[@tele]
+#SAY
+你想去哪里?
+ 
+前往: <边界村/@move1> {(1000 Gold)/GOLD}
+前往: <比奇城/@move2> {(500 Gold)/GOLD}
+前往: <盟重土城/@move3> {(1000 Gold)/GOLD}
+前往: <道馆/@move4> {(3000 Gold)/GOLD}
+前往: <封魔谷/@move5> {(2000 Gold)/GOLD}
+前往: <下次再来/@exit>
+
+[@move1]
+#IF
+CHECKGOLD > 1000
+#ACT
+MOVE 0 289 617
+TAKEGOLD 1000
+#ELSEACT
+GOTO @B1
+
+[@move2]
+#IF
+CHECKGOLD > 500
+#ACT
+MOVE 0 296 221
+TAKEGOLD 500
+#ELSEACT
+GOTO @B1
+
+[@move3]
+#IF
+CHECKGOLD > 1000
+#ACT
+MOVE 3 361 342
+TAKEGOLD 1000
+#ELSEACT
+GOTO @B1
+
+[@move4]
+#IF
+CHECKGOLD > 3000
+#ACT
+MOVE 11 164 337
+TAKEGOLD 3000
+#ELSEACT
+GOTO @B1
+
+[@move5]
+#IF
+CHECKGOLD > 2000
+#ACT
+MOVE 4 264 257
+TAKEGOLD 2000
+#ELSEACT
+GOTO @B1
+
+[@B1]
+#SAY
+你没有足够的 {Gold/Gold} 来使用此项服务!
+不要浪费我的时间，快走吧!
+ 
+<关闭/@exit>
+
+[Quests]
+75
+-75

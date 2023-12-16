@@ -1,0 +1,26 @@
+[@Description]
+现在要获得{恶魔之心/LightSteelBlue},你需要杀死{GreyEvilApes/Crimson}.
+当你穿过一扇隐藏的门时,你可以找到它们.
+你可以在5楼找到这扇门,朝向{KingsRoom(RedMoonEvil)/Yellow},在182:179走在拐角处,你将穿过隐藏的门.
+
+[@TaskDescription]
+Kill {GreyEvilApes/Crimson} for the {EvilHeart/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+EvilHeart 1
+
+[@FlagTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+
+[@GoldReward]

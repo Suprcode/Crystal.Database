@@ -1,0 +1,45 @@
+﻿[@MAIN]
+#IF
+CHECKQUEST 154 COMPLETE
+#ACT
+GOTO @MAIN-1
+#ELSEACT
+GOTO @MayNotEnter
+
+[@MayNotEnter]
+#SAY
+站住，你不能过去.
+我是皇帝最忠实的副官，保卫陛下的安全.
+"我能 <花钱/@Bribe> 通过吗？"
+"我需要 <觐见/@see> 皇帝!"
+<关闭/@exit>
+
+[@see]
+#SAY
+对不起旅行者，我无法信任你!
+如果你完成了我的试炼，我才能允许你去见皇帝
+ 
+<关闭/@exit>
+
+[@Bribe]
+#SAY
+旅行者.. 你这是在向我发起挑战?
+你知道这意味着什么吗? 
+<是/@yes> 我知道. 
+<不/@no> 我还不太清楚.
+<关闭/@exit>
+
+[@no]
+#SAY
+那你就不要浪费我的时间，快走吧.
+ 
+<关闭/@exit>
+
+[@yes]
+#ACT
+GIVEBUFF PRISON 3600
+MOVE 0127 7 11
+LOCALMESSAGE "[Commander Luke] Take some time to think." Hint
+
+[Quests]
+154

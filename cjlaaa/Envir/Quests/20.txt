@@ -1,0 +1,30 @@
+﻿[@Description]
+一名被推荐的人?当然这只是第一步.
+我们要的是能对这场战争有帮助的人.
+不是随便来个阿猫阿狗都能加入战斗的.
+请先证明你自己吧.
+
+[@TaskDescription]
+消灭5个{Oma/Crimson}和5个{RakingCat/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+Oma 5
+RakingCat 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+旧布鞋
+Focus
+
+[@SelectRewards]
+
+[@ExpReward]
+900
+
+[@GoldReward]
+225

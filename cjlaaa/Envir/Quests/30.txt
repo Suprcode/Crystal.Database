@@ -1,0 +1,27 @@
+﻿[@Description]
+你好冒险家,我在从{盟重省/Yellow}回{毒蛇山谷/Yellow}的路上
+遭到了{恶狼/Crimson}的袭击,慌乱之中我的背包丢了, 
+我最珍贵的{翡翠戒指/LightSteelBlue}还在包里.
+你能帮我找回来吗?
+
+[@TaskDescription]
+在{恶狼/Crimson}身上找到{翡翠戒指/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+翡翠戒指 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+4000
+
+[@GoldReward]
+4000

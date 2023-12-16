@@ -1,0 +1,32 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好旅行者, 我的名字叫 Wayne ，是一名铁匠.. 
+这些年来，我一直为大陆上冒险的勇士提供武器的
+特殊修理服务.
+ 
+<特殊修理/@SRepair> 武器.
+ 
+<关闭/@exit>
+
+[@SRepair]
+#SAY
+旅行者，你很幸运，我们现在有足够的物资进行武器的特殊修理.
+ 
+ 
+<关闭/@exit>
+
+[Types]
+1
+
+[Quests]

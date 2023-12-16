@@ -1,0 +1,24 @@
+﻿[@Description]
+
+[@TaskDescription]
+猎杀15只{左护法/Crimson}和{右护法/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+左护法 15
+右护法 15
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1550000
+
+[@GoldReward]
+1550000

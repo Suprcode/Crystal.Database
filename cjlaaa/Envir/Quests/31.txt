@@ -1,0 +1,26 @@
+﻿[@Description]
+这戒指看起来还不错.
+请你帮我把这个戒指带给我的女儿{Melissa/LimeGreen}.
+她需要一些帮助.
+
+[@TaskDescription]
+把{翡翠戒指/LightSteelBlue}带给{Melissa/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+翡翠戒指 1
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1100
+
+[@GoldReward]
+1500

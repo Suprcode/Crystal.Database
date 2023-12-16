@@ -1,0 +1,26 @@
+﻿[@Description]
+你好,旅行者,我有个小小的请求.
+我在{天然洞穴/Yellow}冒险时把妹妹的戒指遗失了,
+请帮我找回来好吗!（需要在洞蛆身上挖取）
+
+[@TaskDescription]
+在{天然洞穴/Yellow}找到{水晶戒指/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+水晶戒指 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+7000
+
+[@GoldReward]
+7000

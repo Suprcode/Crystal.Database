@@ -1,0 +1,28 @@
+﻿[@Description]
+我想派你去杀些虫子,它们盘踞在{昆虫洞/Yellow}.
+这些虫子每天制造出来的噪音让我寝食难安,
+请帮帮我!
+
+[@TaskDescription]
+猎杀5{虎虫/Crimson}和{紫虎虫/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+虎虫 5
+紫虎虫 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+青铜束带
+
+[@SelectRewards]
+
+[@ExpReward]
+15000
+
+[@GoldReward]
+3750

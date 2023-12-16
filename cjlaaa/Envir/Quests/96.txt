@@ -1,0 +1,26 @@
+﻿[@Description]
+{Butcher/LimeGreen}在{沃玛村/Yellow}开了一家新店,
+他似乎需要一些帮助.
+
+[@TaskDescription]
+猎杀{沃玛军士/Crimson}收集5个{牛肋排/LightSteelBlue}
+然后回到{沃玛村/Yellow},将牛肋排带给{Butcher/LimeGreen}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+牛肋排 5
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+41000
+
+[@GoldReward]
+41000

@@ -1,0 +1,26 @@
+﻿[@Description]
+旅行者,请帮帮我.
+我在{丛林迷宫/Yellow}砍树时把{斧子/LightSteelBlue}弄丢了,
+我觉得是被一只蜘蛛偷走了,你能帮我干掉它们吗?
+
+[@TaskDescription]
+找到并击杀{血之花吻蛛/Crimson},它就盘踞在50,270附近.
+
+[@Completion]
+
+[@KillTasks]
+血之花吻蛛 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+35000
+
+[@GoldReward]
+35000

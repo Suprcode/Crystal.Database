@@ -1,0 +1,79 @@
+﻿ 
+;;SET: [539]
+
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+哦，你已经决定领养一个宠物了是吗?
+ 
+<让我看看/@Buy> 有哪些宠物.
+ 
+<关闭/@Exit>
+
+[@Buy]
+#SAY
+挑选你喜欢的宠物蛋.
+ 
+ 
+<返回/@Main>
+
+
+[Types]
+36
+
+
+[Trade]
+BabyPigEgg
+KittenEgg
+
+[@talk]
+#IF
+CHECK [539] 1
+#ACT
+GOTO @MAIN1-1
+#ELSEACT
+GOTO @CHECK2
+
+[@CHECK2]
+#IF
+CHECK [541] 1
+#ACT
+GOTO @MAIN1-2
+#ELSEACT
+GOTO @MAIN1-3
+
+[@MAIN1-1]
+#ACT
+SET [539] 0
+#SAY
+噢！旅行者.. 我听说过你的大名.
+但我不会与任何人谈论皇帝的事!
+ 
+<关闭/exit>
+
+[@MAIN1-2]
+#ACT
+SET [541] 0
+#SAY
+噢！旅行者.. 我听说过你的大名.
+但我不会与任何人谈论皇帝的事!
+ 
+<关闭/exit>
+
+[@MAIN1-3]
+#SAY
+你听说过皇帝的斑斑劣迹吗? 
+他又懒又蠢. 我们越早把他推翻越好. 
+是时候为这片大陆带来真正的自由与和平了.
+ 
+<关闭/@exit>

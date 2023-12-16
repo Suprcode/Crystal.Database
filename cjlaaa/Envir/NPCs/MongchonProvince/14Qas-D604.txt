@@ -1,0 +1,12 @@
+﻿[@MAIN]
+#IF
+CHECKQUEST 105 0
+#SAY
+这是一具残骸.
+#ELSESAY
+这是失落之魂的残骸.
+#ELSEACT
+SET [524] 1
+LOCALMESSAGE "向失落之魂回复" Hint
+BREAK
+CLOSE

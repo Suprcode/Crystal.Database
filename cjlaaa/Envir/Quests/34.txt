@@ -1,0 +1,27 @@
+﻿[@Description]
+你最近有回{比奇城/Yellow}的计划吗? 
+如果你有这个打算,能帮忙把{秘方/LightSteelBlue}带给{工艺夫人/LimeGreen}吗? 
+我听说{工艺夫人/LimeGreen}就在{比奇城/Yellow} 
+她很想要{秘方/LightSteelBlue},但我暂时走不开.
+
+[@TaskDescription]
+请将物品带给{比奇城/Yellow}的 {工艺夫人/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+秘方 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+2690
+
+[@GoldReward]
+4000

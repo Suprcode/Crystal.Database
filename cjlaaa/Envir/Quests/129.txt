@@ -1,0 +1,24 @@
+﻿[@Description]
+请前往{赤月峡谷/Yellow}帮我收集一些材料.
+
+[@TaskDescription]
+猎杀{月魔蜘蛛/Crimson}并收集10个{蝙蝠毒/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+蝙蝠毒 10
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+550000
+
+[@GoldReward]
+330000

@@ -1,0 +1,28 @@
+[@Main]
+#Say
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+ 
+<Buy/@Buy> 肉
+<Sell/@Sell> 肉
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+
+[Types]
+15
+
+[Trade]
+鸡肉
+肉
+Jerk
+野鹿肉

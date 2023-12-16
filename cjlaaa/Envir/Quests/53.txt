@@ -1,0 +1,25 @@
+﻿[@Description]
+这是你需要的茶,快些喝吧,别凉了.
+
+[@TaskDescription]
+将{食人花茶/LightSteelBlue}带给{MirGuide/LimeGreen}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+食人花茶 2
+
+[@FixedRewards]
+钢扣带
+
+[@SelectRewards]
+
+[@ExpReward]
+2195
+
+[@GoldReward]
+725

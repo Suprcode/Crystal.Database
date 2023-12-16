@@ -1,0 +1,67 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+I see you're wearing: {<$BELT>/CORAL}
+ 
+<Buy/@Buy> Belt
+<Sell/@Sell> Belt
+<Repair/@Repair> Belt
+<Special Repair/@SRepair> Belt
+
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+[@Repair]
+#SAY
+Repair.
+ 
+<Back/@Main>
+
+[@SRepair]
+#SAY
+Special repair.
+ 
+<Back/@Main>
+
+
+[Types]
+9
+
+[Trade]
+天龙反向带
+雷霆腰带
+雷霆腰带(H)
+RedJadeBelt
+RedJadeBelt(H)
+软玉矿Belt
+软玉矿Belt(H)
+强身腰带1
+强身腰带2
+强身腰带3
+强身腰带4
+强身腰带5
+血龙腰带
+贝玉腰带
+黑术腰
+青宝腰带(勇猛)
+青宝腰带(魔性)
+青宝腰带(仙界)
+青宝腰带(机敏)
+CheongboBelt(ARCH)
+兽皮腰带
+铁腰带
+青铜腰带
+钢铁腰带
+黄金腰带
+金刚腰带
+FlamingGrasp

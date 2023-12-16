@@ -1,0 +1,16 @@
+﻿[@Main]
+#IF
+LEVEL > 15 
+LEVEL < 30
+#SAY
+前方是一个神秘的远古之地，你做好准备前往了吗？
+<前往/@go>
+
+<离开/@exit>
+
+#ELSESAY
+这块石头散发出一股神秘的气息.
+
+[@go]
+#ACT
+MOVE D001A

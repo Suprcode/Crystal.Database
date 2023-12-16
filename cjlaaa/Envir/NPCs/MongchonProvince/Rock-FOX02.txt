@@ -1,0 +1,43 @@
+﻿[@MAIN]
+#IF
+GROUPLEADER
+#ACT
+GROUPGOTO @grouphere
+break
+#ELSESAY
+(*你听到了风中呜咽的低语:*)
+"只有小队的队长才可以通过这里."
+
+[@grouphere]
+#IF
+GROUPCOUNT > 1
+CHECKMAP FOX02
+CHECKRANGE 223 304 5
+#ACT
+goto @checkorb
+break
+#ELSESAY
+(*你听到了风中呜咽的低语:*)
+"你的队伍太弱了，至少要有两名队员才可以继续前进."
+
+[@checkorb]
+#IF
+CHECKITEM 狐月神珠 1
+#SAY
+(*你听到了风中呜咽的低语:*)
+很好，冒险者，去前往面对那未知的恐惧吧！
+<前往/@pass>                          <离开/@exit>
+#ELSESAY
+(*你听到了风中呜咽的低语:*)
+"只有拥有狐月神珠的人才可以前往."
+
+[@pass]
+#IF
+CHECKITEM 狐月神珠 1
+#ACT
+TAKEITEM 狐月神珠 1
+GROUPTELEPORT FOX03 47 21
+break
+#ELSESAY
+(*你听到了风中呜咽的低语:*)
+"只有拥有狐月神珠的人才可以前往."

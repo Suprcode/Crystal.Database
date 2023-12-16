@@ -1,0 +1,26 @@
+﻿[@Description]
+你好旅行者,我在寻找另外的{比奇令牌1/LightSteelBlue}
+和{比奇令牌2/LightSteelBlue}.
+
+[@TaskDescription]
+请回到{隐藏入口/Yellow}寻找{比奇令牌1/LightSteelBlue}和{比奇令牌2/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+比奇令牌(1) 1
+比奇令牌(2) 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+100000
+
+[@GoldReward]
+100000

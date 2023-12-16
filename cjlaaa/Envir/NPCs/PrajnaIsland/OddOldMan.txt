@@ -1,0 +1,33 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+如果你想前往远古比奇，那么你首先需要修炼道40级以上。
+如果等级不够，那么可以在我这购买时间之石，时间之石可以
+允许你在32级以上就前往远古比奇冒险。如果你觉得时间之石
+太贵，在苍月岛的骨魔洞打怪的过程中怪物也会有很小的几率掉落.
+<购买/@buystone> 时间之石
+<关闭/@exit>
+
+
+[@buystone]
+#say
+售价20000 金币，你要买一块吗?
+<是的/@buystonenow>\
+<不，太贵了/@exit>
+
+[@buystonenow]
+#IF
+CHECKGOLD > 20000
+#ACT
+TAKEGOLD 20000
+GIVEITEM 时间之石 1

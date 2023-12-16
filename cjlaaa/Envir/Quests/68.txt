@@ -1,0 +1,26 @@
+﻿[@Description]
+你好旅行者,我还有一个小请求,
+我把我最喜欢的项链丢在{昆虫洞/Yellow}了.
+你能帮我找找吗?
+
+[@TaskDescription]
+杀掉{血蛙/Crimson}并收集{蓝翡翠吊坠/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+蓝翡翠吊坠 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+30000
+
+[@GoldReward]
+19000

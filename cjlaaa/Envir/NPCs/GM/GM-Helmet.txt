@@ -1,0 +1,70 @@
+[@Main]
+#SAY
+Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
+I see you're wearing: {<$HELMET>/CORAL}
+ 
+<Buy/@Buy> Helmet
+<Sell/@Sell> Helmet
+<Repair/@Repair> Helmet
+<Special Repair/@SRepair> Helmet
+
+[@Buy]
+#SAY
+Buy.
+ 
+<Back/@Main>
+
+[@Sell]
+#SAY
+Sell.
+ 
+<Back/@Main>
+
+[@Repair]
+#SAY
+Repair.
+ 
+<Back/@Main>
+
+[@SRepair]
+#SAY
+Special repair.
+ 
+<Back/@Main>
+
+
+[Types]
+4
+
+[Trade]
+祈祷头盔
+记忆头盔
+天龙除魂帽
+龙骨盔
+神秘头盔
+血龙头盔
+监视者头盔
+贝玉头盔
+黑术冠
+青宝冠(勇猛)
+青宝冠(魔性)
+青宝冠(仙界)
+青宝冠(机敏)
+CheongboHelmet(ARCH)
+青铜头盔
+魔法头盔
+黄铜头盔
+黄金头盔
+骷髅头盔
+道士头盔
+钢铁头盔
+勇士头盔
+黑铁头盔
+英雄头盔
+贤者帽
+通天冠
+修罗头盔
+HelmetOfKings
+HelmetOfSorcery
+PurifiedMask
+DemonShadow

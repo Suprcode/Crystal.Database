@@ -1,0 +1,28 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好 <$USERNAME>,
+我是收集材料的材料商，在你的冒险旅途中
+肯定会获得许多奇奇怪怪的材料。把它们拿给我
+我会给你个好价钱的！
+ 
+<出售/@Sell> 材料.
+ 
+<关闭/@exit>
+
+[@Sell]
+#SAY
+把你的材料给我看看..
+
+[Types]
+16

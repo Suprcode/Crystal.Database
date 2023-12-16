@@ -1,0 +1,69 @@
+﻿[@Main]
+欢迎，我能为你做些什么?
+ 
+<View/@BuySell> Store.
+<Repair/@repair> Items.
+<Close/@exit>
+
+[@BuySell]
+你要买卖什么东西?
+<Buy Back/@BuyBack>
+ 
+<Back/@main>
+
+[@BuyBack]
+#SAY
+如果你不离线，那么你卖出的东西就可以买回去.
+ 
+<Back/@Main>
+
+[@Repair]
+把你希望修理的东西拿给我.
+ 
+<Back/@main>
+
+[Types]
+1
+2
+4
+9
+10
+
+[Trade]
+金疮药(小量) 1
+金疮药(小量) 5
+金疮药(小量) 10
+魔法药(小量) 1
+魔法药(小量) 5
+魔法药(小量) 10
+金疮药(中量) 1
+金疮药(中量) 5
+金疮药(中量) 10
+魔法药(中量) 1
+魔法药(中量) 5
+魔法药(中量) 10
+木剑
+WoodenBow
+匕首
+乌木剑
+EbonyBow
+青铜剑
+ShortBow
+短剑
+暴虎刀
+BoneBow
+铁剑
+青铜斧
+海魂
+八荒
+半月
+音速刀
+CompoundBow
+凌风
+蜡烛
+地牢逃脱卷
+随机传送卷
+布衣(男)
+布衣(女)
+轻型盔甲(男)
+轻型盔甲(女)

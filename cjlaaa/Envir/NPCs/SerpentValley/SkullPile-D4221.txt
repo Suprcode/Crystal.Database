@@ -1,0 +1,30 @@
+﻿[@Main]
+#SAY
+(嗯?! 在这堆枯骨上似乎有个信封?)
+ 
+<读信/@Read>
+ 
+<关闭/@exit>
+
+
+[@Read]
+#SAY
+"前方，是隐藏在矿区深处的迷宫,"
+"迷宫中游极其强大的恶魔."
+ 
+(恶魔?)
+(<我想去挑战它./@Enter>)
+
+
+[@Enter]
+#IF
+CHECKITEM 凭证 1
+#ACT
+TAKEITEM 凭证 1
+MOVE LABY01 
+
+#ELSESAY
+你需要 {凭证/LightSteelBlue} 才能进入!
+ 
+<关闭/@Exit>
+

@@ -1,0 +1,25 @@
+﻿[@Description]
+在{石墓/Yellow}深处,
+据说盘踞着一种叫{白野猪/Crimson}的怪物.
+
+[@TaskDescription]
+杀掉{白野猪/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+白野猪 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+130000
+
+[@GoldReward]
+130000

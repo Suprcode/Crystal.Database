@@ -1,0 +1,57 @@
+﻿[@Main]
+你怎么会轻易踏足这个险恶之地?
+我觉得你还是离开这里比较好...
+
+<打听消息/@talkwith_1>
+<离开/@Exit>
+
+
+[@talkwith_1]
+#IF
+DAYOFWEEK SUNDAY
+HOUR 20
+MIN 20
+#ACT
+goto talkwith_2
+
+#IF
+DAYOFWEEK SATURADAY
+HOUR 20
+MIN 20
+#ACT
+goto talkwith_2
+#ELSEACT
+goto untalkwith
+   
+[@talkwith_2]
+好吧，看在你陪我聊天的份上，我告诉你一个秘密.
+我知道一个无人知晓的秘密山洞
+这山洞据说非常诡异，我也没去过.
+不过如果你想去的话，我可以指引你.
+
+<去试试/@talkwith_3>
+<关闭/@Exit>
+
+[@talkwith_3]
+#SAY
+好吧！我会送你进去。但是里面只能呆3小时，你自己小心！
+
+<前往/@talkwith_4>
+   
+[@talkwith_4]
+#ACT
+MOVE M001
+
+
+[@untalkwith]
+#SAY
+我现在没有什么可以告诉你的，白天这里耳目众多.
+如果你想了解更多信息，那就周末的晚上来吧！
+
+<返回/@Main>
+
+#ELSESAY
+我没有什么可以告诉你的，快离开这里！
+
+<返回/@Main>
+

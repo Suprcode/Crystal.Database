@@ -1,0 +1,37 @@
+﻿[@main]
+#SAY
+
+<使用./@main-1> 城镇传送
+
+[@main-1]
+#SAY
+<武器店/@weap>   <服装店/@cloth>
+<书店/@pot>   <首饰店/@jewel>
+<村长室/@chief>  
+
+[@jewel]
+#ACT
+MOVE B352
+
+
+[@cloth]
+#ACT
+MOVE B353
+
+[@weap]
+#ACT
+MOVE B351
+
+[@pot]
+#ACT
+MOVE 5 160 316
+
+
+[@chief]
+#ACT
+MOVE B354
+
+[Quests]
+157
+-157
+

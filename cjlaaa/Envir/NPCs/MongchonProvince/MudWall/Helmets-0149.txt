@@ -1,0 +1,50 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好旅行者，我能为你做些什么? 
+
+<购买/@BuySell> 头盔.
+<修补/@Repair> 头盔.
+ 
+<关闭/@Exit>
+
+[@BuySell]
+你要买卖哪种头盔?
+<买回/@BuyBack>
+ 
+<返回/@main>
+
+[@BuyBack]
+如果你不离线，那么你卖出的东西就可以买回去.
+ 
+<返回/@main>
+
+[@Repair]
+你可以在我这里修补头盔.
+ 
+<返回/@main>
+
+
+[Types]
+9
+
+[Trade]
+青铜头盔
+魔法头盔
+黄铜头盔
+黄金头盔
+骷髅头盔
+道士头盔
+
+
+

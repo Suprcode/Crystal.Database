@@ -1,0 +1,27 @@
+﻿[@Description]
+这是个{比奇省/Yellow}附近的小农场.现在它被昆虫袭击了.
+这份报告说那些昆虫生活在{昆虫洞/Yellow}.
+你能去{昆虫洞/Yellow}清理一下吗?
+
+[@TaskDescription]
+在{沃玛森林/Yellow}里找到昆虫洞
+在里面猎杀5只{血蛙/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+血蛙 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+15000
+
+[@GoldReward]
+15000

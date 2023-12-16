@@ -1,0 +1,28 @@
+﻿[@Description]
+你好冒险者,我们正在努力将{僵尸/Crimson}赶回山洞,
+你能助我们一臂之力吗?
+
+[@TaskDescription]
+在{道馆矿区/Yellow}猎杀{被诅咒的僵尸/Crimson},
+{石化僵尸/Crimson}和{游荡恶鬼/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+被诅咒的僵尸 5 
+石化僵尸 5 
+游荡恶鬼 5 
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+300000
+
+[@GoldReward]
+150000

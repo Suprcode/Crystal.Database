@@ -1,0 +1,65 @@
+﻿[@Main]
+#SAY
+你好，我是 Miss Re. 我负责 41级以上的教学工作.
+这是一个试炼之地，你只能靠你自己通过这场试炼. 
+每次入场费是3000金币，持续时间2小时. 
+希望你能通过试炼安全归来.
+花费 3000 金币 <挑战./@checklevel> 开始>
+<返回/@oldman> 来处.
+<让我再想想/@exit>
+
+
+[@oldman]
+#ACT
+MOVE 0 355 237
+
+[@start]
+#IF
+CHECKHUM 1 EM003
+#SAY
+已经有人在挑战了，请等一会...
+#ELSEACT
+GOTO @checklevel
+
+[@checklevel]
+#IF
+LEVEL >= 41
+#ACT
+SET [500] 0
+SET [501] 1
+SET [502] 1
+SET [503] 1
+SET [504] 1
+SET [505] 1
+SET [506] 1
+SET [507] 1
+SET [508] 1
+SET [509] 1
+SET [510] 1
+SET [511] 1
+SET [512] 1
+SET [513] 1
+SET [514] 1
+SET [515] 1
+SET [516] 1
+SET [517] 1
+SET [518] 1
+SET [519] 1
+SET [520] 1
+GOTO @start2
+
+#ELSESAY
+你的等级太高了，试着和我旁边的姐妹聊聊
+<关闭/@exit>
+
+[@start2]
+#IF
+CHECKGOLD 3000
+#ACT
+TAKEGOLD 3000
+MONCLEAR EM003
+TIMERECALL 3600
+MOVE EM003 13 16
+#ELSESAY
+你没有足够的入场费.
+<关闭/@exit>

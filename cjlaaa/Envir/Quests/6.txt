@@ -1,0 +1,27 @@
+﻿[@Description]
+冒险家...我还是觉得外面太危险了.
+你能再帮我个忙吗?
+
+[@TaskDescription]
+消灭5只{多钩猫/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+多钩猫 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+青铜战刀
+猛虎双刀
+
+[@ExpReward]
+750
+
+[@GoldReward]
+190

@@ -1,0 +1,27 @@
+﻿[@Description]
+{碧蓝魔眼/Crimson}生活在{昆虫洞/Yellow}.
+这种昆虫的血可以提升药物的疗效.
+你能帮我带6份{虫血/LightSteelBlue}吗?
+
+[@TaskDescription]
+在{昆虫洞/Yellow}杀掉{碧蓝魔眼/Crimson}
+然后收集6份{虫血/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+虫血 6
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+30000
+
+[@GoldReward]
+19000

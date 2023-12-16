@@ -1,0 +1,51 @@
+﻿[@MAIN]
+#IF
+CHECKITEM 二锅头 1
+#ACT
+GOTO @MAIN-1
+#ELSEACT
+GOTO @MAIN-2
+
+[@MAIN-1]
+#IF
+CHECK [537] 1
+#ACT
+TAKEITEM 二锅头 1
+#SAY
+哈哈... 这是Mogu给你的吗...
+这些符号... 我也解读不出更多的含义了.
+不过这几个字的意思是. 
+      "{一个远古时期的地牢./Gray}"
+ 
+谢谢 <Emperor Far/@THX2>
+#ELSEACT
+GOTO @MAIN-3
+
+[@MAIN-2]
+#IF
+CHECK [537] 1
+#SAY
+这些符号... 我曾经帮助Mogu先生研究过这些符号.
+我也无法解读出更多的信息..
+不过这个石头上写的意思是. 
+      "{一个远古时期的地牢./Gray}"
+ 
+谢谢 <Emperor Far/@THX>
+#ELSEACT
+GOTO @MAIN-3
+
+[@THX]
+#ACT
+SET [535] 1
+
+[@THX2]
+#ACT
+SET [535] 1
+SET [538] 1
+
+[@MAIN-3]
+#SAY
+More to come.
+
+[Quests]
+-154

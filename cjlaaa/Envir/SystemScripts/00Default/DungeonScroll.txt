@@ -1,0 +1,201 @@
+﻿;;DungeonScroll
+[@_UseItem(4)]
+#SAY
+你想去哪里?
+ 
+传送到: <比奇省/@BPD1>
+传送到: <毒蛇山谷/@SVD1>
+传送到: <盟重省/@MPD1>
+传送到: <沃玛森林/@WWSD1>
+传送到: <道馆/@WWND1>
+我想看看 <更多选项/@DungeonPage2> 
+
+[@DungeonPage2]
+#SAY
+传送到: <封魔谷/@CGCD1>
+传送到: <苍月岛/@PID1>
+
+<返回/@_UseItem(4)>
+ 
+[@BPD1]
+#SAY
+比奇省的地牢如下.
+ 
+传送到: <天然洞穴/@OC1>
+传送到: <僵尸洞/@DM1>
+<返回/@_UseItem(4)>
+
+[@SVD1]
+#SAY
+毒蛇山谷的地牢如下.
+ 
+传送到: <毒蛇矿区/@SDM1>
+传送到: <蛇洞/@VC1>
+<返回/@_UseItem(4)>
+
+[@MPD1]
+#SAY
+盟重省的地牢如下.
+ 
+传送到: <地牢/@BC1>
+传送到: <石墓/@ST1>
+传送到: <沙巴克密道/@SSC1>
+传送到: <祖玛寺庙/@ZT1>
+<返回/@_UseItem(4)>
+
+[@WWSD1]
+#SAY
+沃玛森林的地牢如下.
+ 
+传送到: <昆虫洞/@IC1>
+传送到: <沃玛寺庙/@WT1>
+<返回/@_UseItem(4)>
+
+[@WWND1]
+#SAY
+道馆的地牢如下.
+ 
+传送到: <道馆矿区/@MM1>
+传送到: <丛林迷宫/@TP1>
+传送到: <赤月峡谷/@RV1>
+
+<返回/@_UseItem(4)>
+
+[@SeoVD1]
+#SAY
+Available Dungeons in SeokchoValley.
+ 
+Teleport to: <TrollMines/@TM1>
+<Back/@DungeonPage2>
+
+[@CGCD1]
+#SAY
+封魔谷的地牢如下.
+ 
+传送到: <黑龙巢穴/@BDD1>
+
+<返回/@DungeonPage2>
+
+
+[@PID1]
+#SAY
+苍月岛的地牢如下.
+ 
+传送到: <骨魔洞/@PSC1>
+传送到: <牛魔寺庙/@PT1>
+<返回/@DungeonPage2>
+
+[@PBD1]
+#IF
+LEVEL > 42
+#SAY
+远古比奇的地牢如下.
+ 
+传送到: <EvilMirPalace/@EM1>
+<Back/@DungeonPage2>
+
+#ELSESAY
+抱歉，你的等级不够.
+ 
+<Back/@DungeonPage2>
+
+[@WLD1]
+#SAY
+Available Dungeons in WasteLands.
+ 
+Teleport to: <RedCave/@RC1>
+Teleport to: <HellCavern/@HC1>
+<Back/@DungeonPage2>
+
+[@OC1]
+#ACT
+MOVE 0 144 40
+
+[@DM1]
+#ACT
+MOVE 0 659 219
+
+[@SDM1]
+#ACT
+MOVE 2 562 175
+
+[@VC1]
+#ACT
+MOVE LABY01
+
+[@BC1]
+#ACT
+MOVE 3 144 92
+
+[@ST1]
+#ACT
+MOVE D710 28 17
+
+[@SSC1]
+#ACT
+MOVE D701 166 132
+
+[@ZT1]
+#ACT
+MOVE 0157 15 19
+
+[@FT1]
+#ACT
+MOVE 3 654 763
+
+[@IC1]
+#ACT
+MOVE 1 209 523
+
+[@WT1]
+#ACT
+MOVE 1 88 203
+
+[@MM1]
+#ACT
+MOVE 11 44 318
+
+[@TP1]
+#ACT
+MOVE 11 354 243
+
+[@RV1]
+#ACT
+MOVE 12 319 129
+
+[@DF1]
+#ACT
+MOVE 11 180 195
+
+[@TM1]
+#ACT
+MOVE UMM 43 107
+
+[@BDD1]
+#ACT
+MOVE 4 61 70
+
+[@DC1]
+#ACT
+MOVE 4 47 212
+
+[@PSC1]
+#ACT
+MOVE 5 523 615
+
+[@PT1]
+#ACT
+MOVE 5 569 425
+
+[@RC1]
+#ACT
+MOVE HELL00  245 246
+
+[@HC1]
+#ACT
+MOVE HELL00 244 148
+
+[@EM1]
+#ACT
+MOVE D2081 30 50
+

@@ -1,0 +1,93 @@
+﻿;Gold
+1/10 Gold 50
+
+;Weapons
+1/50 木剑 
+1/50 虎牙刀  
+1/100 匕首 
+1/100 乌木剑 
+
+;Armours
+1/100 布衣(男) 
+1/100 布衣(女) 
+
+;Helmets
+
+;Necklaces
+1/80 金项链 
+1/100 传统项链 
+
+;Bracelets
+
+;Rings
+1/200 古铜戒指 
+1/200 牛角戒指 
+1/200 玻璃戒指 
+1/200 六角戒指 
+
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
+;Potions
+1/40 金疮药(小量) 
+1/60 魔法药(小量) 
+1/400 太阳水 
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+1/2 姜茶 Q
+
+;Awakening
+
+;Pets
+
+;Transform
+

@@ -1,0 +1,27 @@
+﻿[@Description]
+最近一段时间,{盟重土城/Yellow}突然出现了好多虫子.
+我已经被它们制造出的噪音折磨疯了,
+请帮我消灭它们.
+
+[@TaskDescription]
+前往{石墓/Yellow}猎杀5只{黑色恶蛆/Crimson}和{楔蛾/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+黑色恶蛆 5
+楔蛾 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+125000
+
+[@GoldReward]
+125000

@@ -1,0 +1,25 @@
+﻿[@Description]
+我很抱歉,{蛇酒/LightSteelBlue}卖光了.
+我可以帮你酿一些,但是你得给我材料才行.
+
+[@TaskDescription]
+从蛇身上收集5个{蛇躯/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+蛇躯 5
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+4000
+
+[@GoldReward]
+4000

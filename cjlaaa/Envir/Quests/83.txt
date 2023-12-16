@@ -1,0 +1,26 @@
+﻿[@Description]
+很高兴再见到你旅行者.
+你能帮我把这批布料订单送给{道馆/Yellow}的{Sam/LimeGreen}吗.
+
+[@TaskDescription]
+前往{沃玛森林/Yellow}北方的道馆
+把{见习套装/LightSteelBlue}带给{DraperySam/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+见习套装 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+12690
+
+[@GoldReward]
+22125

@@ -1,0 +1,7 @@
+[@MAIN]
+#SAY
+Coming soon.
+
+[Quests]
+-1
+2

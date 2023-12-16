@@ -1,0 +1,25 @@
+﻿[@Description]
+找到{遗失的骸骨/LimeGreen}之后发现,
+他已经被蜘蛛杀死了.
+
+[@TaskDescription]}
+击杀{天狼蜘蛛/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+天狼蜘蛛 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+35000
+
+[@GoldReward]
+35000

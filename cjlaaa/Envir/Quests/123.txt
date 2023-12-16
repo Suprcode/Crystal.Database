@@ -1,0 +1,26 @@
+﻿[@Description]
+山洞里还有很多强大的怪物.
+{骷髅刀斧手/Crimson}就是其中的一种,
+请帮我消灭它们.
+
+[@TaskDescription]
+回到洞窟,消灭10只{骷髅刀斧手/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+骷髅刀斧手 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+390000
+
+[@GoldReward]
+190000

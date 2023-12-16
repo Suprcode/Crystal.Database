@@ -1,0 +1,24 @@
+[@Description]
+前往{丛林迷宫/Yellow}猎杀{幻影蜘蛛/Crimson} 
+然后回去找{道馆/Yellow}的{Perry/LimeGreen}
+
+[@TaskDescription]
+
+[@Completion]
+
+[@KillTasks]
+幻影蜘蛛 1 "Kill a RootSpider in TreePath"
+
+[@ItemTasks]
+
+[@FlagTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+
+[@GoldReward]

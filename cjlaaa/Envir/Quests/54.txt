@@ -1,0 +1,33 @@
+﻿[@Description]
+我需要一些打造武器的材料,
+{废矿/Yellow}里就有这种材料,
+但是那里被{僵尸/Crimson}占领了.
+
+[@TaskDescription]
+前往{废矿/Yellow}猎杀{僵尸/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+蹒跚僵尸 2
+钻地僵尸 2
+爬行僵尸 2
+石肤僵尸 2
+萨满僵尸 2
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+恶魔项链
+琥珀吊坠
+凤凰珍珠
+
+[@ExpReward]
+13500
+
+[@GoldReward]
+3375

@@ -1,0 +1,30 @@
+﻿[@Description]
+{Assistant Jane/LimeGreen}介绍你过来的? 
+我倒是不能直接拒绝他推荐过来的人,
+但也不是随便来个阿猫阿狗就能成为我的弟子. 
+你能通过我的试炼再说吧.
+
+[@TaskDescription]
+消灭5个{半兽人/Crimson}和5个{钉耙猫/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+半兽人 5
+钉耙猫 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+旧布鞋
+火球术
+
+[@SelectRewards]
+
+[@ExpReward]
+900
+
+[@GoldReward]
+225

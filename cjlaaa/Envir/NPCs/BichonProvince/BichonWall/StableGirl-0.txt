@@ -1,0 +1,35 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+Welcome traveller,
+我出售坐骑和相关的一些配件!
+ 
+<浏览/@Buy> 商店.
+ 
+<关闭/@exit>
+
+
+[@Buy]
+#SAY
+你想买什么?
+ 
+<返回/@main>
+
+[Type]
+19
+
+[Trade]
+黄斑虎
+马鞍
+生肉
+烤肉

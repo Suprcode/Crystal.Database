@@ -1,0 +1,32 @@
+﻿[@Description]
+太多的虫子了,我找不回我的背包.
+他们拿走了我所有的行李,你能帮我找回来吗?
+
+[@TaskDescription]
+杀死{紫虎虫/Crimson},{虎虫/Crimson}和{碧蓝魔眼/Crimson}
+找回丢失的行李.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+采药手套 1
+采药工具 1
+绿草药 5
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+坚硬凌风
+黑檀神镯
+道士神镯
+丝绸宝鞋
+
+[@ExpReward]
+38000
+
+[@GoldReward]
+4750

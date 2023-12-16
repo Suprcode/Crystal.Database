@@ -1,0 +1,25 @@
+﻿[@Description]
+进入{远古石墓/Yellow}然后收集{岩石标本/LightSteelBlue}
+
+[@TaskDescription]
+杀死{远古红猪/Crimson},{远古黑猪/Crimson}和{远古白猪/Crimson}
+取得{岩石标本/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+岩石标本 10
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1780000
+
+[@GoldReward]
+1780000

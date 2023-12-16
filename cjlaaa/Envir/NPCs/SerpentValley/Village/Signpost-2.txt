@@ -1,0 +1,19 @@
+﻿[@Main]
+<使用./@main-1> 城镇传送
+
+[@main-1]
+#SAY
+我可以把你传送到附近的房屋中.
+
+<武器店/@Weapon>   <药店/@reagent>
+
+一会再 <使用/@Exit>
+
+[@reagent]
+#ACT
+MOVE 0117
+
+[@Weapon]
+#ACT
+MOVE 0120
+

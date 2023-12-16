@@ -1,0 +1,27 @@
+﻿[@Description]
+我们需要尽快化解这场危机.
+请前往西南方向的{沃玛寺庙/Yellow}杀掉他们.
+
+[@TaskDescription]
+猎杀10只{粪虫/Crimson}和{沃玛战士/Crimson}
+
+[@Completion]
+很好,你是化解这场危机的希望.
+
+[@KillTasks]
+粪虫 10
+沃玛战士 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+41000
+
+[@GoldReward]
+41000

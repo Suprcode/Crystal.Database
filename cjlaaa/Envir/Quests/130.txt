@@ -1,0 +1,24 @@
+﻿[@Description]
+你喜欢赏金任务吗?
+
+[@TaskDescription]
+在赤月峡谷中找到并击杀{邪恶巨人/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+邪恶巨人 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+600000
+
+[@GoldReward]
+400000

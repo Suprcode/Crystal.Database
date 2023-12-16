@@ -1,0 +1,24 @@
+﻿[@Description]
+再次前往{丛林迷宫/Yellow}采集一些{老树根/LightSteelBlue}.
+
+[@TaskDescription]
+猎杀{幻影蜘蛛/Crimson},找到2个{老树根/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+老树根 2
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+35000
+
+[@GoldReward]
+35000

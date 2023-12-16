@@ -1,0 +1,33 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你想要看看我出售的毒粉吗?
+ 
+<购买/@Buy> 毒粉.
+ 
+<关闭/@exit>
+
+[@Buy]
+#SAY
+你想买哪种毒粉?
+ 
+<关闭/@exit>
+ 
+[Types]
+13
+
+[Trade]
+灰色药粉 500
+灰色药粉 5000
+黄色药粉 500
+黄色药粉 5000

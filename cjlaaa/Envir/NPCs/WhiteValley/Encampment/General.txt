@@ -1,0 +1,65 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+I will not help an evil person like you...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+Hello traveller, How may I help you?
+ 
+<View/@BuySell> Store. 
+ 
+<Close/@exit>
+
+[@BuySell]
+#SAY
+What Item would you like to buy or sell?
+<BuyBack/@BuyBack>
+ 
+<Back/@Main>
+
+[@BuyBack]
+#SAY
+These are the items still available to purchase back.
+ 
+<Back/@Main>
+
+[Types]
+8
+12
+13
+
+[Trade]
+金疮药(小量) 1
+金疮药(小量) 20
+魔法药(小量) 1
+魔法药(小量) 20
+金疮药(中量) 1
+金疮药(中量) 20
+魔法药(中量) 1
+魔法药(中量) 20
+金疮药(大量) 1
+金疮药(大量) 20
+魔法药(大量) 1
+魔法药(大量) 20
+金疮药(特大) 1
+金疮药(特大) 20
+魔法药(特大) 1
+魔法药(特大) 20
+蜡烛
+火把
+随机传送卷 1
+随机传送卷 20
+地牢逃脱卷
+护身符 500
+护身符 5000
+灰色药粉 500
+灰色药粉 5000
+黄色药粉 500
+黄色药粉 5000

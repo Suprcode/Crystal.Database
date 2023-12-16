@@ -1,0 +1,27 @@
+﻿[@Description]
+这具尸体似乎是{Vincent/LimeGreen}在一直寻找的.
+这个项链和{Vincent/LimeGreen}所描述的高度吻合.
+
+[@TaskDescription]
+交还{老旧的项链/LightSteelBlue}给{Vincent/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+老旧的项链 1
+
+[@FixedRewards]
+
+[@SelectRewards]
+坚韧手套
+魔法神镯
+
+[@ExpReward]
+18080
+
+[@GoldReward]
+4675

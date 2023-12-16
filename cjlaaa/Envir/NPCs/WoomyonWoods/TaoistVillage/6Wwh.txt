@@ -1,0 +1,33 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好旅行者，我能帮你做些什么?
+ 
+<打开/@Storage> 仓库
+你有 <$PARCELAMOUNT> 个邮件在等待收取.
+<发送/@SendParcel> 邮件
+<收取/@CollectParcel> 邮件
+ 
+<关闭/@exit>
+
+
+
+[@Storage]
+#SAY
+看看你需要存取什么东西?
+ 
+<返回/@Main> - <关闭/@exit>
+
+[Quests]
+93
+-94

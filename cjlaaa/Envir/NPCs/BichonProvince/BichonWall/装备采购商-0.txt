@@ -1,0 +1,306 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝不会理你这种恶人...
+
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+随着冒险的不断深入,我们的守备军压力越来越大.
+为了缓解防御压力,我需要购入一大批武器支援前线.
+如果你有多的武器请联系我,我会给你一个好的价钱.
+但前提是你必须提供30级以上的武器才行.
+
+<提供30级武器/@30wep>.           <提供36级武器/@36wep>.
+<提供40级武器/@40wep>.           <提供45级武器/@45wep>.  
+<提供50级武器/@50wep>.    
+<离开/@exit>
+
+
+
+[@30wep]
+#SAY
+武器根据职业不同,
+价格也不尽相同，请选择你要提供的武器.
+每次只能提供一把武器.
+<提供裁决/@cj>.
+<提供骨玉权杖/@gy>.
+<提供无极棍/@wj>.
+<提供暗黑刀/@ah>.
+<返回/@Main>
+
+[@cj]
+#IF
+CHECKITEM 裁决之杖 1
+#ACT
+TAKEITEM 裁决之杖 1
+GIVEGOLD 1200000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@gy]
+#IF
+CHECKITEM 骨玉权杖 1
+#ACT
+TAKEITEM 骨玉权杖 1
+GIVEGOLD 1500000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@wj]
+#IF
+CHECKITEM 无极棍 1
+#ACT
+TAKEITEM 无极棍 1
+GIVEGOLD 800000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@ah]
+#IF
+CHECKITEM 暗黑刀 1
+#ACT
+TAKEITEM 暗黑刀 1
+GIVEGOLD 3500000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@36wep]
+#SAY
+武器根据职业不同,
+价格也不尽相同，请选择你要提供的武器.
+每次只能提供一把武器.
+<提供龙牙/@ly>.
+<提供怒斩/@nz>.
+<提供逍遥扇/@xys>.
+<提供冷月刀/@lyd>.
+<返回/@Main>
+
+[@ly]
+#IF
+CHECKITEM 龙牙 1
+#ACT
+TAKEITEM 龙牙 1
+GIVEGOLD 12000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@nz]
+#IF
+CHECKITEM 怒斩 1
+#ACT
+TAKEITEM 怒斩 1
+GIVEGOLD 8000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@xys]
+#IF
+CHECKITEM 逍遥扇 1
+#ACT
+TAKEITEM 逍遥扇 1
+GIVEGOLD 17500000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@lyd]
+#IF
+CHECKITEM 冷月刀 1
+#ACT
+TAKEITEM 冷月刀 1
+GIVEGOLD 13500000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@40wep]
+#SAY
+武器根据职业不同,
+价格也不尽相同，请选择你要提供的武器.
+每次只能提供一把武器.
+<提供屠龙/@tld>.
+<提供噬魂法杖/@shfz>.
+<提供龙纹剑/@lwj>.
+<提供修罗刀/@xld>.
+<返回/@Main>
+
+
+
+[@tld]
+#IF
+CHECKITEM 屠龙 1
+#ACT
+TAKEITEM 屠龙 1
+GIVEGOLD 65000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+
+[@shfz]
+#IF
+CHECKITEM 噬魂法杖 1
+#ACT
+TAKEITEM 噬魂法杖 1
+GIVEGOLD 25000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+
+[@lwj]
+#IF
+CHECKITEM 龙纹剑 1
+#ACT
+TAKEITEM 龙纹剑 1
+GIVEGOLD 13000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+
+[@xld]
+#IF
+CHECKITEM 修罗刀 1
+#ACT
+TAKEITEM 修罗刀 1
+GIVEGOLD 45000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@45wep]
+#SAY
+武器根据职业不同,
+价格也不尽相同，请选择你要提供的武器.
+每次只能提供一把武器.
+<提供魔血剑/@mxj>.
+<提供神血枪/@sxq>.
+<提供龙血剑/@lxj>.
+<提供片血刀/@pxd>.
+<返回/@Main>
+
+[@mxj]
+#IF
+CHECKITEM 魔血剑 1
+#ACT
+TAKEITEM 魔血剑 1
+GIVEGOLD 150000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@sxq]
+#IF
+CHECKITEM 神血枪 1
+#ACT
+TAKEITEM 神血枪 1
+GIVEGOLD 65000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@lxj]
+#IF
+CHECKITEM 龙血剑 1
+#ACT
+TAKEITEM 龙血剑 1
+GIVEGOLD 45000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+
+[@pxd]
+#IF
+CHECKITEM 片血刀 1
+#ACT
+TAKEITEM 片血刀 1
+GIVEGOLD 95000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@50wep]
+#SAY
+武器根据职业不同,
+价格也不尽相同，请选择你要提供的武器.
+每次只能提供一把武器.
+注意!50级武器非常稀有，请谨慎!
+<提供黑虎斧/@hhf>.
+<提供火莲杖/@hlz>.
+<提供鹤羽扇/@hys>.
+<提供黑乌刀/@hwd>.
+<返回/@Main>
+
+
+[@hhf]
+#IF
+CHECKITEM 黑虎斧 1
+#ACT
+TAKEITEM 黑虎斧 1
+GIVEGOLD 320000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@hlz]
+#IF
+CHECKITEM 火莲杖 1
+#ACT
+TAKEITEM 火莲杖 1
+GIVEGOLD 180000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@hys]
+#IF
+CHECKITEM 鹤羽扇 1
+#ACT
+TAKEITEM 鹤羽扇 1
+GIVEGOLD 220000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.
+
+[@hwd]
+#IF
+CHECKITEM 黑乌刀 1
+#ACT
+TAKEITEM 黑乌刀 1
+GIVEGOLD 240000000
+#SAY
+提供成功,已为您的武器支付金币.
+#ELSESAY
+你并没有要提供的武器.

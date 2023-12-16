@@ -1,0 +1,25 @@
+[@Description]
+穿过{丛林迷宫/Yellow}进入{RedValley/Yellow}
+
+[@TaskDescription]
+击杀{血巨人/Crimson}并取得{翡翠晶/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+翡翠晶 1
+
+[@FlagTasks]
+530 "Travel to RedValley_5F and Take the 翡翠晶 to BigTaoist"
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+
+[@GoldReward]

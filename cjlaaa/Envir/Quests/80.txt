@@ -1,0 +1,24 @@
+﻿[@Description]
+一张卷轴,看起来很精致.
+
+[@TaskDescription]
+将{隐藏的卷轴/LightSteelBlue}带给{Dr.Kim/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+隐藏的卷轴 2 
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+11910
+
+[@GoldReward]
+18000

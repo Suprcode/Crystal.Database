@@ -1,0 +1,28 @@
+﻿;;B5
+[@Main]
+#IF
+LEVEL > 30 
+LEVEL < 48
+#SAY
+前方是一个神秘的远古之地，你做好准备前往了吗？
+<调查/@checkstone>
+<前往/@go>
+<离开/@exit>
+
+#ELSESAY
+什么也没有发生.
+
+[@go]
+#ACT
+MOVE D710A 29 17
+
+[@checkstone]
+#IF
+CHECKQUEST 135 ACTIVE
+#SAY
+当你的手触摸到这块石头,你感受到了一种奇怪的感觉...
+#ACT
+SET [525] 1
+LOCALMESSAGE "远古神石被找到!" Hint
+#ELSESAY
+一块神奇的石头,在黑暗中散发着光芒...

@@ -1,0 +1,64 @@
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+I will not help an evil person like you...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+Hello Traveller. What can I do for you? 
+ 
+<View/@BuySell> Store.
+<Repair/@Repair> Drapery pieces.
+ 
+<Close/@exit>
+
+[@BuySell]
+#SAY
+Which item would you like to Buy or Sell?
+<Buy Back/@BuyBack>
+ 
+<Back/@main>
+
+[@BuyBack]
+#SAY
+These are the items still available to purchase back.
+ 
+<Back/@main>
+
+[@Repair]
+#SAY
+Would you like to repair a drapery piece?
+ 
+<Back/@main>
+
+
+[Types]
+2
+4
+9
+10
+
+[Trade]
+重盔甲(男)
+重盔甲(女)
+灵魂战衣(男)
+灵魂战衣(女)
+魔法长袍(男)
+魔法长袍(女)
+残影魔衣(男)
+残影魔衣(女)
+LightLeatherArmour(男)
+LightLeatherArmour(女)
+青铜头盔
+魔法头盔
+黄铜头盔
+兽皮腰带
+铁腰带
+布鞋
+鹿皮靴

@@ -1,0 +1,33 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+旅行者，我是收购石头的商人.
+ 
+<出售/@sell> 石头.
+<买回/@BuyBack> 
+<关闭/@exit>
+
+[@BuyBack]
+#SAY
+如果你不离线，那么你卖出的东西就可以买回去.
+
+[@Sell]
+#SAY
+你想出售哪个石头，拿来让我看看.
+ 
+<返回/@main>
+
+[Types]
+11
+
+[Trade]

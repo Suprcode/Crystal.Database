@@ -1,0 +1,26 @@
+[@Description]
+把{恶魔碎片/LightSteelBlue}交给我.
+这是一把不祥的恶魔之剑,
+你一定要在恶人获得它之前得到它!
+
+[@TaskDescription]
+通过猎杀{赤月恶魔/Crimson}获得{恶魔碎片/LightSteelBlue}
+在11:27附近的角落里,你将穿过隐藏的门
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+恶魔碎片 1
+
+[@FlagTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+
+[@GoldReward]

@@ -1,0 +1,67 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好旅行者，我能帮你做些什么?
+ 
+<货币/@mbind> 转换
+ 
+<关闭/@exit>
+
+[@mbind]
+#SAY
+我可以将金条，金砖，金盒与 {金币/Gold}互相转换.
+告诉我你需要哪项服务.
+ 
+将: <金条/@GBar> 换成 {金币/GOLD} - 手续费 {(2000 金币)/Gold}
+将: <金砖/@GBBundle> 换成 {金币/GOLD} - 手续费 {(10000 金币)/Gold}
+将: <金盒/@GChest> 换成 {金币/GOLD} - 手续费 {(20000 金币)/Gold}
+<返回/@Main> - <关闭/@exit>
+
+[@GBar]
+#IF
+CHECKITEM 金条 1
+#ACT
+TAKEITEM 金条 1
+GIVEGOLD 998000
+#ELSESAY
+你没有需要转换的金条，当你有了再来找我吧.
+ 
+<返回/@Main> - <关闭/@exit>
+
+[@GBBundle]
+#IF
+CHECKITEM 金砖 1
+#ACT
+TAKEITEM 金砖 1
+GIVEGOLD 4990000
+#ELSESAY
+你没有需要转换的金砖，当你有了再来找我吧.
+ 
+<返回/@Main> - <关闭/@exit>
+
+[@GChest]
+#IF
+CHECKITEM 金盒 1
+#ACT
+TAKEITEM 金盒 1
+GIVEGOLD 9980000
+#ELSESAY
+你没有需要转换的金盒，当你有了再来找我吧.
+ 
+<返回/@Main> - <关闭/@exit>
+
+
+[Quests]
+-77
+78
+-78

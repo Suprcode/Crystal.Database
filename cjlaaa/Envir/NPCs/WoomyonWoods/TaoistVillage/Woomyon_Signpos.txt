@@ -1,0 +1,36 @@
+﻿[@Main]
+#SAY
+
+<使用./@main-1> 城镇传送
+
+[@main-1]
+#SAY
+<武器店/@weap>   <衣服店/@cloth>
+<首饰店/@jewel>   <药店/@pot>
+<书店/@book>   <杂货店/@ped>
+我想下次 <再使用/@exit>
+
+[@book]
+#ACT
+MOVE 1004
+
+[@jewel]
+#ACT
+MOVE 1005
+
+[@cloth]
+#ACT
+MOVE 1001
+
+[@pot]
+#ACT
+MOVE 1006
+
+[@weap]
+#ACT
+MOVE 1007
+
+[@ped]
+#ACT
+MOVE 1006
+

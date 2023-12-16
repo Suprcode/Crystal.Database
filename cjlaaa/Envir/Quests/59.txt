@@ -1,0 +1,26 @@
+﻿[@Description]
+我正在以{稀有铜矿/LightSteelBlue}为材料制作一个特殊的盔甲.
+你能帮我从{僵尸/Crimson}身上找到一些材料吗?
+它们就盘踞在{废矿/Yellow}中.
+
+[@TaskDescription]
+猎杀{僵尸/Crimson}找到5块{稀有铜矿/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+稀有铜矿 5
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+15000
+
+[@GoldReward]
+15000

@@ -1,0 +1,30 @@
+﻿[@main]
+这块时空之石可以撕裂时空将你送到远古时代的比奇省.
+<前往过去!/@tele>
+<留在现在/@exit>
+
+[@tele]
+#IF
+LEVEL > 39
+#ACT
+goto @level40
+#ELSEACT
+goto @lowlevel
+
+[@lowlevel]
+#IF
+LEVEL > 32
+LEVEL < 40
+CHECKITEM 时间之石 1
+#ACT
+TAKEITEM 时间之石 1
+MOVE 6 63 247
+#ELSESAY
+很抱歉，你没有 {时间之石/LightSteelBlue}或者你的等级太低了.
+<关闭/@exit>          
+
+[@level40]
+#ACT
+MOVE 6 63 247
+break
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

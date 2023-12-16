@@ -1,0 +1,79 @@
+﻿;;Checking whether you have PremiumPasses.
+[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#IF
+CHECKITEM 远古英雄之证[1d]
+#ACT
+GOTO @PremCaveMenu
+#ELSEACT
+GOTO @CHECKPASS2
+
+[@CHECKPASS2]
+#IF
+CHECKITEM 远古英雄之证[3d]
+#ACT
+GOTO @PremCaveMenu
+#ELSEACT
+GOTO @CHECKPASS3
+
+[@CHECKPASS3]
+#IF
+CHECKITEM 远古英雄之证[7d]
+#ACT
+GOTO @PremCaveMenu
+#ELSEACT
+GOTO @CHECKPASS4
+
+[@CHECKPASS4]
+#IF
+CHECKITEM 远古英雄之证[15d]
+#ACT
+GOTO @PremCaveMenu
+#ELSESAY
+你并没有 {远古英雄之证/LightSteelBlue}.
+
+;;Premium Cave Menu.
+[@PremCaveMenu]
+#SAY
+您好 <$USERNAME>, 
+我们将为尊贵的客人开放一项直通服务.
+现在您可以使用直通所有远古地图的特权，并且不限任何等级！
+ 
+快速前往:
+<远古天然洞穴/@AOC> | <远古沃玛寺庙/@AWT> | <远古石墓/@AST>
+<远古祖玛寺庙/@AZT> | <远古骨魔洞/@APC>
+
+[@AOC]
+#ACT
+MOVE D001A
+GIVEITEM 回城卷 1
+
+[@AWT]
+#ACT
+MOVE D021A
+GIVEITEM 回城卷 1
+
+[@AST]
+#ACT
+MOVE D710A
+GIVEITEM 回城卷 1
+
+[@AZT]
+#ACT
+MOVE 0157A
+GIVEITEM 回城卷 1
+
+[@APC]
+#ACT
+MOVE D2051A
+GIVEITEM 回城卷 1

@@ -1,0 +1,40 @@
+﻿[@MAIN]
+<使用./@main-1> 城镇传送
+
+[@main-1]
+#SAY
+我可以把你传送到附近的房屋中.
+
+<武器店/@weapon>   <服装店/@Armour>
+<书店/@book>   <首饰店/@access>
+<旅馆/@store>
+
+一会再 <使用/@Exit>
+
+[@weapon]
+#ACT
+Move 0159
+
+[@Armour]
+#ACT
+Move 0149
+
+[@access]
+#ACT
+Move 0158
+
+[@store]
+#IF
+#ACT
+Move 0145
+
+[@book]
+#IF
+#ACT
+Move 0161
+
+[Quests]
+142
+-142
+155
+-155

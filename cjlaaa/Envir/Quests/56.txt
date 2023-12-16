@@ -1,0 +1,26 @@
+﻿[@Description]
+你尝过{蝙蝠翅膀/LightSteelBlue}吗?
+它的味道很棒.我以前曾经是以卖这个为生的,
+你能帮我再去找些来吗?
+
+[@TaskDescription]
+收集5个{蝙蝠翅膀/LightSteelBlue}然后向{Sarah/LimeGreen}复命
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+蝙蝠翅膀 5
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+12500
+
+[@GoldReward]
+12500

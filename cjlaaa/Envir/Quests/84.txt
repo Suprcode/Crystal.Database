@@ -1,0 +1,28 @@
+﻿[@Description]
+你听说过{丛林迷宫/Yellow}吗?
+那里是收集资源的好地方!
+请去那里帮我收集一些材料回来.
+
+[@TaskDescription]
+猎杀{黑锷蜘蛛/Crimson}
+收集5个{红线/LightSteelBlue}和{黑线/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+红线 5
+黑线 5
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+59000
+
+[@GoldReward]
+29500

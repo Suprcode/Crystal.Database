@@ -1,0 +1,20 @@
+﻿[@MAIN]
+{
+#SAY
+Here's the list of wines i have available. 
+ 
+<Close/@exit>
+
+[Types]
+13
+
+[Trade]
+白酒
+葡萄酒
+酒
+蛇酒
+食人花酒
+蜘蛛酒
+梦河酒
+血酒
+}

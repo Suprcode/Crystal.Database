@@ -1,0 +1,25 @@
+﻿[@Description]
+能帮我个忙吗?我想送一份礼物给{Jane/LimeGreen}以表达
+我的感激之情,但这会儿我实在是忙的不可开交.
+
+[@TaskDescription]
+在{稻草人/Crimson}身上找到{姜茶/LightSteelBlue}带给{边界村/Yellow}的{Assistant Jane/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+姜茶 1 
+
+[@CarryItems]
+
+[@FixedRewards]
+黄金吊坠
+
+[@SelectRewards]
+
+[@ExpReward]
+50
+
+[@GoldReward]

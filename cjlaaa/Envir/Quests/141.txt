@@ -1,0 +1,26 @@
+﻿[@Description]
+比奇省赏金任务：收集骷髅骨头
+
+[@TaskDescription]
+前往{沃玛天然洞穴/Yellow}并收集{骷髅骨/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+骷髅骨 10 
+
+[@FlagTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+150000
+
+[@GoldReward]
+50000

@@ -1,0 +1,25 @@
+﻿[@Description]
+我们最近遭到了怪物猛烈的攻击,你能帮帮我们吗?
+
+[@TaskDescription]
+前往苍月岛并杀死10只{恶灵僵尸/Crimson}和5只{恶灵尸王/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+恶灵僵尸 10
+恶灵尸王 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+385000
+
+[@GoldReward]
+185000

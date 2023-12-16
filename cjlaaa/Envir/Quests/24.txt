@@ -1,0 +1,26 @@
+﻿[@Description]
+{Blacksmith Jang/LimeGreen}需要一些帮助.
+他住在{沃玛森林/Yellow}的北方,你可以顺着城西北的
+小路一路向北,就能到达{沃玛村/Yellow}.
+请你去帮帮他好吗?
+
+[@TaskDescription]
+前往{沃玛森林/Yellow}找到{Jang/LimeGreen}并和他谈谈.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+600
+
+[@GoldReward]
+1000

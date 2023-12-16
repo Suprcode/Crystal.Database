@@ -1,0 +1,47 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好啊，想试试你的运气吗？
+来一张彩票吧！如果你中了大奖，小心金币
+太多掉到地上哦!!
+ 
+<买/@buy> 彩票.
+<查看/@Bingo> 奖金设置!
+<离开/@exit>
+
+[@buy]
+#SAY
+看看你要买些什么.
+ 
+ 
+<返回/@main>
+
+[@Bingo]
+#SAY
+  一等奖 : 1,000,000 {Gold/Gold}
+  二等奖 : 200,000 {Gold/Gold}
+  三等奖 : 100,000 {Gold/Gold}
+  四等奖 : 10,000 {Gold/Gold}
+  五等奖 : 1,000 {Gold/Gold}
+  六等奖 : 500 {Gold/Gold}
+ 
+<返回/@main>
+
+[Type]
+
+[Trade]
+彩票
+
+[Quests]
+104
+-104

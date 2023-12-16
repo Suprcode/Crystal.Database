@@ -1,0 +1,429 @@
+﻿[@main]
+你好，欢迎来到南蛮!我是城里的裁缝.
+如果你能提供给我怪兽皮、盔甲之书等珍稀材料,
+我就可以为你制作远古衣甲
+
+<制作物品/@craft>.
+<关闭/@exit>
+
+
+[@craft]
+#SAY
+这是我可以制作的盔甲清单.
+
+- 青之魔甲  <制作/@arm1>
+- 赤之魔甲  <制作/@arm2>
+- 绿之魔甲  <制作/@arm3>
+- 黑之魔甲  <制作/@arm4>
+
+   
+* 每件盔甲需要额外收取20000金币作为手续费.
+
+<退出/@exit>
+
+[@arm1]
+#SAY
+* 青之魔甲
+* 属性 : Ac 5-17 - Amc 3-8 - Dc 1-2 - Mc 0-5 - Sc 0-4 - Hp +200.
+* 制作需要以下物品:
+- 40 锈蚀的古代盔甲
+- 34 犀牛皮
+- 32 白象皮
+- 30 大骨头
+- 12 盔甲之书(勇猛)
+- 10 红宝石矿
+-  5 粗缆绳
+
+<现在制作/@arm12>    <返回/@main>
+
+[@arm12]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 犀牛皮 34
+CHECKITEM 白象皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(勇猛) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 犀牛皮 34
+TAKEITEM 白象皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(勇猛) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM 青之魔甲(男) 1
+LINEMESSAGE "恭喜你,成功制作青之魔甲(男)." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm12F
+
+[@arm12F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 犀牛皮 34
+CHECKITEM 白象皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(勇猛) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 犀牛皮 34
+TAKEITEM 白象皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(勇猛) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM 青之魔甲(女) 1
+LINEMESSAGE "恭喜你,成功制作青之魔甲(女)." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+你没有足够的材料,请再次检查你的包裹.
+* 制作青之魔甲需要：
+- 40 锈蚀的古代盔甲
+- 34 犀牛皮
+- 32 白象皮
+- 30 大骨头
+- 12 盔甲之书(勇猛)
+- 10 红宝石矿
+-  5 粗缆绳
+
+<返回/@main>
+              
+[@arm2]
+#SAY
+* 赤之魔甲
+* 属性 : Ac 5-16 - Amc 3-8 - Dc 1-2 - Mc 0-5 - Sc 0-4 - Hp +230.
+* 制作需要以下物品:
+- 40 锈蚀的古代盔甲
+- 34 黑豹皮
+- 32 魔化狼皮
+- 30 大骨头
+- 12 盔甲之书(魔界)
+- 10 红宝石矿
+-  5 粗缆绳
+
+<现在制作/@arm23>    <返回/@main>
+
+
+[@arm23]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 黑豹皮 34
+CHECKITEM 魔化狼皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(魔界) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 黑豹皮 34
+TAKEITEM 魔化狼皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(魔界) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM 赤之魔甲(男) 1
+LINEMESSAGE "恭喜你,成功制作赤之魔甲(男)." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm23F
+
+[@arm23F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 黑豹皮 34
+CHECKITEM 魔化狼皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(魔界) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 黑豹皮 34
+TAKEITEM 魔化狼皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(魔界) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM 赤之魔甲(女) 1
+LINEMESSAGE "恭喜你,成功制作赤之魔甲(女)." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+你没有足够的材料,请再次检查你的包裹.
+* 制作赤之魔甲需要:
+- 40 锈蚀的古代盔甲
+- 34 黑豹皮
+- 32 魔化狼皮
+- 30 大骨头
+- 12 盔甲之书(魔界)
+- 10 红宝石矿
+-  5 粗缆绳   
+
+<返回/@main>   
+
+
+[@arm3]
+#SAY
+* 绿之魔甲
+* 属性 : Ac 5-16 - Amc 3-8 - Dc 1-2 - Mc 0-5 - Sc 0-4 - Hp +110 - Mp +140.
+* 制作需要以下物品: 
+- 40 锈蚀的古代盔甲
+- 34 白狼皮
+- 32 轻皮
+- 30 大骨头
+- 12 盔甲之书(仙术)
+- 10 红宝石矿
+-  5 粗缆绳
+
+<现在制作/@arm33>    <返回/@main>
+
+
+[@arm33]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 白狼皮 34
+CHECKITEM 轻皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(仙术) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 白狼皮 34
+TAKEITEM 轻皮 32
+TAKEITEM 大骨头 30
+TAKEITEM ArmourBookSC) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEitem 绿之魔甲(男) 1
+LINEMESSAGE "恭喜你,成功制作绿之魔甲(男)." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm33F
+
+[@arm33F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 白狼皮 34
+CHECKITEM 轻皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(仙术) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 白狼皮 34
+TAKEITEM 轻皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(仙术) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM 绿之魔甲(女) 1
+LINEMESSAGE "恭喜你,成功制作绿之魔甲(女)." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+你没有足够的材料,请再次检查你的包裹.
+* 制作绿之魔甲需要:
+- 40 锈蚀的古代盔甲
+- 34 白狼皮
+- 32 轻皮
+- 30 大骨头
+- 12 盔甲之书(仙术)
+- 10 红宝石矿
+-  5 粗缆绳   
+
+<返回/@main>
+
+
+[@arm4]
+#SAY
+* 黑之魔甲
+* 属性 : Ac 5-15 - Amc 4-10 - Dc 1-2 - Mc 0-5 - Sc 0-4 - Hp +100 - Mp +50.
+* 制作需要以下物品, 
+- 40 锈蚀的古代盔甲
+- 34 白象皮
+- 32 狒狒皮
+- 30 大骨头
+- 12 盔甲之书(勇猛)
+- 10 红宝石矿
+-  5 粗缆绳
+
+<现在制作/@arm43>    <返回/@main>
+
+
+[@arm43]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 白象皮 34
+CHECKITEM 狒狒皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(勇猛) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 白象皮 34
+TAKEITEM 狒狒皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(勇猛) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM 黑之魔甲(男) 1
+LINEMESSAGE "恭喜你,成功制作黑之魔甲(男)." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm43F
+
+[@arm43F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 白象皮 34
+CHECKITEM 狒狒皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(勇猛) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 白狼皮 34
+TAKEITEM 狒狒皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(勇猛) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM 黑之魔甲(女) 1 
+LINEMESSAGE "恭喜你,成功制作黑之魔甲(女)." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+你没有足够的材料,请再次检查你的包裹.
+* 制作黑之魔甲需要:
+- 40 锈蚀的古代盔甲
+- 34 白象皮
+- 32 狒狒皮
+- 30 大骨头
+- 12 盔甲之书(勇猛)
+- 10 红宝石矿
+-  5 粗缆绳   
+
+<返回/@main>                       
+
+[@arm5]
+#SAY
+* AncientLeather
+* Defense stats : Ac 4-16 - Amc 6-10 - Mc 1-2 - Hp +10. 
+* Items required for forging, 
+- 40 锈蚀的古代盔甲
+- 34 黑豹皮
+- 32 白象皮
+- 30 大骨头
+- 12 盔甲之书(魔界)
+- 10 红宝石矿
+-  5 粗缆绳
+
+<Forge Now/@arm53>    <Back/@main>
+
+
+[@arm53]
+#IF
+GENDER MALE
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 黑豹皮 34
+CHECKITEM 白象皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(魔界) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 黑豹皮 34
+TAKEITEM 白象皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(魔界) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM AncientLeather(男) 1
+LINEMESSAGE "You have forged AncientLeather." Hint
+BREAK
+CLOSE
+
+#ELSEACT
+GOTO @arm53F
+
+[@arm53F]
+#IF
+CHECKGOLD > 20000
+CHECKITEM 锈蚀的古代盔甲 40
+CHECKITEM 黑豹皮 34
+CHECKITEM 白象皮 32
+CHECKITEM 大骨头 30
+CHECKITEM 盔甲之书(魔界) 12
+CHECKITEM 红宝石矿 10
+CHECKITEM 粗缆绳 5
+#ACT
+TAKEGOLD 20000
+TAKEITEM 锈蚀的古代盔甲 40
+TAKEITEM 黑豹皮 34
+TAKEITEM 白象皮 32
+TAKEITEM 大骨头 30
+TAKEITEM 盔甲之书(魔界) 12
+TAKEITEM 红宝石矿 10
+TAKEITEM 粗缆绳 5
+GIVEITEM AncientLeather(女) 1
+LINEMESSAGE "You have forged AncientLeather." Hint
+BREAK
+CLOSE
+
+#ELSESAY
+You don't have enough ingredients.
+Please check again.In order to make the AncientLeather, 
+* Items required for forging, 
+- 40 锈蚀的古代盔甲
+- 34 黑豹皮
+- 32 魔化狼皮
+- 30 大骨头
+- 12 盔甲之书(魔界)
+- 10 红宝石矿
+-  5 粗缆绳   
+
+<Back/@main>                                                                                                                                                                                                                                               

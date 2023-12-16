@@ -1,0 +1,31 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好，你想要点什么?
+<交易/@PEARLBUY> .
+ 
+<关闭/@exit>
+ 
+[@PEARLBUY]
+#SAY
+看看你需要什么.
+ 
+<返回/@Main>
+
+[Types]
+36
+
+[Trade]
+奇异宝盒(大)
+奇异宝盒(中)
+奇异宝盒(H)

@@ -1,0 +1,25 @@
+﻿[@Description]
+几天前我被袭击了,袭击我的虫子还有毒.
+还好我买了{解毒剂/LightSteelBlue}可惜被怪物抢走了
+
+[@TaskDescription]
+杀死{虎虫/Crimson}找到{Soho/LimeGreen}的{解毒剂/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+解毒剂 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+30000
+
+[@GoldReward]
+19000

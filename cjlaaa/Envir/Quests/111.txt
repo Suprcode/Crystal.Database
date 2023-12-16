@@ -1,0 +1,30 @@
+﻿[@Description]
+这里有很多{隐藏入口/Yellow}.
+他们似乎是通向地牢的通道,
+请搜索这些隐藏入口,并找到标示的柱子.
+
+[@TaskDescription]
+搜索{沙巴克秘密通道/Yellow}然后找到柱子
+
+[@Completion]
+
+[@KillTasks]
+
+[@FlagTasks]
+521 "Find the WierdPillar"
+522 "Find the StrangePillar"
+523 "Find the MysteriousPillar"
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+27640
+
+[@GoldReward]
+55000

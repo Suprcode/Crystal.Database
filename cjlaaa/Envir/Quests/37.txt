@@ -1,0 +1,26 @@
+﻿[@Description]
+这是酿好的{蛇酒/LightSteelBlue}.
+请再辛苦一趟,把它带给{MongchonScout/LimeGreen}吧!
+
+[@TaskDescription]
+带{蛇酒/LightSteelBlue}给{MongchonScout/LimeGreen}.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+蛇酒 2
+
+[@FixedRewards]
+
+
+[@SelectRewards]
+
+[@ExpReward]
+4110
+
+[@GoldReward]
+1500

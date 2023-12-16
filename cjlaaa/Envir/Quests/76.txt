@@ -1,0 +1,27 @@
+﻿[@Description]
+在矿区北部有一把及其稀有的血剑,
+你能帮我取回它吗?
+
+[@TaskDescription]
+在{蛇谷矿区二层/Yellow}找到{变异尸王/Crimson}并杀掉它,
+然后取回{血匕/LightSteelBlue}
+（它在237:63附近游荡）
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+血匕 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+23500
+
+[@GoldReward]
+23500

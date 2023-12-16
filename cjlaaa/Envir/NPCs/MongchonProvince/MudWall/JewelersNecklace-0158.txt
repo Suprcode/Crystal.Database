@@ -1,0 +1,55 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+欢迎，你想要买些什么?
+ 
+<浏览/@BuySell> 商店.
+<修理/@Repair> 项链.
+ 
+<关闭/@Exit>
+
+
+[@BuySell]
+#SAY
+你想要买卖哪个项链?
+<买回/@BuyBack> 
+ 
+<返回/@Main>
+
+[@BuyBack]
+#SAY
+如果你不离线，那么你卖出的东西就可以买回去.
+ 
+<返回/@Main>
+
+[@Repair]
+#SAY
+你想要修理你的项链吗
+ 
+ 
+<返回/@Main>
+
+
+[Types]
+5
+
+
+[Trade]
+金项链
+传统项链
+黑色水晶项链
+黑檀项链
+黄色水晶项链
+
+[Quests]
+-107

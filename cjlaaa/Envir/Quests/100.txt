@@ -1,0 +1,32 @@
+﻿[@Description]
+我们得到报告称,有一只强大的恶魔出没在{沃玛寺庙/Yellow}.
+请去消灭他和他的爪牙,
+然后前往皇宫门口找James复命!
+
+[@TaskDescription]
+猎杀5只{沃玛勇士/Crimson}和1只{沃玛卫士/Crimson}
+然后取得它的{号角/LightSteelBlue}.
+
+[@Completion]
+
+[@KillTasks]
+沃玛勇士 5
+沃玛卫士 1
+
+[@ItemTasks]
+沃玛的号角 1
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+蓝翡翠挂坠
+法师之戒
+道德之戒
+
+[@ExpReward]
+110000
+
+[@GoldReward]
+110000

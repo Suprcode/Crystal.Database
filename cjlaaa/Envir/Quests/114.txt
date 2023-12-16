@@ -1,0 +1,29 @@
+﻿[@Description]
+欢迎来到{盟重土城/Yellow}.
+我们收到报告说,有人被野猪攻击了,
+据说这些怪物生活在{石墓/Yellow},
+你能帮我消灭一些吗?
+
+[@TaskDescription]
+前往{石墓/Yellow}消灭5只{黑野猪/Crimson}和5只{红野猪/Crimson}
+
+
+[@Completion]
+
+[@KillTasks]
+黑野猪 5
+红野猪 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+135000
+
+[@GoldReward]
+135000

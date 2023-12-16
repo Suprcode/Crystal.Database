@@ -1,0 +1,27 @@
+﻿[@Description]
+
+[@TaskDescription]
+猎杀各10只{风之牛魔/Crimson},{冰牛魔/Crimson},
+{电光牛魔/Crimson}和{火焰牛魔/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+风之牛魔 10
+冰牛魔 10
+电光牛魔 10
+火焰牛魔 10
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+1540000
+
+[@GoldReward]
+1540000

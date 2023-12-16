@@ -1,0 +1,23 @@
+﻿[@Description]
+
+[@TaskDescription]
+前往东南方的{牛魔寺庙/Yellow}然后击杀15只{牛头魔/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+牛头魔 15
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+600000
+
+[@GoldReward]
+600000

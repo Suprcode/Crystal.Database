@@ -1,0 +1,25 @@
+﻿[@Description]
+Myths和Rumours说需要收集一些{僵尸之心/LightSteelBlue}.
+这对消灭它们很有帮助.
+
+[@TaskDescription]
+从{被诅咒的神父/Crimson}身上收集5个{僵尸之心/LightSteelBlue}.
+他们就盘踞在{道馆矿区/Yellow}内.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+僵尸之心 5
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+35000
+[@GoldReward]
+35000

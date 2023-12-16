@@ -1,0 +1,27 @@
+﻿[@Description]
+旅行者...旅行者...我现在急需你的帮助...
+我刚刚在{蛇谷矿区/Yellow}中
+发现了一种极其稀有的{白蛇/Crimson}.
+你能帮我杀掉它吗
+
+[@TaskDescription]
+猎杀{蛇谷矿区二层/Yellow}220:360附近的{白蛇/Crimson}.
+
+[@Completion]
+
+[@KillTasks]
+白蛇 1
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+29500
+
+[@GoldReward]
+29500

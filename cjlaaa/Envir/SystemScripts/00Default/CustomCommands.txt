@@ -1,0 +1,29 @@
+﻿;; Guard Rental
+[@_CUSTOMCOMMAND(召唤护卫)]
+#INCLUDE [SystemScripts\00Default\GuardsHelp.txt] @Main
+
+;;远古神石.
+
+[@_CUSTOMCOMMAND(神石开启)]
+#IF
+CHECKITEM 远古神石[3d]
+#ACT
+GIVEBUFF Exp 0 50 TRUE
+LocalMessage "Experience Increased by 50%" Hint
+#ELSEACT
+LocalMessage "You don't have 远古神石!" Hint
+
+[@_CUSTOMCOMMAND(神石关闭)]
+#IF
+CHECKITEM 远古神石[3d]
+#ACT
+REMOVEBUFF Exp
+LocalMessage "Additional Experience has been removed." Hint
+#ELSEACT
+LocalMessage "You don't have Mysterious Stone!" Hint
+
+
+;;PKPoint Command.
+[@_CUSTOMCOMMAND(PKPOINT)]
+#ACT
+LocalMessage "You current have <$PKPOINT> PK Points." Hint

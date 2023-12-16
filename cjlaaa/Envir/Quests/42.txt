@@ -1,0 +1,28 @@
+﻿[@Description]
+你好旅行者,我最近正在计划前往{盟重省/Yellow},
+但是我听说路上不是很太平,
+你能帮我杀一些蛇吗?
+
+[@TaskDescription]
+消灭5{赤色毒蛇/Crimson}和{斑纹虎蛇/Crimson}
+
+[@Completion]
+
+[@KillTasks]
+赤色毒蛇 5
+斑纹虎蛇 5
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FixedRewards]
+SolidBronzeAxe
+
+[@SelectRewards]
+
+[@ExpReward]
+6000
+
+[@GoldReward]
+1500

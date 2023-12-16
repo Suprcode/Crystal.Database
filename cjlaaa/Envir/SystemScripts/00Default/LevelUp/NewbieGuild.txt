@@ -1,0 +1,8 @@
+[@Main]
+{
+#IF
+CHECKNAMELIST NewbieGuild
+#ACT
+REMOVEFROMGUILD NewbieGuild
+REMOVENAMELIST NewbieGuild
+}

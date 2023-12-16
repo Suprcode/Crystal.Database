@@ -1,0 +1,38 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<Close/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+欢迎 <$USERNAME>, 我将为你提供觉醒服务.
+<觉醒/@Awakening> 物品.
+<分解/@Disassemble> 物品.
+ 
+[@Awakening]
+#SAY
+选择你想要觉醒的物品.
+
+[@Disassemble]
+#SAY
+选择你想要分解的物品.
+ 
+<Back/@Main>
+
+[@Downgrade]
+#SAY
+选择你想要抹除属性的物品.
+ 
+<Back/@Main>
+
+[@Reset]
+#SAY
+选择你想重置的物品.
+ 
+<Back/@Main>

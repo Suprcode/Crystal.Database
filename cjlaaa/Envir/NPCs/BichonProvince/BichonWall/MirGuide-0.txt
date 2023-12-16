@@ -1,0 +1,192 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+欢迎来到这片大陆冒险.
+我是新人向导,祝你的冒险一帆风顺.
+你可以在我这里领取对应的等级奖励，请注意，每个奖励只能领取一次。
+领取<5级/@5>奖励        领取<15级/@15>奖励
+领取<25级/@25>奖励      领取<30级/@30>奖励
+领取<35级/@35>奖励      领取<40级/@40>奖励
+
+<关闭/@exit>
+
+[@35buff]
+#SAY
+因为部分玩家的经验BUFF被35级奖励顶掉,为补偿玩家损失,
+现所有35级以上玩家皆可领取一个3小时经验卷轴.
+本奖励将在9月14日之前删除,请尽快领取.
+ 
+领取<35级补偿/@35buffget>奖励 
+<关闭/@exit>
+
+[@35buffget]
+#IF
+LEVEL > 34
+check [007]  0
+#ACT
+GIVEITEM EXP100%3
+set [007] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+[@5]
+#IF
+LEVEL > 4
+check [001]  0
+#ACT
+GIVEGOLD 50000
+GIVEITEM 随身护卫[7d]
+set [001] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+[@15]
+#IF
+LEVEL > 14
+check [002]  0
+#ACT
+GIVEITEM 远古英雄之证[7d]
+GIVEITEM 技巧项链
+set [002] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+[@25]
+#IF
+LEVEL > 24
+check [003]  0
+CHECKGENDER Male
+#ACT
+GIVEITEM 灵晶甲胄(男)
+GIVEGOLD 100000
+set [003] 1
+#SAY
+这是你的奖励，请拿好。
+#IF
+LEVEL > 24
+check [003]  0
+CHECKGENDER Female
+#ACT
+GIVEITEM 灵晶甲胄(女)
+GIVEGOLD 100000
+set [003] 1
+#SAY
+这是你的奖励，请拿好。
+
+<关闭/@exit>
+
+[@30]
+#IF
+LEVEL > 29
+check [004]  0
+#ACT
+GIVEGOLD 1500000
+set [004] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+[@35]
+#SAY
+领取这个奖励会覆盖你身上已有的经验加倍BUFF,
+是否确定领取?
+ 
+领取<35级/@35get>奖励 
+<关闭/@exit>
+
+[@35get]
+#IF
+LEVEL > 34
+check [005]  0
+#ACT
+GIVEITEM 远古神石[3d]
+set [005] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+[@40]
+#IF
+LEVEL > 39
+check [006]  0
+CHECKCLASS Warrior
+#ACT
+GIVEITEM 剑气爆
+set [006] 1
+#SAY
+这是你的奖励，请拿好。
+#IF
+LEVEL > 39
+check [006]  0
+CHECKCLASS Wizard
+#ACT
+GIVEITEM 火龙气焰
+set [006] 1
+#SAY
+这是你的奖励，请拿好。
+#IF
+LEVEL > 39
+check [006]  0
+CHECKCLASS Taoist
+#ACT
+GIVEITEM 召唤月灵
+set [006] 1
+#SAY
+这是你的奖励，请拿好。
+#IF
+LEVEL > 39
+check [006]  0
+CHECKCLASS Assassin
+#ACT
+GIVEITEM 月影术
+set [006] 1
+#SAY
+这是你的奖励，请拿好。
+
+
+<关闭/@exit>
+
+
+
+[Quests]
+-9
+-12
+-15
+-18
+-21
+22
+-22
+23
+-23
+24
+46
+-46
+51
+-53
+96

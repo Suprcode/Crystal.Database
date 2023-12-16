@@ -1,0 +1,31 @@
+﻿[@Main]
+#IF
+CHECKQUEST 138 1
+#ACT
+GOTO @MAIN1-2
+#ELSEACT
+GOTO @MAIN1-1
+
+
+[@MAIN1-1]
+#SAY
+你好冒险者,准备好前往血红洞窟冒险了吗?
+在血红洞窟深处,还有一个神秘的未知世界在等待你去探索.
+<再见/@exit>
+
+[@MAIN1-2]
+#IF
+#ACT
+#SAY
+你已经成功削弱了血红洞窟的魔气,现在我可以使用传送法术了.
+准备通过传送前往南蛮冒险吗?
+<现在前往/@goar>
+<再见/@exit>
+
+[@goar]
+#ACT
+MOVE NAMMAN 726 134
+
+[Quests]
+138
+-138

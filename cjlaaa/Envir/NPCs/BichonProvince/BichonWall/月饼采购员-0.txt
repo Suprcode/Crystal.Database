@@ -1,0 +1,288 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝不会理你这种恶人...
+
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+中秋节是这片大陆上的传统节日,是团圆的日子.
+我奉比奇国王之命采购中秋节的特产月饼.
+但因为连年战争，我没有足够的预算来采购月饼.
+我知道在怪物身上有一种叫做比奇通用币的货币,
+如果你获得了比奇通用币请交给我，我会用物品和你交换.
+
+<兑换觉醒物品/@jx>.               <兑换面具/@mj>.
+<兑换天衣无缝(限时)/@ty>.
+<离开/@exit>
+
+
+
+[@jx]
+#SAY
+我只有普通和稀有级别的觉醒物品,
+请看看你需要哪一种.
+<兑换普通级觉醒物品/@pt>.
+<兑换稀有级觉醒物品/@xy>.
+<返回/@Main>
+
+[@pt]
+#SAY
+请挑选你需要的觉醒材料进行兑换,
+每个普通觉醒材料需要消耗5个比奇通用币.
+
+<兑换攻击雕文/@dc1>.     <兑换魔法雕文/@mc1>.
+<兑换道术雕文/@sc1>.     <兑换体力雕文/@tl1>.
+<兑换防御雕文/@ac1>.     <兑换魔御雕文/@amc1>.
+<兑换觉醒之魂/@hh1>.     <返回/@Main>
+
+
+[@dc1]
+#IF
+CHECKITEM 比奇通用币 5
+#ACT
+TAKEITEM 比奇通用币 5
+GIVEITEM 攻击雕文0
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@mc1]
+#IF
+CHECKITEM 比奇通用币 5
+#ACT
+TAKEITEM 比奇通用币 5
+GIVEITEM 魔法雕文0
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@sc1]
+#IF
+CHECKITEM 比奇通用币 5
+#ACT
+TAKEITEM 比奇通用币 5
+GIVEITEM 道术雕文0
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@tl1]
+#IF
+CHECKITEM 比奇通用币 5
+#ACT
+TAKEITEM 比奇通用币 5
+GIVEITEM 体力雕文0
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@ac1]
+#IF
+CHECKITEM 比奇通用币 5
+#ACT
+TAKEITEM 比奇通用币 5
+GIVEITEM 防御雕文0
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@amc1]
+#IF
+CHECKITEM 比奇通用币 5
+#ACT
+TAKEITEM 比奇通用币 5
+GIVEITEM 魔御雕文0
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@hh1]
+#IF
+CHECKITEM 比奇通用币 5
+#ACT
+TAKEITEM 比奇通用币 5
+GIVEITEM 觉醒之魂0
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@xy]
+#SAY
+请挑选你需要的觉醒材料进行兑换,
+每个稀有觉醒材料需要消耗15个比奇通用币.
+
+<兑换攻击雕文/@dc2>.     <兑换魔法雕文/@mc2>.
+<兑换道术雕文/@sc2>.     <兑换体力雕文/@tl2>.
+<兑换防御雕文/@ac2>.     <兑换魔御雕文/@amc2>.
+<兑换觉醒之魂/@hh2>.     <返回/@Main>
+
+
+[@dc2]
+#IF
+CHECKITEM 比奇通用币 10
+#ACT
+TAKEITEM 比奇通用币 10
+GIVEITEM 攻击雕文1
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@mc2]
+#IF
+CHECKITEM 比奇通用币 10
+#ACT
+TAKEITEM 比奇通用币 10
+GIVEITEM 魔法雕文1
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@sc2]
+#IF
+CHECKITEM 比奇通用币 10
+#ACT
+TAKEITEM 比奇通用币 10
+GIVEITEM 道术雕文1
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@tl2]
+#IF
+CHECKITEM 比奇通用币 10
+#ACT
+TAKEITEM 比奇通用币 10
+GIVEITEM 体力雕文1
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@ac2]
+#IF
+CHECKITEM 比奇通用币 10
+#ACT
+TAKEITEM 比奇通用币 10
+GIVEITEM 防御雕文1
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@amc2]
+#IF
+CHECKITEM 比奇通用币 10
+#ACT
+TAKEITEM 比奇通用币 10
+GIVEITEM 魔御雕文1
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+[@hh2]
+#IF
+CHECKITEM 比奇通用币 10
+#ACT
+TAKEITEM 比奇通用币 10
+GIVEITEM 觉醒之魂1
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+
+[@mj]
+#SAY
+兑换面具需要30个比奇通用币,
+确认要进行兑换吗?
+
+<兑换/@dh>
+<返回/@Main>
+
+[@dh]
+#IF
+CHECKITEM 比奇通用币 30
+#ACT
+TAKEITEM 比奇通用币 30
+GIVEITEM 红袖添香
+#SAY
+这是你的奖品，请拿好.
+#ELSESAY
+你并没有足够的比奇通用币.
+
+<关闭/@exit>
+
+
+[@ty]
+#SAY
+兑换天衣无缝需要100个比奇通用币,
+该物品为限时物品,能够使用15天,
+确定要进行兑换吗?
+
+<兑换/@dh2>
+<返回/@Main>
+
+[@dh2]
+#IF
+CHECKITEM 比奇通用币 100
+CHECKGENDER Male
+#ACT
+TAKEITEM 比奇通用币 100
+GIVEITEM 天衣无缝(男)[15d]
+#SAY
+这是你的奖品，请拿好.
+#IF
+CHECKITEM 比奇通用币 100
+CHECKGENDER Female
+#ACT
+TAKEITEM 比奇通用币 100
+GIVEITEM 天衣无缝(女)[15d]
+#SAY
+这是你的奖品，请拿好.
+
+
+

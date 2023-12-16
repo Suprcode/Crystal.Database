@@ -1,0 +1,51 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+很高兴见到你，有什么需要帮忙的吗？
+ 
+<买/@Buy> 渔具.
+<卖/@sell> 鱼.
+ 
+<关闭/@exit>
+
+
+[@Buy]
+#SAY
+你要买卖什么东西?
+<买回/@BuyBack>
+ 
+<返回/@main>
+
+[@sell]
+#SAY
+把你要卖的鱼拿来我看看
+ 
+ 
+ <返回/@main>
+
+[@BuyBack]
+#SAY
+如果你不离线，那么你卖出的东西就可以买回去.
+ 
+<返回/@Main>
+
+[Type]
+
+
+[Trade]
+蓝色鱼竿
+鱼钩
+鱼漂
+探鱼器
+摇轮
+鱼饵 1000

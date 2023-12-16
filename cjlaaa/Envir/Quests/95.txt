@@ -1,0 +1,25 @@
+﻿[@Description]
+我很想我的父母,你能帮帮我吗?
+
+[@TaskDescription]
+带{飞鸽之书/LightSteelBlue}给{Sir.Mogu/LimeGreen}
+他就住在{比奇城/Yellow}的客栈内.
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+
+[@CarryItems]
+飞鸽之书 2
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+9650
+
+[@GoldReward]
+20500

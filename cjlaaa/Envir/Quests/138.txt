@@ -1,0 +1,37 @@
+﻿[@Description]
+在幽深的血红洞窟深处，有一个被称为
+{南蛮/Yellow}的全新世界！奉国王之令，
+我在这里维护一个传送法阵，以便让冒险者能够直接前往南蛮冒险。
+然而身旁的血红洞窟中散发出的魔气过于强大，
+我的法阵无法正常运转。
+你能帮我消灭一些{血红洞窟/Yellow}中的怪物吗? 
+如果洞窟中的魔气被削弱，
+我就可以使用传送法术，让你瞬间抵达南蛮。
+
+[@TaskDescription]
+消灭 {青白恶鬼/Crimson}, {靛蓝恶鬼/Crimson}, 
+{嗜血虫魔/Crimson} 以及 {疯狂虫魔/Crimson} 各 12 只.
+
+[@Completion]
+
+[@KillTasks]
+青白恶鬼 12
+靛蓝恶鬼 12
+嗜血虫魔 12
+疯狂虫魔 12
+
+[@ItemTasks]
+
+[@CarryItems]
+
+[@FlagTasks]
+
+[@FixedRewards]
+
+[@SelectRewards]
+
+[@ExpReward]
+48000000
+
+[@GoldReward]
+600000

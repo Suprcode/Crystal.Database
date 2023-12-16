@@ -1,0 +1,20 @@
+﻿[@main]
+#SAY
+ 如果你想返回比奇，可以在我这里坐船前往.
+ 
+ <返回比奇/@brdmove> Pay 2,000 {Gold/Gold} and Board.
+ <离开/@exit>
+
+[@brdmove]
+#IF
+CHECKGOLD > 2000
+#ACT
+TAKEGOLD 2000
+MOVE 0 252 674
+BREAK
+#ELSESAY
+你没有足够的 {Gold/Gold} 来支付此项服务!
+别浪费我的时间，快走吧!
+
+<离开/@exit>
+

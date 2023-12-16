@@ -1,0 +1,103 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+你好，请问你需要些什么？
+ 
+<浏览/@BuySell> 商店.
+<修理/@Repair> 武器.
+ 
+<关闭/@exit>
+
+[@BuySell]
+#SAY
+你要买卖什么东西?
+<买回/@BuyBack>
+ 
+<返回/@main>
+
+[@BuyBack]
+#SAY
+如果你不离线，那么你卖出的东西就可以买回去.
+ 
+<返回/@main>
+
+[@Repair]
+#SAY
+你想要修理武器?
+请把它拿来让我看看.
+ 
+<返回/@main>
+
+
+[Types]
+1
+14
+
+[Trade]
+木剑
+WoodenBow
+虎牙刀
+匕首
+乌木剑
+EbonyBow
+青铜剑
+暴虎刀
+短剑
+ShortBow
+铁剑
+BoneBow
+青铜斧
+八荒
+海魂
+半月
+音速刀
+CompoundBow
+鹤嘴锄
+
+[Quests]
+63
+-64
+
+[@talk]
+#IF
+CHECK [539] 1
+#ACT
+GOTO @MAIN1-1
+#ELSEACT
+GOTO @MAIN1-2
+
+[@MAIN1-1]
+#SAY
+很高兴再见到你旅行者，今天过得怎么样? 
+ 
+<关闭/@exit>
+
+[@MAIN1-2]
+#IF
+CHECKQUEST 155 1
+#SAY
+你已经证明了自己，我将告诉你一个秘密 <listen/@listen>.
+<关闭/@exit>
+#ELSESAY
+我怎么相信你?现在我连你是谁都不知道... 
+ 
+<关闭/@exit>
+
+[@listen]
+#ACT
+SET [539] 1
+#SAY
+再会，旅行者.
+ 
+<关闭/@exit>
+

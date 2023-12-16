@@ -1,0 +1,26 @@
+﻿[@Description]
+你好旅行者.我还需要一些水果来酿酒.
+你能帮我收集5{乌木果/LightSteelBlue}吗.
+
+[@TaskDescription]
+收集5{乌木果/LightSteelBlue}
+
+[@Completion]
+
+[@KillTasks]
+
+[@ItemTasks]
+乌木果 5
+
+[@CarryItems]
+
+[@FixedRewards]
+纯铜头盔
+
+[@SelectRewards]
+
+[@ExpReward]
+5000
+
+[@GoldReward]
+1250

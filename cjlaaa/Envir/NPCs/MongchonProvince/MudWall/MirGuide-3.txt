@@ -1,0 +1,20 @@
+﻿[@MAIN]
+#IF
+CHECKPKPOINT > 2
+#SAY
+我绝对不会为你这样的恶人服务...
+ 
+ 
+<关闭/@exit>
+#ELSEACT
+GOTO @Main-1
+
+[@Main-1]
+#SAY
+欢迎来到这片大陆冒险.
+我是新人向导,祝你的冒险一帆风顺.
+
+<关闭/@exit>
+
+[Quests]
+110
