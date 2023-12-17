@@ -19,7 +19,7 @@ How to use;
 
 # Current Databases
 
-- Jev - 23/07/20 - Present (Actively but slow updates)
+- Jev - 23/07/20 - Present (Active but slow updates)
 - Daneo1989 - 27/11/14 - 31/10/15 (No longer updated)
 - NightWolf - 13/12/14 - xx/xx/xx (No longer updated)
 - cjlaaa - 04/11/17 - 24/06/22 (No longer updated)
