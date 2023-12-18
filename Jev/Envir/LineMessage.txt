@@ -1,5 +1,4 @@
 Welcome to Crystal Mir 2 released by Suprcode.
 Make sure to follow JevLomcn on github for the latest Database releases.
-www.LOMCN.org
-Join our discord - discord.com/invite/wpXVjdA8Nq
-Now in Net.7 
+www.LOMCN.net
+Now in Net.8

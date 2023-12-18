@@ -16,5 +16,5 @@ TITLE=Welcome to Legend of Mir 2
 By clicking close and continuing to play the
 game you are agreeing to the terms of
 service above.
-(LOMCN/http://LOMCN.ORG)
+(LOMCN/http://LOMCN.NET)
 (DATABASE/https://github.com/Suprcode/mir2-database/tree/main/Jev)
