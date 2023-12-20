@@ -5,12 +5,17 @@
 
 
 *LATEST* 
-26.11.23
+20.12.23
 
 Patch Notes
-26.11.23
+20.12.23
 
--Net 8 Support
+-Works with latest source code (887)
+-Fix for change of Preview directory.
+-Also added all Database Maps in.
+
+
+========================================================================
 
 27/01/21
 
@@ -944,3 +949,13 @@ RepairOil 27 to 3368
 26.11.23
 
 -Net 8 Support
+
+18.12.23
+
+-Works with latest source code (882)
+
+20.12.23
+
+Works with latest source code (887)
+Fix for change of Preview directory.
+Also added all Database Maps in.
