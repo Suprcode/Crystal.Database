@@ -138,3 +138,6 @@
 ;Crafting Materials
 1/10 WhiteThread 
 1/15 WhiteThread 
+
+;Quest
+1/1 BoarTooth Q

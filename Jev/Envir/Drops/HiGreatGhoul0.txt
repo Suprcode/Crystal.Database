@@ -68,6 +68,9 @@
 
 ;Quest
 
+1/1RedDagger Q
+1/1 HeartOfDead Q
+
 ;Awakening
 
 ;Pets
