@@ -7,6 +7,6 @@ Gold 10000
 CraftingBook
 
 [Ingredients]
-DCStone
-ImpactDrug(L)
-(HP)DrugXL
+DCStone 
+ImpactDrug(L) 
+(HP)DrugXL 2

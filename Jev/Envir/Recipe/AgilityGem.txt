@@ -5,6 +5,7 @@ Gold 20000
 
 [Tools]
 
+
 [Ingredients]
 IronOre 1 14000
 GoldOre 1 14000

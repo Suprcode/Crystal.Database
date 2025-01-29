@@ -5,7 +5,8 @@ Gold 1000
 
 [Tools]
 
+
 [Ingredients]
 SilverOre 1 12000
-SilkShoes
+SilkShoes 
 WhiteThread 10

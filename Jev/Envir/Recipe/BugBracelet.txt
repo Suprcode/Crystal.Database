@@ -5,8 +5,9 @@ Gold 1000
 
 [Tools]
 
+
 [Ingredients]
 BugLeg 15
-MonkBracelet
+MonkBracelet 
 SilverOre 1 12000
 SpiderWeb 15

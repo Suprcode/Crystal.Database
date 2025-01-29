@@ -5,7 +5,8 @@ Gold 10000
 
 [Tools]
 
+
 [Ingredients]
 IronOre 1 14000
 SilverOre 1 14000
-DCStone(S)
+DCStone(S) 

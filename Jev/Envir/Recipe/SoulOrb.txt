@@ -7,7 +7,7 @@ Gold 10000
 CraftingBook
 
 [Ingredients]
-SCStone
-TaoistDrug(L)
-(MP)DrugLarge
-(HP)DrugLarge
+SCStone 
+TaoistDrug(L) 
+(MP)DrugLarge 
+(HP)DrugLarge 

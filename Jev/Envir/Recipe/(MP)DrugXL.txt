@@ -5,7 +5,8 @@ Gold 100
 
 [Tools]
 
+
 [Ingredients]
-Mushroom
-CannibalFruit
-(MP)DrugLarge
+Mushroom 
+CannibalFruit 
+(MP)DrugLarge 

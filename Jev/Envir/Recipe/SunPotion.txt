@@ -5,6 +5,7 @@ Gold 10
 
 [Tools]
 
+
 [Ingredients]
 Chicken 1
 CannibalLeaf 2

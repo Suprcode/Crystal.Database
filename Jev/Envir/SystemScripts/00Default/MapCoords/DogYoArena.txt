@@ -1,0 +1,9 @@
+[@MAIN]
+{
+#IF
+Level > 49
+#ACT
+ENTERMAP
+#ELSEACT
+LocalMessage "Doors are locked until you reach level 50!" Hint
+}

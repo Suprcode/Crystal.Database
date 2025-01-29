@@ -5,7 +5,8 @@ Gold 1000
 
 [Tools]
 
+
 [Ingredients]
-Bone
-OldGinseng
-ImpactDrug(S)
+Bone 
+OldGinseng 
+ImpactDrug(S) 

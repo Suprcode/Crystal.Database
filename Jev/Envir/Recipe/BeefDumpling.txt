@@ -5,7 +5,8 @@ Gold 100
 
 [Tools]
 
+
 [Ingredients]
-Beef
-OldGinseng
-(MP)DrugLarge
+Beef 
+OldGinseng 
+(MP)DrugLarge 

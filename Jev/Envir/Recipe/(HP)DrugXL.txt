@@ -5,7 +5,8 @@ Gold 100
 
 [Tools]
 
+
 [Ingredients]
-EbonyFruit
-CannibalLeaf
-(HP)DrugLarge
+EbonyFruit 
+CannibalLeaf 
+(HP)DrugLarge 

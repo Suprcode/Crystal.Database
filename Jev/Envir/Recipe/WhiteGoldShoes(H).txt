@@ -5,8 +5,9 @@ Gold 5000
 
 [Tools]
 
+
 [Ingredients]
 SilverOre 2 12000
-WhiteGoldShoes
+WhiteGoldShoes 
 LargeBone 60
 WhiteThread 90

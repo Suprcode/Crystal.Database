@@ -5,6 +5,7 @@ Gold 1000
 
 [Tools]
 
+
 [Ingredients]
-SunPotion(M)
-Amulet(Bundle)
+SunPotion(M) 
+Amulet(Bundle) 

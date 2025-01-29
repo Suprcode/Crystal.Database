@@ -32,6 +32,10 @@ the rent will be extended for an additional 7 days.
  
 Do you still want to rent a territory? <Rent/@agitreg> <Cancel/@exit>
 
+[@agitreg]
+#ACT
+BUYGT
+
 [@move]
 #SAY
 Then I will teleport you to the territory of you guild.

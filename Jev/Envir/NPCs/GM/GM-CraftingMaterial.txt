@@ -5,6 +5,7 @@ ISADMIN
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
 <Buy/@Buy> Crafting Material
 <Sell/@Sell> Crafting Material
+<Craft/@Craft>
 
 #ELSEACT
 MOVE 0 300 300
@@ -22,6 +23,8 @@ Sell.
  
 <Back/@Main>
 
+[@Craft]
+What would you like to craft?
 
 [Types]
 16

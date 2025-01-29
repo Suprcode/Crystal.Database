@@ -5,8 +5,9 @@ Gold 5000
 
 [Tools]
 
+
 [Ingredients]
 SilverOre 2 12000
-WhiteGoldBracelet
+WhiteGoldBracelet 
 LargeBone 40
 WhiteThread 90

@@ -8,7 +8,7 @@ If you also want anything to be made, you may as well ask me.
 <Crafting/@Craft>
 
 [@Craft]
-SunPotion
+
 
 [@BuySell]
 #SAY

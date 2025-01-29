@@ -12,5 +12,31 @@
 [@_MAPCOORD(3,861,686)]
 #INCLUDE [SystemScripts\00Default\MapCoords\PenalCavern.txt] @Main
 
+;;DogYoArena
+[@_MAPCOORD(DogYoArena2,117,26)]
+#INCLUDE [SystemScripts\00Default\MapCoords\DogYoArena.txt] @Main
+
+[@_MAPCOORD(DogYoArena2,118,27)]
+#INCLUDE [SystemScripts\00Default\MapCoords\DogYoArena.txt] @Main
+
+[@_MAPCOORD(DogYoArena2,119,28)]
+#INCLUDE [SystemScripts\00Default\MapCoords\DogYoArena.txt] @Main
+
+[@_MAPCOORD(DogYoArena2,119,29)]
+#INCLUDE [SystemScripts\00Default\MapCoords\DogYoArena.txt] @Main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [@_MAPCOORD(3,862,687)]
 #INCLUDE [SystemScripts\00Default\MapCoords\PenalCavern.txt] @Main
