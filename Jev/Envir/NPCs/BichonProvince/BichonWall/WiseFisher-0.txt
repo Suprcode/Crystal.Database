@@ -39,9 +39,6 @@ Item's you are still able to purchase back.
  
 <Back/@Main>
 
-[Type]
-
-
 [Trade]
 BlueFishingRod
 FishingHook

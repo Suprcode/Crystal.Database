@@ -36,7 +36,7 @@ LOCALMESSAGE "Rental extend 7 additional days." Hint
 
 [@agitrecall]
 #ACT
-GTALLRECALL
+AGITRECALL
 
 [@agitonerecall]
 <Who do you wish to summon?/@@summontest>
@@ -44,7 +44,7 @@ GTALLRECALL
 [@@summontest]
 #ACT
 MOV A1 %INPUTSTR
-GTRECALL <$OUTPUT(A1)>
+AGITONERRECALL <$OUTPUT(A1)>
 
 [@appcancel]
 #SAY
@@ -52,7 +52,7 @@ I will start & cancel the sale of guild territory.
 After a successful transaction, the ownership shall be
 transferred to the buyer 24 hours later.
 The master and members of the guild that sold the territory
-will be booted out automatically.
+willbe booted out automatically.
 <Apply for sale of Guild territory/@@agitforsale>
 <Cancel sale of Guild territory/@agitforsalecancel>
 <Back/@main>

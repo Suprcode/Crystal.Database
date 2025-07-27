@@ -7,7 +7,7 @@ I'm in charge of guild territory rent and sales.
 <What is/@info> a guild territory?
 I want to <rent/@rent> a guild territory.
 I want to <go/@move> to my guild territory.
-I want to check the <list/@agitbuy> of guild territories.
+I want to check the <list/@GuildTerritory> of guild territories.
 I want to <trade/@trade> my guild territory.
 
 [@info]
@@ -32,10 +32,6 @@ the rent will be extended for an additional 7 days.
  
 Do you still want to rent a territory? <Rent/@agitreg> <Cancel/@exit>
 
-[@agitreg]
-#ACT
-BUYGT
-
 [@move]
 #SAY
 Then I will teleport you to the territory of you guild.
@@ -57,6 +53,17 @@ purchase the guild territory after reaching agreement,
 use the 'trade' menu of the main screen.
  
 <Back/@main>
+
+[@GuildTerritory]
+#SAY
+Here, you can see all the information about ownership, trades,
+and sales of guild territories at once. If you intend to
+purchase a guild territory from the list, send a 'note'
+to the guild master who owns the territory. And if you wish to
+purchase the guild territory after reaching agreement,
+use the 'trade' menu of the main screen.
+ 
+<Back/@Main>
 
 [@trade]
 #SAY
