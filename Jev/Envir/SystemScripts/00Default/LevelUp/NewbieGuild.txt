@@ -1,20 +1,7 @@
 [@Main]
 {
 #IF
-CHECKNAMELIST NewbieGuild
+INGUILD NewbieGuild
 #ACT
-GOTO @LVLCHK
-
-[@LVLCHK]
-#IF
-LEVEL > 25
-#ACT
-GOTO @Remove
-#ELSEACT
-
-
-[@Remove]
-#ACT
-REMOVEFROMGUILD NewbieGuild
-REMOVENAMELIST NewbieGuild
+REMOVEFROMGUILD
 }

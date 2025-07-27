@@ -27,5 +27,3 @@ Show me the Item you wish to Sell.
 Choose which Item you wish to Disassemble.
  
 <Back/@Main>
-
-[Types]

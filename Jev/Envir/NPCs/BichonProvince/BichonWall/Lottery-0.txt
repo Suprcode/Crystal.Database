@@ -165,8 +165,6 @@ Please come back when you have the funds to gamble.
  
 <Close/@EXIT>
 
-[Types]
-
 [Trade]
 
 [Quests]
